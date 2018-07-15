@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
+    
+    <meta name="description" content="A new Hugo site.">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:domain" content="/">
+    
+    <meta name="twitter:image" content="/tn.png">
+    <meta name="twitter:title" property="og:title" itemprop="title name" content="Wesley Tian">
+    <meta name="twitter:description" property="og:description" itemprop="description" content="A new Hugo site.">
+    <meta name="og:type" content="website">
+    <meta name="og:url" content="/">
+    <meta name="og:image" itemprop="image primaryImageOfPage" content="/tn.png">
+    
+    <title>Hosting Hugo Using GitHub</title>
+    <link rel="shortcut icon" href="/sam.ico" id="favicon">
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
+    
+    
+
+</head>
+
+</html>
+<body><div class="wrap"><div class="section" id="title">Hosting Hugo Using GitHub</div><div class="section" id="content">Sun Jul 15, 2018 &#183; 292 words
+
+<div><span id="tag"><a href="/tags/blog">blog</a></span><span id="tag"><a href="/tags/story">story</a></span></div><hr/><p>In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called <code>public</code> and will be inside of your source repository. This will be done by using a <code>git submodule</code>.</p>
+
+<p>This guide requires you to have git installed, a Hugo website that you can easily clone from it&rsquo;s github repo, and a GitHub account.</p>
+
+<ol>
+<li><p>Create a GitHub repository for your website. Name it <code>&lt;USERNAME&gt;.github.io</code>. All your files neccessary for your website will be stored here.<br />
+Ex: wesleytian.github.io</p></li>
+
+<li><p>Create a Github repository for all of your Hugo source code. Name it anything you like <em>except</em> for <code>&lt;USERNAME&gt;.github.io</code>.<br />
+Ex: blog</p></li>
+
+<li><p>Navigate to a directory where you want your source files to be stored. <code>cd &lt;DIRECTORY&gt;</code> <code>git clone &lt;SOURCE_REPO_URL&gt;</code><br />
+Ex: <code>cd webdev</code><br />
+<code>git clone https://github.com/wesleytian/blog.git</code></p></li>
+
+<li><p>Change directory to the repository you just cloned. <code>cd &lt;SOURCE&gt;</code><br />
+Ex: <code>cd blog</code></p></li>
+
+<li><p><code>git submodule add -b master &lt;WEBSITE_REPO_URL&gt; public</code><br />
+Ex: <code>git submodule add -b master https://github.com/wesleytian/wesleytian.github.io.git public</code></p></li>
+
+<li><p>Copy all of your Hugo source files into the source folder except the public folder.</p></li>
+
+<li><p>Create a script based on <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script">https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script</a>
+and run <code>./deploy.sh &quot;Optional commit message&quot;</code>. Do both of these steps in your source folder.</p></li>
+
+<li><p>You are now done! You should now be able to access your website through <a href="https://USERNAME.github.io/">https://USERNAME.github.io/</a></p></li>
+
+<li><p>Note that your website is now up to date in the <USERNAME>.github.io repo, but your source files have not yet been added, committed, and pushed to GitHub. To do so, simply type <code>git add . &amp;&amp; git commit -m &quot;commit message&quot; &amp;&amp; git push origin master</code></p></li>
+</ol>
+
+<p>Note: This guide is based off of <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/#step-by-step-instructions">https://gohugo.io/hosting-and-deployment/hosting-on-github/#step-by-step-instructions</a>
+but is more detailed, and includes steps that were missing from the original documentation.</p>
+</div><div class="section bottom-menu"><hr/><p>
+<a href="/posts">back</a>
+ &#183;
+
+
+
+<a href="/posts">writing</a>
+
+
+&#183; <a href="/projects">projects</a>
+&#183; <a href="/cv">cv</a>
+&#183; <a href="/about">who is wesley tian?</a>
+
+&#183; <a href="/">main</a></p></div><div class="section footer">Call me Sam, a theme for Hugo.</div></div></body>
