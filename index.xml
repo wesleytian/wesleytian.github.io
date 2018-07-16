@@ -12,17 +12,6 @@
     
     
     <item>
-      <title>3rd in the World!</title>
-      <link>/projects/assistments/</link>
-      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
-      
-      <guid>/projects/assistments/</guid>
-      <description>Overview:
- Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
-https://devpost.com/software/fashion-filtr</description>
-    </item>
-    
-    <item>
       <title>Another New Site?</title>
       <link>/posts/my-first-post/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
@@ -32,27 +21,6 @@ https://devpost.com/software/fashion-filtr</description>
  I have never really felt satisfied with the overall design and aesthetic of my personal website.
  I haven&amp;rsquo;t made up my mind about starting my blog back up again or not.
   I&amp;rsquo;ve been toying around with Jekyll and Bootstrap recently, and then I found Hugo.</description>
-    </item>
-    
-    <item>
-      <title>Baby Tracker</title>
-      <link>/projects/where-is-my-baby/</link>
-      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
-      
-      <guid>/projects/where-is-my-baby/</guid>
-      <description>Overview:
- Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning with Residual Blocks</title>
-      <link>/projects/residual/</link>
-      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
-      
-      <guid>/projects/residual/</guid>
-      <description>Overview:
- Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
-https://devpost.com/software/fashion-filtr</description>
     </item>
     
     <item>
@@ -66,25 +34,66 @@ This guide requires you to have git installed, a Hugo website that you can easil
     </item>
     
     <item>
-      <title>My Own Cryptocurrency</title>
-      <link>/projects/westcoin/</link>
-      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      <title>Saving Lives with Machine Learning</title>
+      <link>/projects/gvhd/</link>
+      <pubDate>Tue, 15 May 2018 00:14:49 -0400</pubDate>
       
-      <guid>/projects/westcoin/</guid>
-      <description>Overview:
- Cryptocurrency built in Selenium on the Ethereum blockchain. Currently private.  Post in progress.
-https://github.com/wesleytian/WesTCoin</description>
+      <guid>/projects/gvhd/</guid>
+      <description>Summary:
+ Work in progress.  More updates coming soon!</description>
     </item>
     
     <item>
-      <title>A CSP Parser for AISpace</title>
-      <link>/projects/csv-xml/</link>
-      <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
+      <title>Deep Learning with Residual Blocks</title>
+      <link>/projects/residual/</link>
+      <pubDate>Tue, 01 May 2018 00:14:49 -0400</pubDate>
       
-      <guid>/projects/csv-xml/</guid>
+      <guid>/projects/residual/</guid>
+      <description>Summary:
+ Lead team of undergraduate and graduate students to replicate results of the Deep Residual Learning for Image Recognition research paper.  https://arxiv.org/pdf/1512.03385.pdf
+More updates coming soon!</description>
+    </item>
+    
+    <item>
+      <title>My Own Cryptocurrency</title>
+      <link>/projects/westcoin/</link>
+      <pubDate>Thu, 15 Mar 2018 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/westcoin/</guid>
       <description>Overview:
- Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
-https://devpost.com/software/fashion-filtr</description>
+ Cryptocurrency built in Selenium on the Ethereum blockchain.  GitHub Repo: https://github.com/wesleytian/WesTCoin</description>
+    </item>
+    
+    <item>
+      <title>My First Machine Learning Competition</title>
+      <link>/projects/assistments/</link>
+      <pubDate>Fri, 15 Dec 2017 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/assistments/</guid>
+      <description>More updates coming soon!
+Summary:
+ https://sites.google.com/view/assistmentsdatamining/home?authuser=0 Placed 3rd out of 74 research teams. Technologies: Python   The first place winning team of Chun Kit Yeung, Kai Yang, and Dit-yan Yeung is from the Hong Kong University of Science and Technology. They used a state-of- the-art “Deep Knowledge Tracing” model to predict student performance, combined with boosting algorithms. Prof. Yeung said, “It was great to participate in this challenge and to be recognized.</description>
+    </item>
+    
+    <item>
+      <title>Presenting to 3 Senior Vice Presidents of Fidelity Investments</title>
+      <link>/projects/fid-hack/</link>
+      <pubDate>Sat, 15 Jul 2017 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/fid-hack/</guid>
+      <description>More updates coming soon!
+Summary:
+ Helped build an internal interviewer-interviewee scheduler. 6 internal teams competed. Won an $100 Amazon Gift Card.  </description>
+    </item>
+    
+    <item>
+      <title>My First AI</title>
+      <link>/projects/rps/</link>
+      <pubDate>Sun, 14 May 2017 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/rps/</guid>
+      <description>Summary:
+ Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Uses the Bayes Rule. CMPSCI 383 Artificial Intelligence class final project at the University of Massachusetts, Amherst. Technologies: Java   While game theorists showed that everyone playing the game rationally should play as randomly as possible (select paper, rock, and scissors each with 1&amp;frasl;3 probability), people are terrible random number generators.</description>
     </item>
     
     <item>
@@ -93,53 +102,46 @@ https://devpost.com/software/fashion-filtr</description>
       <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
       
       <guid>/projects/fashion-filtr/</guid>
-      <description>Overview:
- Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
-https://devpost.com/software/fashion-filtr</description>
+      <description>More updates coming soon!
+Summary:
+ Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  Devpost: https://devpost.com/software/fashion-filtr</description>
     </item>
     
     <item>
-      <title>My First AI</title>
-      <link>/projects/rps/</link>
-      <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
+      <title>Baby Tracker</title>
+      <link>/projects/where-is-my-baby/</link>
+      <pubDate>Wed, 15 Mar 2017 00:14:49 -0400</pubDate>
       
-      <guid>/projects/rps/</guid>
-      <description>Overview:
- Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
-https://devpost.com/software/fashion-filtr</description>
+      <guid>/projects/where-is-my-baby/</guid>
+      <description>More updates coming soon!
+Summary:
+ Parse Baby Berk&amp;rsquo;s Twitter feed to gather current location of the food truck and display it on a map. Teammates: Phillip Michalowski and Nischal Tamang  </description>
     </item>
     
     <item>
-      <title>Presenting to 3 Senior Vice Presidents of Fidelity Investments</title>
-      <link>/projects/fid-hack/</link>
-      <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
+      <title>A CSP Parser for AISpace</title>
+      <link>/projects/csv-xml/</link>
+      <pubDate>Wed, 15 Feb 2017 00:14:49 -0400</pubDate>
       
-      <guid>/projects/fid-hack/</guid>
-      <description>Overview:
- Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
-https://devpost.com/software/fashion-filtr</description>
-    </item>
-    
-    <item>
-      <title>Saving Lives with Machine Learning</title>
-      <link>/projects/gvhd/</link>
-      <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
-      
-      <guid>/projects/gvhd/</guid>
-      <description>Overview:
- Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
-https://devpost.com/software/fashion-filtr</description>
+      <guid>/projects/csv-xml/</guid>
+      <description>Summary:
+ This script turns a CSV file into a XML file that can be imported into AIspace&amp;rsquo;s Consistency Based CSP Solver. Built using Python.  The Consistency Based CSP Solver: http://www.aispace.org/downloads.shtml GitHub Repo: https://github.com/wesleytian/csv-xml-csp
+More updates coming soon!</description>
     </item>
     
     <item>
       <title>$100,000 in Annual Revenue?!</title>
       <link>/projects/wesley-remote/</link>
-      <pubDate>Fri, 15 Jul 2016 00:14:49 -0400</pubDate>
+      <pubDate>Thu, 15 Sep 2016 00:14:49 -0400</pubDate>
       
       <guid>/projects/wesley-remote/</guid>
-      <description>Overview:
- Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
-https://devpost.com/software/fashion-filtr</description>
+      <description>More content coming soon!
+The Problem The Solution v0.9 v1.0 The Software Buy one here! https://rayshobby.net/wordpress/opensprinkler-bee/
+GitHub Repos:
+Hardware: https://github.com/wesleytian/programmable-thermostat-hw
+Firmware: https://github.com/wesleytian/thermostat-pro
+Library: https://github.com/wesleytian/thermostat-pro-library
+Mobile App: https://github.com/wesleytian/thermostat-pro-ionic</description>
     </item>
     
     <item>
