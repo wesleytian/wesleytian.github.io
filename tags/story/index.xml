@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>3rd in the World!</title>
+      <link>/projects/assistments/</link>
+      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/assistments/</guid>
+      <description>Overview:
+ Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
+https://devpost.com/software/fashion-filtr</description>
+    </item>
+    
+    <item>
       <title>Another New Site?</title>
       <link>/posts/my-first-post/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
@@ -24,6 +35,27 @@
     </item>
     
     <item>
+      <title>Baby Tracker</title>
+      <link>/projects/where-is-my-baby/</link>
+      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/where-is-my-baby/</guid>
+      <description>Overview:
+ Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning with Residual Blocks</title>
+      <link>/projects/residual/</link>
+      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/residual/</guid>
+      <description>Overview:
+ Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
+https://devpost.com/software/fashion-filtr</description>
+    </item>
+    
+    <item>
       <title>Hosting Hugo Using GitHub</title>
       <link>/posts/a-better-hugo-tutorial/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
@@ -31,6 +63,83 @@
       <guid>/posts/a-better-hugo-tutorial/</guid>
       <description>In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called public and will be inside of your source repository. This will be done by using a git submodule.
 This guide requires you to have git installed, a Hugo website that you can easily clone from it&amp;rsquo;s github repo, and a GitHub account.</description>
+    </item>
+    
+    <item>
+      <title>My Own Cryptocurrency</title>
+      <link>/projects/westcoin/</link>
+      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/westcoin/</guid>
+      <description>Overview:
+ Cryptocurrency built in Selenium on the Ethereum blockchain. Currently private.  Post in progress.
+https://github.com/wesleytian/WesTCoin</description>
+    </item>
+    
+    <item>
+      <title>A CSP Parser for AISpace</title>
+      <link>/projects/csv-xml/</link>
+      <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/csv-xml/</guid>
+      <description>Overview:
+ Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
+https://devpost.com/software/fashion-filtr</description>
+    </item>
+    
+    <item>
+      <title>I Won $2000</title>
+      <link>/projects/fashion-filtr/</link>
+      <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/fashion-filtr/</guid>
+      <description>Overview:
+ Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
+https://devpost.com/software/fashion-filtr</description>
+    </item>
+    
+    <item>
+      <title>My First AI</title>
+      <link>/projects/rps/</link>
+      <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/rps/</guid>
+      <description>Overview:
+ Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
+https://devpost.com/software/fashion-filtr</description>
+    </item>
+    
+    <item>
+      <title>Presenting to 3 Senior Vice Presidents of Fidelity Investments</title>
+      <link>/projects/fid-hack/</link>
+      <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/fid-hack/</guid>
+      <description>Overview:
+ Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
+https://devpost.com/software/fashion-filtr</description>
+    </item>
+    
+    <item>
+      <title>Saving Lives with Machine Learning</title>
+      <link>/projects/gvhd/</link>
+      <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/gvhd/</guid>
+      <description>Overview:
+ Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
+https://devpost.com/software/fashion-filtr</description>
+    </item>
+    
+    <item>
+      <title>$100,000 in Annual Revenue?!</title>
+      <link>/projects/wesley-remote/</link>
+      <pubDate>Fri, 15 Jul 2016 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/wesley-remote/</guid>
+      <description>Overview:
+ Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits  In progress.
+https://devpost.com/software/fashion-filtr</description>
     </item>
     
   </channel>
