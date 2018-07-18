@@ -21,7 +21,7 @@
     <meta name="og:url" content="/">
     <meta name="og:image" itemprop="image primaryImageOfPage" content="/tn.png">
     
-    <title>My First AI</title>
+    <title>Rock, Paper, Scissors AI</title>
     <link rel="shortcut icon" href="/sam.ico" id="favicon">
     <link rel="stylesheet" href="/css/style.css">
     
@@ -44,37 +44,52 @@
 </head>
 
 </html>
-<body><div class="wrap"><div class="section" id="title">My First AI</div><div class="section" id="content"><p>Summary:</p>
+<body><div class="wrap"><div class="section" id="title">Rock, Paper, Scissors AI</div><div class="section" id="content">
+
+<p>Summary:</p>
 
 <ul>
 <li>Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Uses the Bayes Rule.</li>
-<li>CMPSCI 383 Artificial Intelligence class final project at the University of Massachusetts, Amherst.</li>
-<li>Technologies: Java</li>
+<li>Uses: Java</li>
 </ul>
 
-<blockquote>
-<p>While game theorists showed that everyone playing the game rationally should play as randomly as possible (select paper, rock, and scissors each with <sup>1</sup>&frasl;<sub>3</sub> probability), people are terrible random number generators. If a person makes a sequence of random numbers, then conditioning a number in the sequence based on a few of the past numbers often reveals a pattern that is not random! That is, the computer can predict the next move of an opponent after watching them play for several rounds, keeping track of subsequences of choices.</p>
-</blockquote>
+<h3 id="table-of-contents">Table of Contents</h3>
 
-<p><em>More: <a href="https://en.wikipedia.org/wiki/Rock–paper–scissors">https://en.wikipedia.org/wiki/Rock–paper–scissors</a></em></p>
+<p>Context<br />
+What I Learned<br />
+How it Works<br />
+Operating Instructions</p>
 
-<p><strong>Myth: Rock-Paper-Scissors is a trivial game.</strong></p>
+<h4 id="context">Context:</h4>
 
-<blockquote>
-<p>Sure, the game has a simple optimal strategy (choose a move uniformly at random), but that has little bearing on the problem at hand. First, not all the players are optimal. This changes everything. To win a tournament where some players are known to be sub-optimal, it is absolutely essential to try to detect patterns and tendencies in the play of the opponent, and then employ an appropriate counter-strategy. A match consists of several turns, and this changes the nature of the game, as was seen in the famous Iterated Prisoner&rsquo;s Dilemma problem.</p>
+<h4 id="what-i-learned">What I Learned:</h4>
 
-<p>A good predictive algorithm will be able to play RoShamBo very well, without being explicitly programmed to solve that task. A few applications of such algorithms are data compression, grammatical inference, speech recognition, data mining, natural language understanding, syntactic pattern recognition, speech segmentation, machine translation, text generation, spelling correction, author identification, email classification, image recognition, stock market analysis, finding structure in data, analysis of DNA sequences, analysis of music, input methods for disabled users, and playing RoShamBo!</p>
-</blockquote>
+<h4 id="how-it-works">How it Works:</h4>
 
-<p><strong>Myth: Random (Optimal) can&rsquo;t be beat.</strong></p>
+<h4 id="operating-instructions">Operating Instructions:</h4>
 
-<blockquote>
-<p>The optimal strategy won&rsquo;t lose a match by a statistically significant margin, but it also won&rsquo;t win a match, regardless of how predictable the opponent is. Try winning a chess tournament by drawing every game!</p>
+<ol>
+<li><p>Clone the file.<br />
+<code>git clone https://github.com/wesleytian/roshambo-god</code></p></li>
 
-<p>Moreover, the statement isn&rsquo;t even true in a more fundamental sense. Opportunistic strategies can be theoretically better, having positive expectation under more realistic assumptions. People interested in advanced game theory may enjoy the recent book &ldquo;The Theory of Learning in Games&rdquo; by Fudenberg and Levine.</p>
-</blockquote>
+<li><p>Navigate to the cloned repository.<br />
+<code>cd roshambo-god</code></p></li>
 
-<p><em>More: <a href="http://webdocs.cs.ualberta.ca/~darse/rsb-results1.html">http://webdocs.cs.ualberta.ca/~darse/rsb-results1.html</a></em></p>
+<li><p>Compile the file.<br />
+<code>javac rocpapsci.java</code></p></li>
+
+<li><p>Run the executable where <code>K</code> is an integer that represents the short-term memory you want your AI to have. If the value is very large, you will need to play at least <code>K</code> rounds before the AI has enough of a history to play you.<br />
+<code>java rocpapsci &lt;K&gt;</code><br />
+Ex:<br />
+<code>java rocpapsci 2</code></p></li>
+
+<li><p>Continously play rock, paper, or scissors, where 0 represents rock, 1 represents paper, and 2 represents scissors. The AI cannot handle any other input. Remember that you must play at least <code>K</code> rounds before the AI has enough history to play you back.<br />
+<code>&lt;VALUE&gt;</code><br />
+Ex:<br />
+<code>0</code><br />
+<code>2</code><br />
+<code>1</code></p></li>
+</ol>
 
 <p>GitHub Repo: <a href="https://github.com/wesleytian/roshambo-god">https://github.com/wesleytian/roshambo-god</a></p>
 </div><div class="section bottom-menu"><hr/><p>

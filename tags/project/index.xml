@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Wesley Tian</title>
+    <link>/tags/project/</link>
+    <description>Recent content in Project on Wesley Tian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 May 2017 00:14:49 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rock, Paper, Scissors AI</title>
+      <link>/projects/rps/</link>
+      <pubDate>Sun, 14 May 2017 00:14:49 -0400</pubDate>
+      
+      <guid>/projects/rps/</guid>
+      <description>Summary:
+ Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Uses the Bayes Rule. Uses: Java  Table of Contents Context
+What I Learned
+How it Works
+Operating Instructions
+Context: What I Learned: How it Works: Operating Instructions:  Clone the file.
+git clone https://github.com/wesleytian/roshambo-god
+ Navigate to the cloned repository.
+cd roshambo-god
+ Compile the file.</description>
+    </item>
+    
+  </channel>
+</rss>
