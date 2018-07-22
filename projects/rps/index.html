@@ -21,7 +21,7 @@
     <meta name="og:url" content="/">
     <meta name="og:image" itemprop="image primaryImageOfPage" content="/tn.png">
     
-    <title>Rock, Paper, Scissors AI</title>
+    <title>My First AI - A Rock, Paper, Scissors Bot </title>
     <link rel="shortcut icon" href="/sam.ico" id="favicon">
     <link rel="stylesheet" href="/css/style.css">
     
@@ -44,27 +44,27 @@
 </head>
 
 </html>
-<body><div class="wrap"><div class="section" id="title">Rock, Paper, Scissors AI</div><div class="section" id="content">
+<body><div class="wrap"><div class="section" id="title">My First AI - A Rock, Paper, Scissors Bot </div><div class="section" id="content">
 
-<p>Summary:</p>
+<h4 id="summary">Summary:</h4>
 
 <ul>
-<li>Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Uses the Bayes Rule.</li>
-<li>Uses: Java</li>
+<li>Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors.</li>
+<li>Built in Java.</li>
+<li>Uses Bayesian statistics.</li>
 </ul>
 
-<h3 id="table-of-contents">Table of Contents</h3>
+<h4 id="why-did-i-build-this">Why Did I Build This?</h4>
 
-<p>Context<br />
-What I Learned<br />
-How it Works<br />
-Operating Instructions</p>
+<p>This project was built to showcase an AI technique that I learned from my AI course at the University of Massachusetts, Amherst.</p>
 
-<h4 id="context">Context:</h4>
+<h4 id="how-did-i-build-this">How Did I Build This?</h4>
 
-<h4 id="what-i-learned">What I Learned:</h4>
+<p>This project is built in Java and uses simple Bayesian statistics to predict the player&rsquo;s next move by calculating the probability the player&rsquo;s next move based on all previous moves and based on his/her previous <code>K</code> moves.</p>
 
-<h4 id="how-it-works">How it Works:</h4>
+<h4 id="what-did-i-learn-from-building-this">What Did I Learn From Building This?</h4>
+
+<p>Through building this, I realized that AI programs can be very simple under the hood. This project took me roughly a day of planning and an entire day of coding, yet performs decently well when facing human players. The reason for this is that humans are actually very bad at generating randomness. Everything we do follows some sort of pattern and one thing computers are good at is keeping track of what the player has done.</p>
 
 <h4 id="operating-instructions">Operating Instructions:</h4>
 
@@ -85,10 +85,12 @@ Ex:<br />
 
 <li><p>Continously play rock, paper, or scissors, where 0 represents rock, 1 represents paper, and 2 represents scissors. The AI cannot handle any other input. Remember that you must play at least <code>K</code> rounds before the AI has enough history to play you back.<br />
 <code>&lt;VALUE&gt;</code><br />
-Ex:<br />
-<code>0</code><br />
-<code>2</code><br />
-<code>1</code></p></li>
+Ex:</p>
+
+<pre><code>0  
+2  
+1
+</code></pre></li>
 </ol>
 
 <p>GitHub Repo: <a href="https://github.com/wesleytian/roshambo-god">https://github.com/wesleytian/roshambo-god</a></p>

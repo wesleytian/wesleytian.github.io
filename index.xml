@@ -49,7 +49,7 @@ This guide requires you to have git installed, a Hugo website that you can easil
       
       <guid>/projects/gvhd/</guid>
       <description>Summary:
- Work in progress. Teammates: Shengpu Tang, Dr. Jenna Wiens  More updates coming soon!</description>
+ Work in progress. Teammates: Shengpu Tang, Dr. Jenna Wiens  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? Operating Instructions: More updates coming soon!</description>
     </item>
     
     <item>
@@ -58,8 +58,7 @@ This guide requires you to have git installed, a Hugo website that you can easil
       <pubDate>Tue, 01 May 2018 00:14:49 -0400</pubDate>
       
       <guid>/projects/residual/</guid>
-      <description>Summary:
- Lead team of undergraduate and graduate students to replicate results of the Deep Residual Learning for Image Recognition research paper. Team: Cory Laban  https://arxiv.org/pdf/1512.03385.pdf
+      <description>Summary:  Lead team of undergraduate and graduate students to replicate results of the Deep Residual Learning for Image Recognition research paper. Team: Cory Laban  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? Operating Instructions: https://arxiv.org/pdf/1512.03385.pdf
 More updates coming soon!</description>
     </item>
     
@@ -69,8 +68,7 @@ More updates coming soon!</description>
       <pubDate>Thu, 15 Mar 2018 00:14:49 -0400</pubDate>
       
       <guid>/projects/westcoin/</guid>
-      <description>Overview:
- Cryptocurrency built in Selenium on the Ethereum blockchain. Blockchain @ Michigan Workshop  GitHub Repo: https://github.com/wesleytian/WesTCoin</description>
+      <description>Summary:  Cryptocurrency built in Selenium on the Ethereum blockchain. Blockchain @ Michigan Workshop. WesTCoin is currently private and the exchange rate is 1 WesTCoin ~ 1 Ethereum.  Why Did I Build This? The Blockchain @ Michigan club at the University of Michigan was hosting a workshop to teach people how to create their own cryptocurrencies on the Ethereum blockchain. As as a former blockchain and cryptocurrency enthusiast, I couldn&amp;rsquo;t turn down this great opportunity to attend this workshop.</description>
     </item>
     
     <item>
@@ -81,47 +79,35 @@ More updates coming soon!</description>
       <guid>/projects/assistments/</guid>
       <description>More updates coming soon!
 Summary:
- https://sites.google.com/view/assistmentsdatamining/home?authuser=0 Placed 3rd out of 74 research teams. Technologies: Python Teammates: Samuel Tenka   The first place winning team of Chun Kit Yeung, Kai Yang, and Dit-yan Yeung is from the Hong Kong University of Science and Technology. They used a state-of- the-art “Deep Knowledge Tracing” model to predict student performance, combined with boosting algorithms. Prof. Yeung said, “It was great to participate in this challenge and to be recognized.</description>
+ https://sites.google.com/view/assistmentsdatamining/home?authuser=0 Placed 3rd out of 74 research teams. Technologies: Python Teammates: Samuel Tenka  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? Operating Instructions: Source: https://sites.google.com/view/assistmentsdatamining/winners-of-the-2017-competion</description>
     </item>
     
     <item>
-      <title>Presenting to 3 Senior Vice Presidents of Fidelity Investments</title>
+      <title>I Presented to 3 Senior Vice Presidents of Fidelity Investments</title>
       <link>/projects/fid-hack/</link>
       <pubDate>Sat, 15 Jul 2017 00:14:49 -0400</pubDate>
       
       <guid>/projects/fid-hack/</guid>
-      <description>More updates coming soon!
-Summary:
- Helped build an internal interviewer-interviewee scheduler. 6 internal teams competed. 1 won. Won an $100 Amazon Gift Card. Teammates: Mike Super, Akhil Yerra, etc.  </description>
+      <description> Summary:  Helped build an internal interviewer-interviewee scheduler. 6 competing teams. Teammates: Mike Super, Akhil Yerra, etc.  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? Operating Instructions: </description>
     </item>
     
     <item>
-      <title>Rock, Paper, Scissors AI</title>
+      <title>My First AI - A Rock, Paper, Scissors Bot </title>
       <link>/projects/rps/</link>
       <pubDate>Sun, 14 May 2017 00:14:49 -0400</pubDate>
       
       <guid>/projects/rps/</guid>
-      <description>Summary:
- Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Uses the Bayes Rule. Uses: Java  Table of Contents Context
-What I Learned
-How it Works
-Operating Instructions
-Context: What I Learned: How it Works: Operating Instructions:  Clone the file.
-git clone https://github.com/wesleytian/roshambo-god
- Navigate to the cloned repository.
-cd roshambo-god
- Compile the file.</description>
+      <description>Summary:  Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Built in Java. Uses Bayesian statistics.  Why Did I Build This? This project was built to showcase an AI technique that I learned from my AI course at the University of Massachusetts, Amherst.
+How Did I Build This? This project is built in Java and uses simple Bayesian statistics to predict the player&amp;rsquo;s next move by calculating the probability the player&amp;rsquo;s next move based on all previous moves and based on his/her previous K moves.</description>
     </item>
     
     <item>
-      <title>I Won $2000</title>
+      <title>How We Won $6000 at Our First Hackathon</title>
       <link>/projects/fashion-filtr/</link>
       <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
       
       <guid>/projects/fashion-filtr/</guid>
-      <description>More updates coming soon!
-Summary:
- Submitted to Hamp Hack 2017 Won most creative use of Indico API Awarded $2000/team member in API credits Teammates: Nischal Tamang and Phillip Michalowski  Devpost: https://devpost.com/software/fashion-filtr</description>
+      <description>Summary:  Won most creative use of Indico API at Hamp Hack 2017. Awarded $2000/team member in API credits. Teammates: Nischal Tamang and Phillip Michalowski.  Why Did We Build This? Usually, project ideas are either spawned from day-to-day life or assigned. However, since we decided to go to a hackathon without any preplanning, we had to come up with an idea on the spot. I think this usually works pretty well, because you don&amp;rsquo;t actually know what the prizes are and that is what usually dictates what you are building.</description>
     </item>
     
     <item>
@@ -130,9 +116,9 @@ Summary:
       <pubDate>Wed, 15 Mar 2017 00:14:49 -0400</pubDate>
       
       <guid>/projects/where-is-my-baby/</guid>
-      <description>More updates coming soon!
+      <description> More updates coming soon!
 Summary:
- Parse Baby Berk&amp;rsquo;s Twitter feed to gather current location of the food truck and display it on a map. Teammates: Phillip Michalowski and Nischal Tamang  </description>
+ Parse Baby Berk&amp;rsquo;s Twitter feed to gather current location of the food truck and display it on a map. Teammates: Phillip Michalowski and Nischal Tamang  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? Operating Instructions: </description>
     </item>
     
     <item>
@@ -142,7 +128,7 @@ Summary:
       
       <guid>/projects/csv-xml/</guid>
       <description>Summary:
- This script turns a CSV file into a XML file that can be imported into AIspace&amp;rsquo;s Consistency Based CSP Solver. Built using Python.  The Consistency Based CSP Solver: http://www.aispace.org/downloads.shtml GitHub Repo: https://github.com/wesleytian/csv-xml-csp
+ This script turns a CSV file into a XML file that can be imported into AIspace&amp;rsquo;s Consistency Based CSP Solver. Built using Python.  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? Operating Instructions: The Consistency Based CSP Solver: http://www.aispace.org/downloads.shtml GitHub Repo: https://github.com/wesleytian/csv-xml-csp
 More updates coming soon!</description>
     </item>
     

@@ -12,21 +12,13 @@
     
     
     <item>
-      <title>Rock, Paper, Scissors AI</title>
+      <title>My First AI - A Rock, Paper, Scissors Bot </title>
       <link>/projects/rps/</link>
       <pubDate>Sun, 14 May 2017 00:14:49 -0400</pubDate>
       
       <guid>/projects/rps/</guid>
-      <description>Summary:
- Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Uses the Bayes Rule. Uses: Java  Table of Contents Context
-What I Learned
-How it Works
-Operating Instructions
-Context: What I Learned: How it Works: Operating Instructions:  Clone the file.
-git clone https://github.com/wesleytian/roshambo-god
- Navigate to the cloned repository.
-cd roshambo-god
- Compile the file.</description>
+      <description>Summary:  Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Built in Java. Uses Bayesian statistics.  Why Did I Build This? This project was built to showcase an AI technique that I learned from my AI course at the University of Massachusetts, Amherst.
+How Did I Build This? This project is built in Java and uses simple Bayesian statistics to predict the player&amp;rsquo;s next move by calculating the probability the player&amp;rsquo;s next move based on all previous moves and based on his/her previous K moves.</description>
     </item>
     
   </channel>
