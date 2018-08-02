@@ -17,8 +17,8 @@
       <pubDate>Wed, 25 Jul 2018 00:14:49 -0400</pubDate>
       
       <guid>/posts/swe/</guid>
-      <description>I&amp;rsquo;ve recently learned some interesting things about being a software engineer which you don&amp;rsquo;t really learn in school at all. The skills you learn as a SWE are totally disjoint from the set of skills that you gain from your classes.
-1. Nobody knows the answer. But it&amp;rsquo;s out there somewhere. It&amp;rsquo;s up to you and only you to figure it out. That&amp;rsquo;s what the company is paying you to do.</description>
+      <description>I&amp;rsquo;ve recently learned some interesting things about being a software engineer that you don&amp;rsquo;t really learn in school at all. The skills you learn as a SWE are totally disjoint from the skills that you learn from your classes.
+1. Nobody knows the answer. But it&amp;rsquo;s out there somewhere. It&amp;rsquo;s up to you and only you to figure it out. That&amp;rsquo;s what the company is paying you to do. Problem-solve.</description>
     </item>
     
     <item>
@@ -44,26 +44,6 @@ This guide requires you to have git installed, a Hugo website that you can easil
     </item>
     
     <item>
-      <title>Saving Lives with Machine Learning</title>
-      <link>/projects/gvhd/</link>
-      <pubDate>Tue, 15 May 2018 00:14:49 -0400</pubDate>
-      
-      <guid>/projects/gvhd/</guid>
-      <description>Summary:
- Work in progress. Teammates: Shengpu Tang, Dr. Jenna Wiens  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? Operating Instructions: More updates coming soon!</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning with Residual Blocks</title>
-      <link>/projects/residual/</link>
-      <pubDate>Tue, 01 May 2018 00:14:49 -0400</pubDate>
-      
-      <guid>/projects/residual/</guid>
-      <description>Summary:  Lead team of undergraduate and graduate students to replicate results of the Deep Residual Learning for Image Recognition research paper. Team: Cory Laban  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? https://arxiv.org/pdf/1512.03385.pdf
-More updates coming soon!</description>
-    </item>
-    
-    <item>
       <title>My Own Cryptocurrency</title>
       <link>/projects/westcoin/</link>
       <pubDate>Thu, 15 Mar 2018 00:14:49 -0400</pubDate>
@@ -73,54 +53,12 @@ More updates coming soon!</description>
     </item>
     
     <item>
-      <title>My First Machine Learning Competition</title>
-      <link>/projects/assistments/</link>
-      <pubDate>Fri, 15 Dec 2017 00:14:49 -0400</pubDate>
-      
-      <guid>/projects/assistments/</guid>
-      <description>More updates coming soon!
-Summary:
- https://sites.google.com/view/assistmentsdatamining/home?authuser=0 Placed 3rd out of 74 research teams. Technologies: Python Teammates: Samuel Tenka  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? Operating Instructions: Source: https://sites.google.com/view/assistmentsdatamining/winners-of-the-2017-competion</description>
-    </item>
-    
-    <item>
-      <title>I Presented to 3 Senior Vice Presidents of Fidelity Investments</title>
-      <link>/projects/fid-hack/</link>
-      <pubDate>Sat, 15 Jul 2017 00:14:49 -0400</pubDate>
-      
-      <guid>/projects/fid-hack/</guid>
-      <description> Summary:  Helped build an internal interviewer-interviewee scheduler. 6 competing teams. Teammates: Mike Super, Akhil Yerra, etc.  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? Operating Instructions: </description>
-    </item>
-    
-    <item>
       <title>How We Won $6000 at Our First Hackathon</title>
       <link>/projects/fashion-filtr/</link>
       <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
       
       <guid>/projects/fashion-filtr/</guid>
       <description>Summary:  Won most creative use of Indico API at Hamp Hack 2017. Awarded $2000/team member in API credits. Teammates: Nischal Tamang and Phillip Michalowski.  Why Did We Build This? Usually, project ideas are either spawned from day-to-day life or assigned. However, since we decided to go to a hackathon without any preplanning, we had to come up with an idea on the spot. I think this usually works pretty well, because you don&amp;rsquo;t actually know what the prizes are and that is what usually dictates what you are building.</description>
-    </item>
-    
-    <item>
-      <title>Baby Tracker</title>
-      <link>/projects/where-is-my-baby/</link>
-      <pubDate>Wed, 15 Mar 2017 00:14:49 -0400</pubDate>
-      
-      <guid>/projects/where-is-my-baby/</guid>
-      <description> More updates coming soon!
-Summary:
- Parse Baby Berk&amp;rsquo;s Twitter feed to gather current location of the food truck and display it on a map. Teammates: Phillip Michalowski and Nischal Tamang  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? Operating Instructions: </description>
-    </item>
-    
-    <item>
-      <title>A CSP Parser for AISpace</title>
-      <link>/projects/csv-xml/</link>
-      <pubDate>Wed, 15 Feb 2017 00:14:49 -0400</pubDate>
-      
-      <guid>/projects/csv-xml/</guid>
-      <description>Summary:
- This script turns a CSV file into a XML file that can be imported into AIspace&amp;rsquo;s Consistency Based CSP Solver. Built using Python.  Why Did I Build This? How Did I Build This? What Did I Learn From Building This? Operating Instructions: The Consistency Based CSP Solver: http://www.aispace.org/downloads.shtml GitHub Repo: https://github.com/wesleytian/csv-xml-csp
-More updates coming soon!</description>
     </item>
     
     <item>
