@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
+    
+    <meta name="description" content="A new Hugo site.">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:domain" content="/">
+    
+    <meta name="twitter:image" content="/tn.png">
+    <meta name="twitter:title" property="og:title" itemprop="title name" content="Wesley Tian">
+    <meta name="twitter:description" property="og:description" itemprop="description" content="A new Hugo site.">
+    <meta name="og:type" content="website">
+    <meta name="og:url" content="/">
+    <meta name="og:image" itemprop="image primaryImageOfPage" content="/tn.png">
+    
+    <title>Super Linux Warp Pipe</title>
+    <link rel="shortcut icon" href="/sam.ico" id="favicon">
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic">
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
+    
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-89706210-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-89706210-1');
+    </script>
+    
+
+</head>
+
+</html>
+<body><div class="wrap"><div class="section" id="title">Super Linux Warp Pipe</div><div class="section" id="content">Tue Jul 24, 2018 &#183; 319 words
+
+<div><span id="tag"><a href="/tags/blog">blog</a></span><span id="tag"><a href="/tags/story">story</a></span></div><hr/><p>Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.</p>
+
+<p>This is a simplified version of what the input looked like:</p>
+
+<hr />
+
+<pre><code>Where is the { FRUIT apple } ?
+Is the { PLANT tree } within the ground ?
+The { FRUIT banana } ate some { FRUIT banana } .
+</code></pre>
+
+<hr />
+
+<p>If I wanted to look for the frequency of words only with the <code>FRUIT</code> label, then the intended output should look like:</p>
+
+<hr />
+
+<pre><code>2 banana
+1 apple
+</code></pre>
+
+<hr />
+
+<p>To prevent a breach of confidentiality, I have replaced the actual words with something else.</p>
+
+<p>The command that ended up doing the trick was:</p>
+
+<hr />
+
+<pre><code>cat input_file | grep -o -P '(?&lt;={ FRUIT).*?(?= })' | grep -v &quot;^\s$&quot; | sort | uniq -c | sort -bnr &gt; output_file
+</code></pre>
+
+<hr />
+
+<p>Below, I will break down what each part does. I will cover the following commands and flags: <code>grep -o -P -v</code>, <code>sort -bnr</code>, and <code>uniq -c</code>. I&rsquo;ll cover regular expressions (regex) in another post.</p>
+
+<p><code>grep -o</code> or <code>grep --only-matching</code> basically matches and prints out only the matched phrase. For example, since I wanted to count the number of occurrences of each of these words or phrases, I wanted to not only search for the words between <code>{ FRUIT</code>  and <code>}</code>, but print them out.</p>
+
+<p><code>grep -P</code> or <code>grep --perl-regexp</code> is pretty self-explanatory. It allows you to specify a Perl regex.</p>
+
+<p><code>grep -v</code> or <code>grep --inverse-match</code> selects lines that don&rsquo;t match the regex. It&rsquo;s the negation of standard grep.</p>
+
+<p><code>uniq -c</code> or <code>uniq --count</code> prefixes each line with the number of occurrences of each phrase or word.</p>
+
+<p><code>sort -b</code> or <code>sort --ignore-leading-blanks</code> ignores leading blanks. Surprising.</p>
+
+<p><code>sort -n</code> or <code>sort --numeric-sort</code> sorts in ascending numerical order. (0, 1, 2, &hellip; 9)</p>
+
+<p><code>sort -r</code> or <code>sort --reverse</code> reverses the sort.</p>
+</div><div class="section bottom-menu"><hr/><p>
+<a href="/posts">back</a>
+ &#183;
+
+
+
+<a href="/posts">writing</a>
+
+
+&#183; <a href="/projects">projects</a>
+&#183; <a href="/cv">cv</a>
+&#183; <a href="/about">who is wesley tian?</a>
+
+&#183; <a href="/">main</a></p></div><div class="section footer">Built with love, using Hugo.</div></div></body>

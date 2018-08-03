@@ -23,6 +23,17 @@ When my internship first started, I rapidly shot questions at my mentor, full-ti
     </item>
     
     <item>
+      <title>Super Linux Warp Pipe</title>
+      <link>/posts/pipe/</link>
+      <pubDate>Tue, 24 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>/posts/pipe/</guid>
+      <description>Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.
+This is a simplified version of what the input looked like:
+Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { FRUIT banana } ate some { FRUIT banana } .</description>
+    </item>
+    
+    <item>
       <title>Another New Site?</title>
       <link>/posts/another-new-site/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
