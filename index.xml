@@ -6,10 +6,19 @@
     <description>Recent content on Wesley Tian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Aug 2018 00:14:49 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jan 2019 00:21:56 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A New Chapter</title>
+      <link>/posts/a-new-chapter/</link>
+      <pubDate>Thu, 17 Jan 2019 00:21:56 -0400</pubDate>
+      
+      <guid>/posts/a-new-chapter/</guid>
+      <description>Like many of you, I spent this past break visiting family. Every few years or so, I make the effort to visit my dad&amp;rsquo;s side of the family in southern China. The last time I visited was over three years ago. During this time, I read countless articles about China&amp;rsquo;s insane economic development, advances in artificial intelligence, and new social credit system that looks like something that came out of a Black Mirror episode.</description>
+    </item>
     
     <item>
       <title>More Information is Not Always Good</title>
@@ -49,7 +58,7 @@ Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { F
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
       
       <guid>/posts/another-new-site/</guid>
-      <description>So, it seems like every few months I&amp;rsquo;ve been feeling discontent with my personal website, thus prompting me to overhaul my website over and over again. This frequent overhauling can be boiled down to two reasons.
+      <description>So, it seems like every few months I&amp;rsquo;ve been feeling discontent with my personal website, thus prompting me to rehaul my website over and over again. This frequent rehauling can be boiled down to two reasons.
  I have never really felt satisfied with the overall design and aesthetic of my personal website.
  I haven&amp;rsquo;t made up my mind about starting my blog back up again or not.
   I&amp;rsquo;ve been toying around with Jekyll and Bootstrap recently, and then I found Hugo.</description>
@@ -61,8 +70,8 @@ Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { F
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
       
       <guid>/posts/a-better-hugo-tutorial/</guid>
-      <description>In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files necessary to view your website. The website repo is called public and will be inside of your source repository. This will be done by using a git submodule.
-This guide requires you to have git installed, a Hugo website that you can easily clone from it&amp;rsquo;s GitHub repo, and a GitHub account.</description>
+      <description>In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called public and will be inside of your source repository. This will be done by using a git submodule.
+This guide requires you to have git installed, a Hugo website that you can easily clone from it&amp;rsquo;s github repo, and a GitHub account.</description>
     </item>
     
     <item>
