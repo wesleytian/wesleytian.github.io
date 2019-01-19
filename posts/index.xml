@@ -64,5 +64,15 @@ Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { F
   I&amp;rsquo;ve been toying around with Jekyll and Bootstrap recently, and then I found Hugo.</description>
     </item>
     
+    <item>
+      <title>Hosting Hugo Using GitHub</title>
+      <link>/posts/a-better-hugo-tutorial/</link>
+      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>/posts/a-better-hugo-tutorial/</guid>
+      <description>In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called public and will be inside of your source repository. This will be done by using a git submodule.
+This guide requires you to have git installed, a Hugo website that you can easily clone from it&amp;rsquo;s github repo, and a GitHub account.</description>
+    </item>
+    
   </channel>
 </rss>
