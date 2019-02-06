@@ -1,50 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Wesley Tian</title>
-    <link>/projects/</link>
-    <description>Recent content in Projects on Wesley Tian</description>
+    <title>Projects on Wesley T.</title>
+    <link>https://www.example.com/projects/</link>
+    <description>Recent content in Projects on Wesley T.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>&amp;copy; Wesley Tian 2019</copyright>
     <lastBuildDate>Thu, 15 Mar 2018 00:14:49 -0400</lastBuildDate>
     
-	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.example.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Own Cryptocurrency</title>
-      <link>/projects/westcoin/</link>
+      <link>https://www.example.com/projects/westcoin/</link>
       <pubDate>Thu, 15 Mar 2018 00:14:49 -0400</pubDate>
       
-      <guid>/projects/westcoin/</guid>
+      <guid>https://www.example.com/projects/westcoin/</guid>
       <description>Summary:  Cryptocurrency built in Selenium on the Ethereum blockchain. Blockchain @ Michigan Workshop. WesTCoin is currently private and the exchange rate is 1 WesTCoin ~ 1 Ethereum.  Why Did I Build This? The Blockchain @ Michigan club at the University of Michigan was hosting a workshop to teach people how to create their own cryptocurrencies on the Ethereum blockchain. As as a former blockchain and cryptocurrency enthusiast, I couldn&amp;rsquo;t turn down this great opportunity to attend this workshop.</description>
     </item>
     
     <item>
       <title>My First AI - A Rock, Paper, Scissors Bot </title>
-      <link>/projects/rps/</link>
+      <link>https://www.example.com/projects/rps/</link>
       <pubDate>Sun, 14 May 2017 00:14:49 -0400</pubDate>
       
-      <guid>/projects/rps/</guid>
+      <guid>https://www.example.com/projects/rps/</guid>
       <description>Summary:  Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Built in Java. Uses Bayesian statistics.  Why Did I Build This? This project was built to showcase an AI technique that I learned from my AI course at the University of Massachusetts, Amherst.
 How Did I Build This? This project is built in Java and uses simple Bayesian statistics to predict the player&amp;rsquo;s next move by calculating the probability the player&amp;rsquo;s next move based on all previous moves and based on his/her previous K moves.</description>
     </item>
     
     <item>
       <title>How We Won $6000 at Our First Hackathon</title>
-      <link>/projects/fashion-filtr/</link>
+      <link>https://www.example.com/projects/fashion-filtr/</link>
       <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
       
-      <guid>/projects/fashion-filtr/</guid>
+      <guid>https://www.example.com/projects/fashion-filtr/</guid>
       <description>Summary:  Won most creative use of Indico API at Hamp Hack 2017. Awarded $2000/team member in API credits. Teammates: Nischal Tamang and Phillip Michalowski.  Why Did We Build This? Usually, project ideas are either spawned from day-to-day life or assigned. However, since we decided to go to a hackathon without any preplanning, we had to come up with an idea on the spot. I think this usually works pretty well, because you don&amp;rsquo;t actually know what the prizes are and that is what usually dictates what you are building.</description>
     </item>
     
     <item>
       <title>$100,000 in Annual Revenue?!</title>
-      <link>/projects/wesley-remote/</link>
+      <link>https://www.example.com/projects/wesley-remote/</link>
       <pubDate>Thu, 15 Sep 2016 00:14:49 -0400</pubDate>
       
-      <guid>/projects/wesley-remote/</guid>
+      <guid>https://www.example.com/projects/wesley-remote/</guid>
       <description>Summary:  Big thanks to Dr. Rui Wang for funding me the neccessary resources to build this project!  More content coming soon!
 The Problem The Solution v0.9 v1.0 The Software Buy one here! https://rayshobby.net/wordpress/opensprinkler-bee/
 GitHub Repos:

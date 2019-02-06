@@ -1,41 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Wesley Tian</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Wesley Tian</description>
+    <title>Posts on Wesley T.</title>
+    <link>https://www.example.com/posts/</link>
+    <description>Recent content in Posts on Wesley T.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>&amp;copy; Wesley Tian 2019</copyright>
     <lastBuildDate>Thu, 17 Jan 2019 00:21:56 -0400</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A New Chapter</title>
-      <link>/posts/a-new-chapter/</link>
+      <link>https://www.example.com/posts/a-new-chapter/</link>
       <pubDate>Thu, 17 Jan 2019 00:21:56 -0400</pubDate>
       
-      <guid>/posts/a-new-chapter/</guid>
+      <guid>https://www.example.com/posts/a-new-chapter/</guid>
       <description>Like many of you, I spent this past break visiting family. Every few years or so, I make the effort to visit my dad&amp;rsquo;s side of the family in southern China. The last time I visited was over three years ago. During this time, I read countless articles about China&amp;rsquo;s insane economic development, advances in artificial intelligence, and new social credit system that looks like something that came out of a Black Mirror episode.</description>
     </item>
     
     <item>
       <title>More Information is Not Always Good</title>
-      <link>/posts/information/</link>
+      <link>https://www.example.com/posts/information/</link>
       <pubDate>Thu, 02 Aug 2018 00:14:49 -0400</pubDate>
       
-      <guid>/posts/information/</guid>
+      <guid>https://www.example.com/posts/information/</guid>
       <description>A few days ago, I was debating with my co-workers Ty and Anish about whether or not having more information is helpful for making better decisions. I&amp;rsquo;m not going to be able to express their thoughts with high fidelity, so I will only express mine here.
 Having more information does not allow us to make better decisions. In fact, a lot of the time, we can benefit from having less information.</description>
     </item>
     
     <item>
       <title>Becoming a Better SWE</title>
-      <link>/posts/swe/</link>
+      <link>https://www.example.com/posts/swe/</link>
       <pubDate>Wed, 25 Jul 2018 00:14:49 -0400</pubDate>
       
-      <guid>/posts/swe/</guid>
+      <guid>https://www.example.com/posts/swe/</guid>
       <description>I&amp;rsquo;ve recently realized that the skills you learn as a SWE are totally disjoint from the skills that you learn in school. Below are some of my findings.
 1. Nobody knows the answer, but it&amp;rsquo;s out there somewhere. It&amp;rsquo;s up to you and only you to figure it out. That&amp;rsquo;s what the company is paying you to do. Problem-solve.
 When my internship first started, I rapidly shot questions at my mentor, full-timers, and other interns.</description>
@@ -43,10 +44,10 @@ When my internship first started, I rapidly shot questions at my mentor, full-ti
     
     <item>
       <title>Super Linux Warp Pipe</title>
-      <link>/posts/pipe/</link>
+      <link>https://www.example.com/posts/pipe/</link>
       <pubDate>Tue, 24 Jul 2018 00:14:49 -0400</pubDate>
       
-      <guid>/posts/pipe/</guid>
+      <guid>https://www.example.com/posts/pipe/</guid>
       <description>Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.
 This is a simplified version of what the input looked like:
 Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { FRUIT banana } ate some { FRUIT banana } .</description>
@@ -54,10 +55,10 @@ Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { F
     
     <item>
       <title>Another New Site?</title>
-      <link>/posts/another-new-site/</link>
+      <link>https://www.example.com/posts/another-new-site/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
       
-      <guid>/posts/another-new-site/</guid>
+      <guid>https://www.example.com/posts/another-new-site/</guid>
       <description>So, it seems like every few months I&amp;rsquo;ve been feeling discontent with my personal website, thus prompting me to rehaul my website over and over again. This frequent rehauling can be boiled down to two reasons.
  I have never really felt satisfied with the overall design and aesthetic of my personal website.
  I haven&amp;rsquo;t made up my mind about starting my blog back up again or not.
@@ -66,10 +67,10 @@ Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { F
     
     <item>
       <title>Hosting Hugo Using GitHub</title>
-      <link>/posts/a-better-hugo-tutorial/</link>
+      <link>https://www.example.com/posts/a-better-hugo-tutorial/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
       
-      <guid>/posts/a-better-hugo-tutorial/</guid>
+      <guid>https://www.example.com/posts/a-better-hugo-tutorial/</guid>
       <description>In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called public and will be inside of your source repository. This will be done by using a git submodule.
 This guide requires you to have git installed, a Hugo website that you can easily clone from it&amp;rsquo;s github repo, and a GitHub account.</description>
     </item>

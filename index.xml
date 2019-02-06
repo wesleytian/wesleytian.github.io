@@ -1,130 +1,482 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wesley Tian</title>
-    <link>/</link>
-    <description>Recent content on Wesley Tian</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:21:56 -0400</lastBuildDate>
+    <title>Wesley T.</title>
+    <link>https://www.example.com/</link>
+    <description>Recent content on Wesley T.</description>
+    <generator>Hugo - gohugo.io</generator>
+    <language>en</language>
+    <contact>tian.wesley@gmail.com</contact>
+    <copyright>&copy; Wesley Tian 2019</copyright>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A New Chapter</title>
-      <link>/posts/a-new-chapter/</link>
+      <link>https://www.example.com/posts/a-new-chapter/</link>
       <pubDate>Thu, 17 Jan 2019 00:21:56 -0400</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://www.example.com/posts/a-new-chapter/</guid>
+      <description></description>
       
-      <guid>/posts/a-new-chapter/</guid>
-      <description>Like many of you, I spent this past break visiting family. Every few years or so, I make the effort to visit my dad&amp;rsquo;s side of the family in southern China. The last time I visited was over three years ago. During this time, I read countless articles about China&amp;rsquo;s insane economic development, advances in artificial intelligence, and new social credit system that looks like something that came out of a Black Mirror episode.</description>
+      <content>&lt;p&gt;Like many of you, I spent this past break visiting family. Every few years or so, I make the effort to visit my dad&amp;rsquo;s side of the family in southern China. The last time I visited was over three years ago. During this time, I read countless articles about China&amp;rsquo;s insane economic development, advances in artificial intelligence, and new social credit system that looks like something that came out of a Black Mirror episode.&lt;/p&gt;
+
+&lt;p&gt;So naturally, when I went back, I was expecting to see a drastically changed China. I also knew that China had passed policies to reduce the negative consequences that their development was incurring on the environment. I saw from my friends&amp;rsquo; Instagram stories that the skies in Shanghai were blue. I was excited to not have to wear masks to filter out the pollutants in the air.&lt;/p&gt;
+
+&lt;p&gt;Instead, what I saw in southern China left me horrified and disgusted. I realized that all of this economic development was not making China a better place to live, even in the face of all of the accomplishments that they made in recent years. Though Forbes predicts that China&amp;rsquo;s GDP will surpass that of the US before 2030, I fear not only for the health and happiness of Chinese people but everybody that shares Earth’s ecosystem.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.example.com/jiangxi.jpeg&#34; alt=&#34;Jiangxi, China&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When I looked out of the window that afternoon and saw the ruined state that the city was in I felt a surge of anger well up inside me. I wasn’t just mad at the Chinese government’s selfish policies in an effort to become number one again but at all capitalist nations. I then took out my laptop and began to write a new chapter in my book and my life.&lt;/p&gt;
+
+&lt;p&gt;One problem that I&amp;rsquo;m discussing in my book is the problem of focusing on mindless growth and competition. Countries such as the United States and China have focused on growth and selfish economic gain for too long. Did you know that the average life expectancy of US citizen has actually decreased in the past two years due to suicide? If that doesn&amp;rsquo;t express the dissatisfaction of individual lives, I don&amp;rsquo;t know what does.&lt;/p&gt;
+
+&lt;p&gt;As a species that has dominated the world for at least the past 100,000 years, it is easy for us to think that we are &amp;ldquo;special&amp;rdquo; and that God has our back. However, by thinking this way, we inevitably doom ourselves by thinking that no matter what we do, we will be okay. The more we think this way, the more overconfident we grow in our own abilities and the more we forget that certain damages can be irreversible. We can recover the polluted air, but we can’t recover people’s past suffering. We can’t recover lost lives.&lt;/p&gt;
+
+&lt;p&gt;It is time that we choose a new development index that doesn&amp;rsquo;t solely focus on GDP, but rather, on the happiness and well-being of all living species. Not just for China and the United States, but for all nations. In the meantime, I now find purpose in pursuing public policy as well as disproving Adam Smith.&lt;/p&gt;
+</content>
+      
     </item>
     
     <item>
       <title>More Information is Not Always Good</title>
-      <link>/posts/information/</link>
+      <link>https://www.example.com/posts/information/</link>
       <pubDate>Thu, 02 Aug 2018 00:14:49 -0400</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://www.example.com/posts/information/</guid>
+      <description></description>
       
-      <guid>/posts/information/</guid>
-      <description>A few days ago, I was debating with my co-workers Ty and Anish about whether or not having more information is helpful for making better decisions. I&amp;rsquo;m not going to be able to express their thoughts with high fidelity, so I will only express mine here.
-Having more information does not allow us to make better decisions. In fact, a lot of the time, we can benefit from having less information.</description>
+      <content>&lt;p&gt;A few days ago, I was debating with my co-workers Ty and Anish about whether or not having more information is helpful for making better decisions. I&amp;rsquo;m not going to be able to express their thoughts with high fidelity, so I will only express mine here.&lt;/p&gt;
+
+&lt;p&gt;Having more information does not allow us to make better decisions. In fact, a lot of the time, we can benefit from having less information. A few examples that we discussed included the infamous story of George Dantzig (shown in the intro of Good Will Hunting), who walked into class late one day believing that the two questions he saw on the board were homework questions. Only later did he discover that the two questions he solved for homework were famous unsolved statistics questions.&lt;/p&gt;
+
+&lt;p&gt;If he hadn&amp;rsquo;t walked into the classroom late that day and heard that it was a famous unsolved question, he wouldn&amp;rsquo;t have even attempted solving the question.&lt;/p&gt;
+
+&lt;p&gt;Another example that came up just the other day was at my workplace. I had been working on updating TensorFlow from 1.0 to 1.8 and my mentor told me that I would need to overhaul an LSTM model before the upgrade could be completed because of incompatible dependencies. Because of my mentor&amp;rsquo;s authority and perceived knowledge, I didn&amp;rsquo;t give what he said any second thought and just accepted it.&lt;/p&gt;
+
+&lt;p&gt;However, Anish wasn&amp;rsquo;t told this and because he wanted to use some features of 1.8 pretty badly, he tried to upgrade it to 1.8 anyways. In this way, without the information given to him from a position in higher power first, he never gave a second thought about trying to upgrade it himself. Lo and behold, we didn&amp;rsquo;t actually need to touch the LSTM model before the upgrade and the request was merged late last night.&lt;/p&gt;
+
+&lt;p&gt;As you can see, statistics such as how unlikely it is for you to start a company and bring it to IPO only prevent people from succeeding. The best way to go about this is to have an optimistic you-can-do-it attitude and try your best to ignore the pessimistic facts.&lt;/p&gt;
+</content>
+      
     </item>
     
     <item>
       <title>Becoming a Better SWE</title>
-      <link>/posts/swe/</link>
+      <link>https://www.example.com/posts/swe/</link>
       <pubDate>Wed, 25 Jul 2018 00:14:49 -0400</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://www.example.com/posts/swe/</guid>
+      <description></description>
       
-      <guid>/posts/swe/</guid>
-      <description>I&amp;rsquo;ve recently realized that the skills you learn as a SWE are totally disjoint from the skills that you learn in school. Below are some of my findings.
-1. Nobody knows the answer, but it&amp;rsquo;s out there somewhere. It&amp;rsquo;s up to you and only you to figure it out. That&amp;rsquo;s what the company is paying you to do. Problem-solve.
-When my internship first started, I rapidly shot questions at my mentor, full-timers, and other interns.</description>
+      <content>&lt;p&gt;I&amp;rsquo;ve recently realized that the skills you learn as a SWE are totally disjoint from the skills that you learn in school. Below are some of my findings.&lt;/p&gt;
+
+&lt;p&gt;1.
+Nobody knows the answer, but it&amp;rsquo;s out there somewhere. It&amp;rsquo;s up to you and only you to figure it out. That&amp;rsquo;s what the company is paying you to do. Problem-solve.&lt;/p&gt;
+
+&lt;p&gt;When my internship first started, I rapidly shot questions at my mentor, full-timers, and other interns. After a while, I realized that they didn&amp;rsquo;t know the answers to my questions either. Either we would figure it out on the spot together or they would try to give me the most guidance they could (usually not much). Then the rest was left up to me to figure out.&lt;/p&gt;
+
+&lt;p&gt;In school, we have a completely reversed dichotomy where you are able to ask your professor virtually anything about the class and get a fairly accurate answer. But in the workplace, there&amp;rsquo;s no such thing. This is because when you work, you are doing active research. You aren&amp;rsquo;t just taking in facts and spitting them back out again.&lt;/p&gt;
+
+&lt;p&gt;2.
+Take it slow. Learning takes time, debugging takes time, and detours are normal. It&amp;rsquo;s a primary SWE skill to be able to determine how long the detour should be. As interns, we tend to try and decrease this detour as much as possible to get as much done as possible, but as I&amp;rsquo;ve recently learned, that isn&amp;rsquo;t the most optimal plan. Instead, you should try to increase your time on detours to provide a more solid foundation for later.&lt;/p&gt;
+
+&lt;p&gt;What I mean by a detour is the path in which you take to solve a problem such as an error or bug. It usually requires a lot of googling, time on Stack Overflow, reading through documentation, amongst other things. I think that if you spend more time actually learning why something works instead of just copying and pasting code, you will make seemingly slower progress at first, but soon realize that you&amp;rsquo;ve actually been creating a better foundation for yourself that will benefit you in the long-run. It&amp;rsquo;s more or less about investing your time in the right place now for long-term benefits.&lt;/p&gt;
+
+&lt;p&gt;As an example, instead of just copying a Linux command from some website and running it, I now take apart each command and flag and learn what each one does. This means that in the future, I&amp;rsquo;ll be able to use those commands in my own way instead of having to search online again and again for the similar commands/flags.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Edit (08-02-2018):&lt;br /&gt;
+In fact, investing in peer-driven learning environments can make your long-term work more effective, despite short-term costs in time. – Vincent Chen, computer science student at Stanford University.   &lt;a href=&#34;https://blog.ycombinator.com/learning-math-for-machine-learning/&#34; target=&#34;_blank&#34;&gt;https://blog.ycombinator.com/learning-math-for-machine-learning/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+      
     </item>
     
     <item>
       <title>Super Linux Warp Pipe</title>
-      <link>/posts/pipe/</link>
+      <link>https://www.example.com/posts/pipe/</link>
       <pubDate>Tue, 24 Jul 2018 00:14:49 -0400</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://www.example.com/posts/pipe/</guid>
+      <description></description>
       
-      <guid>/posts/pipe/</guid>
-      <description>Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.
-This is a simplified version of what the input looked like:
-Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { FRUIT banana } ate some { FRUIT banana } .</description>
+      <content>&lt;p&gt;Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.&lt;/p&gt;
+
+&lt;p&gt;This is a simplified version of what the input looked like:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;pre&gt;&lt;code&gt;Where is the { FRUIT apple } ?
+Is the { PLANT tree } within the ground ?
+The { FRUIT banana } ate some { FRUIT banana } .
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If I wanted to look for the frequency of words only with the &lt;code&gt;FRUIT&lt;/code&gt; label, then the intended output should look like:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;pre&gt;&lt;code&gt;2 banana
+1 apple
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;To prevent a breach of confidentiality, I have replaced the actual words with something else.&lt;/p&gt;
+
+&lt;p&gt;The command that ended up doing the trick was:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;pre&gt;&lt;code&gt;cat input_file | grep -o -P &#39;(?&amp;lt;={ FRUIT).*?(?= })&#39; | grep -v &amp;quot;^\s$&amp;quot; | sort | uniq -c | sort -bnr &amp;gt; output_file
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Below, I will break down what each part does. I will cover the following commands and flags: &lt;code&gt;grep -o -P -v&lt;/code&gt;, &lt;code&gt;sort -bnr&lt;/code&gt;, and &lt;code&gt;uniq -c&lt;/code&gt;. I&amp;rsquo;ll cover regular expressions (regex) in another post.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;grep -o&lt;/code&gt; or &lt;code&gt;grep --only-matching&lt;/code&gt; basically matches and prints out only the matched phrase. For example, since I wanted to count the number of occurrences of each of these words or phrases, I wanted to not only search for the words between &lt;code&gt;{ FRUIT&lt;/code&gt;  and &lt;code&gt;}&lt;/code&gt;, but print them out.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;grep -P&lt;/code&gt; or &lt;code&gt;grep --perl-regexp&lt;/code&gt; is pretty self-explanatory. It allows you to specify a Perl regex.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;grep -v&lt;/code&gt; or &lt;code&gt;grep --inverse-match&lt;/code&gt; selects lines that don&amp;rsquo;t match the regex. It&amp;rsquo;s the negation of standard grep.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;uniq -c&lt;/code&gt; or &lt;code&gt;uniq --count&lt;/code&gt; prefixes each line with the number of occurrences of each phrase or word.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;sort -b&lt;/code&gt; or &lt;code&gt;sort --ignore-leading-blanks&lt;/code&gt; ignores leading blanks. Surprising.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;sort -n&lt;/code&gt; or &lt;code&gt;sort --numeric-sort&lt;/code&gt; sorts in ascending numerical order. (0, 1, 2, &amp;hellip; 9)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;sort -r&lt;/code&gt; or &lt;code&gt;sort --reverse&lt;/code&gt; reverses the sort.&lt;/p&gt;
+</content>
+      
     </item>
     
     <item>
       <title>Another New Site?</title>
-      <link>/posts/another-new-site/</link>
+      <link>https://www.example.com/posts/another-new-site/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://www.example.com/posts/another-new-site/</guid>
+      <description></description>
       
-      <guid>/posts/another-new-site/</guid>
-      <description>So, it seems like every few months I&amp;rsquo;ve been feeling discontent with my personal website, thus prompting me to rehaul my website over and over again. This frequent rehauling can be boiled down to two reasons.
- I have never really felt satisfied with the overall design and aesthetic of my personal website.
- I haven&amp;rsquo;t made up my mind about starting my blog back up again or not.
-  I&amp;rsquo;ve been toying around with Jekyll and Bootstrap recently, and then I found Hugo.</description>
+      <content>&lt;p&gt;So, it seems like every few months I&amp;rsquo;ve been feeling discontent with my personal website, thus prompting me to rehaul my website over and over again. This frequent rehauling can be boiled down to two reasons.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;I have never really felt satisfied with the overall design and aesthetic of my personal website.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I haven&amp;rsquo;t made up my mind about starting my blog back up again or not.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been toying around with Jekyll and Bootstrap recently, and then I found Hugo.&lt;/p&gt;
+
+&lt;p&gt;Hugo is a static site generator that uses Go for templating which means that you can easily separate your content and the code that builds the site. It&amp;rsquo;s completely open-source and was actually based on Jekyll. Many other people agree with me on the awesomeness of Hugo: &lt;a href=&#34;https://news.ycombinator.com/item?id=16472395&amp;amp;ref=codebldr&#34; target=&#34;_blank&#34;&gt;https://news.ycombinator.com/item?id=16472395&amp;amp;ref=codebldr&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve ever wanted to create your own site that&amp;rsquo;s easy to maintain and free to host, check out my next post for a great tutorial that&amp;rsquo;s written for the average person in mind.&lt;/p&gt;
+
+&lt;p&gt;Update: Since creating this website, I&amp;rsquo;m really enjoying writing again. I think the medium in which you post on is really important. For me, at least.&lt;/p&gt;
+</content>
+      
     </item>
     
     <item>
       <title>Hosting Hugo Using GitHub</title>
-      <link>/posts/a-better-hugo-tutorial/</link>
+      <link>https://www.example.com/posts/a-better-hugo-tutorial/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://www.example.com/posts/a-better-hugo-tutorial/</guid>
+      <description></description>
       
-      <guid>/posts/a-better-hugo-tutorial/</guid>
-      <description>In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called public and will be inside of your source repository. This will be done by using a git submodule.
-This guide requires you to have git installed, a Hugo website that you can easily clone from it&amp;rsquo;s github repo, and a GitHub account.</description>
+      <content>&lt;p&gt;In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called &lt;code&gt;public&lt;/code&gt; and will be inside of your source repository. This will be done by using a &lt;code&gt;git submodule&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;This guide requires you to have git installed, a Hugo website that you can easily clone from it&amp;rsquo;s github repo, and a GitHub account.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Create a GitHub repository for your website. Name it &lt;code&gt;&amp;lt;USERNAME&amp;gt;.github.io&lt;/code&gt;. All your files neccessary for your website will be stored here.&lt;br /&gt;
+Ex: wesleytian.github.io&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Create a Github repository for all of your Hugo source code. Name it anything you like &lt;em&gt;except&lt;/em&gt; for &lt;code&gt;&amp;lt;USERNAME&amp;gt;.github.io&lt;/code&gt;.&lt;br /&gt;
+Ex: blog&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Navigate to a directory where you want your source files to be stored. &lt;code&gt;cd &amp;lt;DIRECTORY&amp;gt;&lt;/code&gt; &lt;code&gt;git clone &amp;lt;SOURCE_REPO_URL&amp;gt;&lt;/code&gt;&lt;br /&gt;
+Ex: &lt;code&gt;cd webdev&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;git clone https://github.com/wesleytian/blog.git&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Change directory to the repository you just cloned. &lt;code&gt;cd &amp;lt;SOURCE&amp;gt;&lt;/code&gt;&lt;br /&gt;
+Ex: &lt;code&gt;cd blog&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;code&gt;git submodule add -b master &amp;lt;WEBSITE_REPO_URL&amp;gt; public&lt;/code&gt;&lt;br /&gt;
+Ex: &lt;code&gt;git submodule add -b master https://github.com/wesleytian/wesleytian.github.io.git public&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Copy all of your Hugo source files into the source folder except the public folder.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Create a script based on &lt;a href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script&#34; target=&#34;_blank&#34;&gt;https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script&lt;/a&gt;
+and run &lt;code&gt;./deploy.sh &amp;quot;Optional commit message&amp;quot;&lt;/code&gt;. Do both of these steps in your source folder.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You are now done! You should now be able to access your website through &lt;a href=&#34;https://USERNAME.github.io/&#34; target=&#34;_blank&#34;&gt;https://USERNAME.github.io/&lt;/a&gt; It make take a few minutes for your DNS to refresh.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Note that your website is now up to date in the &lt;USERNAME&gt;.github.io repo, but your source files have not yet been added, committed, and pushed to GitHub. To do so, simply type &lt;code&gt;git add . &amp;amp;&amp;amp; git commit -m &amp;quot;commit message&amp;quot; &amp;amp;&amp;amp; git push origin master&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Note: This guide is based off of &lt;a href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-github/#step-by-step-instructions&#34; target=&#34;_blank&#34;&gt;https://gohugo.io/hosting-and-deployment/hosting-on-github/#step-by-step-instructions&lt;/a&gt;
+but is more detailed, and includes steps that were missing from the original documentation.&lt;/p&gt;
+
+&lt;p&gt;Note: You also have to clone a theme into the themes/ folder or else you will get a &amp;ldquo;missing layouts&amp;rdquo; error.&lt;/p&gt;
+</content>
+      
     </item>
     
     <item>
       <title>My Own Cryptocurrency</title>
-      <link>/projects/westcoin/</link>
+      <link>https://www.example.com/projects/westcoin/</link>
       <pubDate>Thu, 15 Mar 2018 00:14:49 -0400</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://www.example.com/projects/westcoin/</guid>
+      <description></description>
       
-      <guid>/projects/westcoin/</guid>
-      <description>Summary:  Cryptocurrency built in Selenium on the Ethereum blockchain. Blockchain @ Michigan Workshop. WesTCoin is currently private and the exchange rate is 1 WesTCoin ~ 1 Ethereum.  Why Did I Build This? The Blockchain @ Michigan club at the University of Michigan was hosting a workshop to teach people how to create their own cryptocurrencies on the Ethereum blockchain. As as a former blockchain and cryptocurrency enthusiast, I couldn&amp;rsquo;t turn down this great opportunity to attend this workshop.</description>
+      <content>
+
+&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cryptocurrency built in Selenium on the Ethereum blockchain.&lt;/li&gt;
+&lt;li&gt;Blockchain @ Michigan Workshop.&lt;/li&gt;
+&lt;li&gt;WesTCoin is currently private and the exchange rate is 1 WesTCoin ~ 1 Ethereum.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;why-did-i-build-this&#34;&gt;Why Did I Build This?&lt;/h4&gt;
+
+&lt;p&gt;The Blockchain @ Michigan club at the University of Michigan was hosting a workshop to teach people how to create their own cryptocurrencies on the Ethereum blockchain. As as a former blockchain and cryptocurrency enthusiast, I couldn&amp;rsquo;t turn down this great opportunity to attend this workshop.&lt;/p&gt;
+
+&lt;h4 id=&#34;how-did-i-build-this&#34;&gt;How Did I Build This?&lt;/h4&gt;
+
+&lt;p&gt;The coin was coded in Selenium and we used MetaMask to run the Ethereum dApp.&lt;/p&gt;
+
+&lt;h4 id=&#34;what-did-i-learn-from-building-this&#34;&gt;What Did I Learn From Building This?&lt;/h4&gt;
+
+&lt;p&gt;However I did learn many things about the Ethereum ecosystem such as Ethereum gas, which is how you pay for operations on the Ethereum ecosystem.&lt;/p&gt;
+
+&lt;p&gt;As with many other software projects, everything seems to be super straightforward to build in retrospect. Take this following function for example which transfers funds from one account address to another account address. Even without prior experience with Selenium or writing code for the blockchain, it was quite intuitive and easy to grasp.&lt;/p&gt;
+
+&lt;p&gt;We first check that the transfer amount is nonnegative and that the &lt;code&gt;from&lt;/code&gt; account has at least the transfer amount. Next, we just update the respective &lt;code&gt;from&lt;/code&gt; account funds, &lt;code&gt;to&lt;/code&gt; account funds, perform the tranfer, and finally return true.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;pre&gt;&lt;code&gt;/// @notice send `_value` token to `_to` from `_from` on the condition it is approved by `_from`
+/// @param _from The address of the sender
+/// @param _to The address of the recipient
+/// @param _value The amount of token to be transferred
+/// @return Whether the transfer was successful or not
+function transferFrom(address _from, address _to, uint256 _value) returns (bool success) {
+    if (balances[_from] &amp;gt;= _value &amp;amp;&amp;amp; _value &amp;gt; 0 &amp;amp;&amp;amp; allowed[_from][msg.sender] &amp;gt;= _value) {
+        balances[_from] -= _value;
+        balances[_to] += _value;
+        allowed[_from][msg.sender] -= _value;
+        Transfer(_from, _to, _value);
+        return true;
+    }
+    return false;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;More info on how to replicate this project and create your own coin coming soon!&lt;/p&gt;
+
+&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/wesleytian/WesTCoin&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/WesTCoin&lt;/a&gt;&lt;/p&gt;
+</content>
+      
     </item>
     
     <item>
       <title>My First AI - A Rock, Paper, Scissors Bot </title>
-      <link>/projects/rps/</link>
+      <link>https://www.example.com/projects/rps/</link>
       <pubDate>Sun, 14 May 2017 00:14:49 -0400</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://www.example.com/projects/rps/</guid>
+      <description></description>
       
-      <guid>/projects/rps/</guid>
-      <description>Summary:  Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Built in Java. Uses Bayesian statistics.  Why Did I Build This? This project was built to showcase an AI technique that I learned from my AI course at the University of Massachusetts, Amherst.
-How Did I Build This? This project is built in Java and uses simple Bayesian statistics to predict the player&amp;rsquo;s next move by calculating the probability the player&amp;rsquo;s next move based on all previous moves and based on his/her previous K moves.</description>
+      <content>
+
+&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors.&lt;/li&gt;
+&lt;li&gt;Built in Java.&lt;/li&gt;
+&lt;li&gt;Uses Bayesian statistics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;why-did-i-build-this&#34;&gt;Why Did I Build This?&lt;/h4&gt;
+
+&lt;p&gt;This project was built to showcase an AI technique that I learned from my AI course at the University of Massachusetts, Amherst.&lt;/p&gt;
+
+&lt;h4 id=&#34;how-did-i-build-this&#34;&gt;How Did I Build This?&lt;/h4&gt;
+
+&lt;p&gt;This project is built in Java and uses simple Bayesian statistics to predict the player&amp;rsquo;s next move by calculating the probability the player&amp;rsquo;s next move based on all previous moves and based on his/her previous &lt;code&gt;K&lt;/code&gt; moves.&lt;/p&gt;
+
+&lt;h4 id=&#34;what-did-i-learn-from-building-this&#34;&gt;What Did I Learn From Building This?&lt;/h4&gt;
+
+&lt;p&gt;Through building this, I realized that AI programs can be very simple under the hood. This project took me roughly a day of planning and an entire day of coding, yet performs decently well when facing human players. The reason for this is that humans are actually very bad at generating randomness. Everything we do follows some sort of pattern and one thing computers are good at is keeping track of what the player has done.&lt;/p&gt;
+
+&lt;h4 id=&#34;operating-instructions&#34;&gt;Operating Instructions:&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Clone the file.&lt;br /&gt;
+&lt;code&gt;git clone https://github.com/wesleytian/roshambo-god&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Navigate to the cloned repository.&lt;br /&gt;
+&lt;code&gt;cd roshambo-god&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Compile the file.&lt;br /&gt;
+&lt;code&gt;javac rocpapsci.java&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Run the executable where &lt;code&gt;K&lt;/code&gt; is an integer that represents the short-term memory you want your AI to have. If the value is very large, you will need to play at least &lt;code&gt;K&lt;/code&gt; rounds before the AI has enough of a history to play you.&lt;br /&gt;
+&lt;code&gt;java rocpapsci &amp;lt;K&amp;gt;&lt;/code&gt;&lt;br /&gt;
+Ex:&lt;br /&gt;
+&lt;code&gt;java rocpapsci 2&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Continously play rock, paper, or scissors, where 0 represents rock, 1 represents paper, and 2 represents scissors. The AI cannot handle any other input. Remember that you must play at least &lt;code&gt;K&lt;/code&gt; rounds before the AI has enough history to play you back.&lt;br /&gt;
+&lt;code&gt;&amp;lt;VALUE&amp;gt;&lt;/code&gt;&lt;br /&gt;
+Ex:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;0  
+2  
+1
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/wesleytian/roshambo-god&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/roshambo-god&lt;/a&gt;&lt;/p&gt;
+</content>
+      
     </item>
     
     <item>
       <title>How We Won $6000 at Our First Hackathon</title>
-      <link>/projects/fashion-filtr/</link>
+      <link>https://www.example.com/projects/fashion-filtr/</link>
       <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://www.example.com/projects/fashion-filtr/</guid>
+      <description></description>
       
-      <guid>/projects/fashion-filtr/</guid>
-      <description>Summary:  Won most creative use of Indico API at Hamp Hack 2017. Awarded $2000/team member in API credits. Teammates: Nischal Tamang and Phillip Michalowski.  Why Did We Build This? Usually, project ideas are either spawned from day-to-day life or assigned. However, since we decided to go to a hackathon without any preplanning, we had to come up with an idea on the spot. I think this usually works pretty well, because you don&amp;rsquo;t actually know what the prizes are and that is what usually dictates what you are building.</description>
+      <content>
+
+&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Won most creative use of Indico API at Hamp Hack 2017.&lt;/li&gt;
+&lt;li&gt;Awarded $2000/team member in API credits.&lt;/li&gt;
+&lt;li&gt;Teammates: Nischal Tamang and Phillip Michalowski.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;why-did-we-build-this&#34;&gt;Why Did We Build This?&lt;/h4&gt;
+
+&lt;p&gt;Usually, project ideas are either spawned from day-to-day life or assigned. However, since we decided to go to a hackathon without any preplanning, we had to come up with an idea on the spot. I think this usually works pretty well, because you don&amp;rsquo;t actually know what the prizes are and that is what usually dictates what you are building. For example, there are company sponsored prizes for the &amp;ldquo;best&amp;rdquo; use of their API.&lt;/p&gt;
+
+&lt;p&gt;The story of how we actually came up with this specific idea is very boring so I will spare you the details. The important part is that we saw that there was some object recognition API that could could be trained on different clothes and that there was a market need for filtering out mass amounts of clothing online to your specific style and preferences.&lt;/p&gt;
+
+&lt;h4 id=&#34;how-did-we-build-this&#34;&gt;How Did We Build This?&lt;/h4&gt;
+
+&lt;h4 id=&#34;what-did-we-learn-from-building-this&#34;&gt;What Did We Learn From Building This?&lt;/h4&gt;
+
+&lt;p&gt;Perserverence is the most important factor. At around 7AM during the second day of the hackathon, Phillip and Nisch were discussing whether they wanted to head back to our dorms to take a nap. We hadn&amp;rsquo;t slept for nearly 24 hours and were pretty exhausted. Given our prior experience with hackathons, I told them, &amp;ldquo;if we leave now, we&amp;rsquo;re not going to come back.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Phillip and Nisch ended up taking a power nap at our table and I took a power nap in their gym&amp;rsquo;s sauna room. Later that night, we won a prize and that was an experience I would never forget.&lt;/p&gt;
+
+&lt;h4 id=&#34;operating-instructions&#34;&gt;Operating Instructions:&lt;/h4&gt;
+
+&lt;p&gt;The web app doesn&amp;rsquo;t actually work as intended. We didn&amp;rsquo;t have enough time to get the back-end and front-end linked up, so we hardcoded some HTML pages to demonstrate the potential and concept.&lt;/p&gt;
+
+&lt;p&gt;Definitely check out the following Devpost link for more information!&lt;/p&gt;
+
+&lt;p&gt;Devpost: &lt;a href=&#34;https://devpost.com/software/fashion-filtr&#34; target=&#34;_blank&#34;&gt;https://devpost.com/software/fashion-filtr&lt;/a&gt;&lt;/p&gt;
+</content>
+      
     </item>
     
     <item>
       <title>$100,000 in Annual Revenue?!</title>
-      <link>/projects/wesley-remote/</link>
+      <link>https://www.example.com/projects/wesley-remote/</link>
       <pubDate>Thu, 15 Sep 2016 00:14:49 -0400</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://www.example.com/projects/wesley-remote/</guid>
+      <description></description>
       
-      <guid>/projects/wesley-remote/</guid>
-      <description>Summary:  Big thanks to Dr. Rui Wang for funding me the neccessary resources to build this project!  More content coming soon!
-The Problem The Solution v0.9 v1.0 The Software Buy one here! https://rayshobby.net/wordpress/opensprinkler-bee/
-GitHub Repos:
-Hardware: https://github.com/wesleytian/programmable-thermostat-hw
-Firmware: https://github.com/wesleytian/thermostat-pro
-Library: https://github.com/wesleytian/thermostat-pro-library
-Mobile App: https://github.com/wesleytian/thermostat-pro-ionic</description>
+      <content>
+
+&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Big thanks to Dr. Rui Wang for funding me the neccessary resources to build this project!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More content coming soon!&lt;/p&gt;
+
+&lt;h4 id=&#34;the-problem&#34;&gt;The Problem&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.example.com/ac.jpg&#34; alt=&#34;Image of the AC&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;the-solution&#34;&gt;The Solution&lt;/h4&gt;
+
+&lt;h4 id=&#34;v0-9&#34;&gt;v0.9&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.example.com/prototype.png&#34; alt=&#34;Image of the Prototype&#34; /&gt;
+&lt;img src=&#34;https://www.example.com/outlet.jpg&#34; alt=&#34;Image of the Outlet&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;v1-0&#34;&gt;v1.0&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.example.com/remote.jpg&#34; alt=&#34;Image of the Remote Thermostat&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;the-software&#34;&gt;The Software&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.example.com/blynk.png&#34; alt=&#34;Image of the Blynk App&#34; /&gt;
+&lt;img src=&#34;https://www.example.com/ionic.png&#34; alt=&#34;Image of the Ionic App&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Buy one here! &lt;a href=&#34;https://rayshobby.net/wordpress/opensprinkler-bee/&#34; target=&#34;_blank&#34;&gt;https://rayshobby.net/wordpress/opensprinkler-bee/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;GitHub Repos:&lt;br /&gt;
+Hardware: &lt;a href=&#34;https://github.com/wesleytian/programmable-thermostat-hw&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/programmable-thermostat-hw&lt;/a&gt;&lt;br /&gt;
+Firmware: &lt;a href=&#34;https://github.com/wesleytian/thermostat-pro&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/thermostat-pro&lt;/a&gt;&lt;br /&gt;
+Library: &lt;a href=&#34;https://github.com/wesleytian/thermostat-pro-library&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/thermostat-pro-library&lt;/a&gt;&lt;br /&gt;
+Mobile App: &lt;a href=&#34;https://github.com/wesleytian/thermostat-pro-ionic&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/thermostat-pro-ionic&lt;/a&gt;&lt;/p&gt;
+</content>
+      
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://www.example.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://www.example.com/about/</guid>
+      <description></description>
       
-      <guid>/about/</guid>
-      <description>Wesley has few official titles, but those don&amp;rsquo;t really describe what kind of person he is. Deep down, he just wants to be happy and free. But just like everybody else these days, he&amp;rsquo;s fallen under society&amp;rsquo;s spell to walk the common road of a quality education and a well-paying job.
-Wesley&amp;rsquo;s goal is to eventually break free from that spell and gain the confidence to completely disregard both his own and other people&amp;rsquo;s judgments.</description>
+      <content>&lt;p&gt;Wesley has few official titles, but those don&amp;rsquo;t really describe what kind of person he is. Deep down,  he just wants to be happy and free. But just like  everybody else these days, he&amp;rsquo;s fallen under society&amp;rsquo;s spell to walk the common road of a quality education and a well-paying job.&lt;/p&gt;
+
+&lt;p&gt;Wesley&amp;rsquo;s goal is to eventually break free from that spell and gain the confidence to completely disregard both his own and other people&amp;rsquo;s judgments. At the same time, he&amp;rsquo;d like to be doing something that he loves and benefits mankind.&lt;/p&gt;
+
+&lt;p&gt;These are a few philosophies that Wesley lives by:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;He believes it is mankind&amp;rsquo;s ultimate goal to explore and conquer the universe(s). He plans on helping mankind achieve that goal by ultimately expending his resources on improving spacefaring technologies.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;As far as we know, we only have one life. So, why not try and enjoy all that life has to offer while we still can?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Never be afraid to be different and to speak your mind. It&amp;rsquo;s people who are different that do great things. It is more valuable to know you&amp;rsquo;re wrong than to not know anything.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you&amp;rsquo;d like to learn more about him, feel free to check out the following links.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://facebook.com/wesleytian&#34; target=&#34;_blank&#34;&gt;https://facebook.com/wesleytian&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://github.com/wesleytian&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://keybase.io/wesleytian&#34; target=&#34;_blank&#34;&gt;https://keybase.io/wesleytian&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://linkedin.com/in/wesleytian&#34; target=&#34;_blank&#34;&gt;https://linkedin.com/in/wesleytian&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And of course, feel free to e-mail him at &lt;a href=&#34;mailto:wytian@umich.edu&#34; target=&#34;_blank&#34;&gt;wytian@umich.edu&lt;/a&gt;.&lt;/p&gt;
+</content>
+      
     </item>
     
   </channel>

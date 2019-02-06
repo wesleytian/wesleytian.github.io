@@ -1,40 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Wesley Tian</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Wesley Tian</description>
+    <title>Tags on Wesley T.</title>
+    <link>https://www.example.com/tags/</link>
+    <description>Recent content in Tags on Wesley T.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>&amp;copy; Wesley Tian 2019</copyright>
     <lastBuildDate>Thu, 17 Jan 2019 00:21:56 -0400</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>/tags/blog/</link>
+      <link>https://www.example.com/tags/blog/</link>
       <pubDate>Thu, 17 Jan 2019 00:21:56 -0400</pubDate>
       
-      <guid>/tags/blog/</guid>
+      <guid>https://www.example.com/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project</title>
-      <link>/tags/project/</link>
+      <link>https://www.example.com/tags/project/</link>
       <pubDate>Sun, 14 May 2017 00:14:49 -0400</pubDate>
       
-      <guid>/tags/project/</guid>
+      <guid>https://www.example.com/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Story</title>
-      <link>/tags/story/</link>
+      <link>https://www.example.com/tags/story/</link>
       <pubDate>Thu, 17 Jan 2019 00:21:56 -0400</pubDate>
       
-      <guid>/tags/story/</guid>
+      <guid>https://www.example.com/tags/story/</guid>
       <description></description>
     </item>
     
