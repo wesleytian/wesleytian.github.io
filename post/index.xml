@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Wesley T.</title>
-    <link>https://www.wesleytian.github.io/tags/blog/</link>
-    <description>Recent content in Blog on Wesley T.</description>
+    <title>Posts on Wesley T.</title>
+    <link>https://www.wesleytian.github.io/post/</link>
+    <description>Recent content in Posts on Wesley T.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Wesley Tian 2019</copyright>
     <lastBuildDate>Thu, 17 Jan 2019 00:21:56 -0400</lastBuildDate>
     
-	<atom:link href="https://www.wesleytian.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.wesleytian.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -73,39 +73,6 @@ Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { F
       <guid>https://www.wesleytian.github.io/post/a-better-hugo-tutorial/</guid>
       <description>In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called public and will be inside of your source repository. This will be done by using a git submodule.
 This guide requires you to have git installed, a Hugo website that you can easily clone from it&amp;rsquo;s github repo, and a GitHub account.</description>
-    </item>
-    
-    <item>
-      <title>My Own Cryptocurrency</title>
-      <link>https://www.wesleytian.github.io/projects/westcoin/</link>
-      <pubDate>Thu, 15 Mar 2018 00:14:49 -0400</pubDate>
-      
-      <guid>https://www.wesleytian.github.io/projects/westcoin/</guid>
-      <description>Summary:  Cryptocurrency built in Selenium on the Ethereum blockchain. Blockchain @ Michigan Workshop. WesTCoin is currently private and the exchange rate is 1 WesTCoin ~ 1 Ethereum.  Why Did I Build This? The Blockchain @ Michigan club at the University of Michigan was hosting a workshop to teach people how to create their own cryptocurrencies on the Ethereum blockchain. As as a former blockchain and cryptocurrency enthusiast, I couldn&amp;rsquo;t turn down this great opportunity to attend this workshop.</description>
-    </item>
-    
-    <item>
-      <title>How We Won $6000 at Our First Hackathon</title>
-      <link>https://www.wesleytian.github.io/projects/fashion-filtr/</link>
-      <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
-      
-      <guid>https://www.wesleytian.github.io/projects/fashion-filtr/</guid>
-      <description>Summary:  Won most creative use of Indico API at Hamp Hack 2017. Awarded $2000/team member in API credits. Teammates: Nischal Tamang and Phillip Michalowski.  Why Did We Build This? Usually, project ideas are either spawned from day-to-day life or assigned. However, since we decided to go to a hackathon without any preplanning, we had to come up with an idea on the spot. I think this usually works pretty well, because you don&amp;rsquo;t actually know what the prizes are and that is what usually dictates what you are building.</description>
-    </item>
-    
-    <item>
-      <title>$100,000 in Annual Revenue?!</title>
-      <link>https://www.wesleytian.github.io/projects/wesley-remote/</link>
-      <pubDate>Thu, 15 Sep 2016 00:14:49 -0400</pubDate>
-      
-      <guid>https://www.wesleytian.github.io/projects/wesley-remote/</guid>
-      <description>Summary:  Big thanks to Dr. Rui Wang for funding me the neccessary resources to build this project!  More content coming soon!
-The Problem The Solution v0.9 v1.0 The Software Buy one here! https://rayshobby.net/wordpress/opensprinkler-bee/
-GitHub Repos:
-Hardware: https://github.com/wesleytian/programmable-thermostat-hw
-Firmware: https://github.com/wesleytian/thermostat-pro
-Library: https://github.com/wesleytian/thermostat-pro-library
-Mobile App: https://github.com/wesleytian/thermostat-pro-ionic</description>
     </item>
     
   </channel>

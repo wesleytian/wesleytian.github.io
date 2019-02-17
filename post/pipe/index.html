@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<title>Project | Wesley T.</title>
+<title>Super Linux Warp Pipe | Wesley T.</title>
 
 
 
@@ -70,49 +70,129 @@
 </section>
 <section class="section">
   <div class="container">
+    <div class="subtitle tags is-6 is-pulled-right">
+      
+      
+<a class="subtitle is-6" href="/tags/blog">#blog</a>
+
+
+
+  
+  | <a class="subtitle is-6" href="/tags/story">#story</a>
+  
+
+      
+    </div>
+    <h2 class="subtitle is-6">July 24, 2018</h2>
+    <h1 class="title">Super Linux Warp Pipe</h1>
     
-    
-    <article>
-      <div class="subtitle tags is-6 is-pulled-right">
-        
-        
-<a class="subtitle is-6" href="/tags/project">#project</a>
+    <div class="content">
+      <p>Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.</p>
 
+<p>This is a simplified version of what the input looked like:</p>
 
+<hr />
 
-        
-      </div>
-      <h2 class="subtitle is-6">May 14, 2017</h2>
-      <h1 class="title"><a href="https://www.wesleytian.github.io/projects/rps/">My First AI - A Rock, Paper, Scissors Bot </a></h1>
-      <div class="content">
-        Summary:  Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Built in Java. Uses Bayesian statistics.  Why Did I Build This? This project was built to showcase an AI technique that I learned from my AI course at the University of Massachusetts, Amherst.
-How Did I Build This? This project is built in Java and uses simple Bayesian statistics to predict the player&rsquo;s next move by calculating the probability the player&rsquo;s next move based on all previous moves and based on his/her previous K moves.
-        
-        <a class="button is-link" href="https://www.wesleytian.github.io/projects/rps/" style="height:28px">
-          Read more
-        </a>
-        
-      </div>
-    </article>
+<pre><code>Where is the { FRUIT apple } ?
+Is the { PLANT tree } within the ground ?
+The { FRUIT banana } ate some { FRUIT banana } .
+</code></pre>
+
+<hr />
+
+<p>If I wanted to look for the frequency of words only with the <code>FRUIT</code> label, then the intended output should look like:</p>
+
+<hr />
+
+<pre><code>2 banana
+1 apple
+</code></pre>
+
+<hr />
+
+<p>To prevent a breach of confidentiality, I have replaced the actual words with something else.</p>
+
+<p>The command that ended up doing the trick was:</p>
+
+<hr />
+
+<pre><code>cat input_file | grep -o -P '(?&lt;={ FRUIT).*?(?= })' | grep -v &quot;^\s$&quot; | sort | uniq -c | sort -bnr &gt; output_file
+</code></pre>
+
+<hr />
+
+<p>Below, I will break down what each part does. I will cover the following commands and flags: <code>grep -o -P -v</code>, <code>sort -bnr</code>, and <code>uniq -c</code>. I&rsquo;ll cover regular expressions (regex) in another post.</p>
+
+<p><code>grep -o</code> or <code>grep --only-matching</code> basically matches and prints out only the matched phrase. For example, since I wanted to count the number of occurrences of each of these words or phrases, I wanted to not only search for the words between <code>{ FRUIT</code>  and <code>}</code>, but print them out.</p>
+
+<p><code>grep -P</code> or <code>grep --perl-regexp</code> is pretty self-explanatory. It allows you to specify a Perl regex.</p>
+
+<p><code>grep -v</code> or <code>grep --inverse-match</code> selects lines that don&rsquo;t match the regex. It&rsquo;s the negation of standard grep.</p>
+
+<p><code>uniq -c</code> or <code>uniq --count</code> prefixes each line with the number of occurrences of each phrase or word.</p>
+
+<p><code>sort -b</code> or <code>sort --ignore-leading-blanks</code> ignores leading blanks. Surprising.</p>
+
+<p><code>sort -n</code> or <code>sort --numeric-sort</code> sorts in ascending numerical order. (0, 1, 2, &hellip; 9)</p>
+
+<p><code>sort -r</code> or <code>sort --reverse</code> reverses the sort.</p>
+
+      
+      <div class="related">
+
+<h3>Similar articles:</h3>
+<ul>
+	
+	<li><a href="/post/a-better-hugo-tutorial/">Hosting Hugo Using GitHub</a></li>
+	
+	<li><a href="/post/another-new-site/">Another New Site?</a></li>
+	
+	<li><a href="/projects/westcoin/">My Own Cryptocurrency</a></li>
+	
+	<li><a href="/projects/fashion-filtr/">How We Won $6000 at Our First Hackathon</a></li>
+	
+	<li><a href="/projects/wesley-remote/">$100,000 in Annual Revenue?!</a></li>
+	
+</ul>
+</div>
+      
+    </div>
     
   </div>
 </section>
+
 <section class="section">
   <div class="container">
-    <nav class="level is-mobile">
-      <div class="level-left">
-        <div class="level-item">
-          
-        </div>
-      </div>
-      <div class="level-right is-marginless">
-        <div class="level-item">
-          
-        </div>
-      </div>
-    </nav>
+    <aside><div id="disqus_thread"></div></aside>
+  
+    <div id="show_comments"><a id="load_comments" class="button is-link">Load comments</a></div>
+  
+    <script type="text/javascript">
+      var disqus_shortname = 'shortname';
+      function disqus() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      }
+  
+      
+      var hash = window.location.hash.substr(1);
+      if ((hash.length > 8) && (hash.substring(0, 8) === "comment-")) {
+        disqus();
+        document.getElementById("show_comments").style.display = "none";
+      } else {
+        document.getElementById('load_comments').onclick = function() {
+          disqus();
+          document.getElementById("show_comments").style.display = "none";
+        };
+      }
+  
+
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
   </div>
 </section>
+
 
 <section class="section">
   <div class="container has-text-centered">
@@ -166,5 +246,4 @@ if (!doNotTrack) {
 </script>
 </body>
 </html>
-
 
