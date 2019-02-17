@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wesley T.</title>
-    <link>https://www.wesleytian.github.io/</link>
+    <link>https://wesleytian.github.io/</link>
     <description>Recent content on Wesley T.</description>
     <generator>Hugo - gohugo.io</generator>
     <language>en</language>
     <contact>tian.wesley@gmail.com</contact>
     <copyright>&copy; Wesley Tian 2019</copyright>
     
-        <atom:link href="https://www.wesleytian.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://wesleytian.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A New Chapter</title>
-      <link>https://www.wesleytian.github.io/post/a-new-chapter/</link>
+      <link>https://wesleytian.github.io/post/a-new-chapter/</link>
       <pubDate>Thu, 17 Jan 2019 00:21:56 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://www.wesleytian.github.io/post/a-new-chapter/</guid>
+      <guid>https://wesleytian.github.io/post/a-new-chapter/</guid>
       <description></description>
       
       <content>&lt;p&gt;Like many of you, I spent this past break visiting family. Every few years or so, I make the effort to visit my dad&amp;rsquo;s side of the family in southern China. The last time I visited was over three years ago. During this time, I read countless articles about China&amp;rsquo;s insane economic development, advances in artificial intelligence, and new social credit system that looks like something that came out of a Black Mirror episode.&lt;/p&gt;
@@ -26,7 +26,7 @@
 
 &lt;p&gt;Instead, what I saw in southern China left me horrified and disgusted. I realized that all of this economic development was not making China a better place to live, even in the face of all of the accomplishments that they made in recent years. Though Forbes predicts that China&amp;rsquo;s GDP will surpass that of the US before 2030, I fear not only for the health and happiness of Chinese people but everybody that shares Earth’s ecosystem.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.wesleytian.github.io/jiangxi.jpeg&#34; alt=&#34;Jiangxi, China&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/jiangxi.jpeg&#34; alt=&#34;Jiangxi, China&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;When I looked out of the window that afternoon and saw the ruined state that the city was in I felt a surge of anger well up inside me. I wasn’t just mad at the Chinese government’s selfish policies in an effort to become number one again but at all capitalist nations. I then took out my laptop and began to write a new chapter in my book and my life.&lt;/p&gt;
 
@@ -41,10 +41,10 @@
     
     <item>
       <title>More Information is Not Always Good</title>
-      <link>https://www.wesleytian.github.io/post/information/</link>
+      <link>https://wesleytian.github.io/post/information/</link>
       <pubDate>Thu, 02 Aug 2018 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://www.wesleytian.github.io/post/information/</guid>
+      <guid>https://wesleytian.github.io/post/information/</guid>
       <description></description>
       
       <content>&lt;p&gt;A few days ago, I was debating with my co-workers Ty and Anish about whether or not having more information is helpful for making better decisions. I&amp;rsquo;m not going to be able to express their thoughts with high fidelity, so I will only express mine here.&lt;/p&gt;
@@ -64,10 +64,10 @@
     
     <item>
       <title>Becoming a Better SWE</title>
-      <link>https://www.wesleytian.github.io/post/swe/</link>
+      <link>https://wesleytian.github.io/post/swe/</link>
       <pubDate>Wed, 25 Jul 2018 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://www.wesleytian.github.io/post/swe/</guid>
+      <guid>https://wesleytian.github.io/post/swe/</guid>
       <description></description>
       
       <content>&lt;p&gt;I&amp;rsquo;ve recently realized that the skills you learn as a SWE are totally disjoint from the skills that you learn in school. Below are some of my findings.&lt;/p&gt;
@@ -96,10 +96,10 @@ In fact, investing in peer-driven learning environments can make your long-term 
     
     <item>
       <title>Super Linux Warp Pipe</title>
-      <link>https://www.wesleytian.github.io/post/pipe/</link>
+      <link>https://wesleytian.github.io/post/pipe/</link>
       <pubDate>Tue, 24 Jul 2018 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://www.wesleytian.github.io/post/pipe/</guid>
+      <guid>https://wesleytian.github.io/post/pipe/</guid>
       <description></description>
       
       <content>&lt;p&gt;Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.&lt;/p&gt;
@@ -157,10 +157,10 @@ The { FRUIT banana } ate some { FRUIT banana } .
     
     <item>
       <title>Another New Site?</title>
-      <link>https://www.wesleytian.github.io/post/another-new-site/</link>
+      <link>https://wesleytian.github.io/post/another-new-site/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://www.wesleytian.github.io/post/another-new-site/</guid>
+      <guid>https://wesleytian.github.io/post/another-new-site/</guid>
       <description></description>
       
       <content>&lt;p&gt;So, it seems like every few months I&amp;rsquo;ve been feeling discontent with my personal website, thus prompting me to rehaul my website over and over again. This frequent rehauling can be boiled down to two reasons.&lt;/p&gt;
@@ -184,10 +184,10 @@ The { FRUIT banana } ate some { FRUIT banana } .
     
     <item>
       <title>Hosting Hugo Using GitHub</title>
-      <link>https://www.wesleytian.github.io/post/a-better-hugo-tutorial/</link>
+      <link>https://wesleytian.github.io/post/a-better-hugo-tutorial/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://www.wesleytian.github.io/post/a-better-hugo-tutorial/</guid>
+      <guid>https://wesleytian.github.io/post/a-better-hugo-tutorial/</guid>
       <description></description>
       
       <content>&lt;p&gt;In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called &lt;code&gt;public&lt;/code&gt; and will be inside of your source repository. This will be done by using a &lt;code&gt;git submodule&lt;/code&gt;.&lt;/p&gt;
@@ -231,10 +231,10 @@ but is more detailed, and includes steps that were missing from the original doc
     
     <item>
       <title>My Own Cryptocurrency</title>
-      <link>https://www.wesleytian.github.io/projects/westcoin/</link>
+      <link>https://wesleytian.github.io/projects/westcoin/</link>
       <pubDate>Thu, 15 Mar 2018 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://www.wesleytian.github.io/projects/westcoin/</guid>
+      <guid>https://wesleytian.github.io/projects/westcoin/</guid>
       <description></description>
       
       <content>
@@ -293,10 +293,10 @@ function transferFrom(address _from, address _to, uint256 _value) returns (bool 
     
     <item>
       <title>My First AI - A Rock, Paper, Scissors Bot </title>
-      <link>https://www.wesleytian.github.io/projects/rps/</link>
+      <link>https://wesleytian.github.io/projects/rps/</link>
       <pubDate>Sun, 14 May 2017 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://www.wesleytian.github.io/projects/rps/</guid>
+      <guid>https://wesleytian.github.io/projects/rps/</guid>
       <description></description>
       
       <content>
@@ -355,10 +355,10 @@ Ex:&lt;/p&gt;
     
     <item>
       <title>How We Won $6000 at Our First Hackathon</title>
-      <link>https://www.wesleytian.github.io/projects/fashion-filtr/</link>
+      <link>https://wesleytian.github.io/projects/fashion-filtr/</link>
       <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://www.wesleytian.github.io/projects/fashion-filtr/</guid>
+      <guid>https://wesleytian.github.io/projects/fashion-filtr/</guid>
       <description></description>
       
       <content>
@@ -398,10 +398,10 @@ Ex:&lt;/p&gt;
     
     <item>
       <title>$100,000 in Annual Revenue?!</title>
-      <link>https://www.wesleytian.github.io/projects/wesley-remote/</link>
+      <link>https://wesleytian.github.io/projects/wesley-remote/</link>
       <pubDate>Thu, 15 Sep 2016 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://www.wesleytian.github.io/projects/wesley-remote/</guid>
+      <guid>https://wesleytian.github.io/projects/wesley-remote/</guid>
       <description></description>
       
       <content>
@@ -416,23 +416,23 @@ Ex:&lt;/p&gt;
 
 &lt;h4 id=&#34;the-problem&#34;&gt;The Problem&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.wesleytian.github.io/ac.jpg&#34; alt=&#34;Image of the AC&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/ac.jpg&#34; alt=&#34;Image of the AC&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;the-solution&#34;&gt;The Solution&lt;/h4&gt;
 
 &lt;h4 id=&#34;v0-9&#34;&gt;v0.9&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.wesleytian.github.io/prototype.png&#34; alt=&#34;Image of the Prototype&#34; /&gt;
-&lt;img src=&#34;https://www.wesleytian.github.io/outlet.jpg&#34; alt=&#34;Image of the Outlet&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/prototype.png&#34; alt=&#34;Image of the Prototype&#34; /&gt;
+&lt;img src=&#34;https://wesleytian.github.io/outlet.jpg&#34; alt=&#34;Image of the Outlet&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;v1-0&#34;&gt;v1.0&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.wesleytian.github.io/remote.jpg&#34; alt=&#34;Image of the Remote Thermostat&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/remote.jpg&#34; alt=&#34;Image of the Remote Thermostat&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;the-software&#34;&gt;The Software&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.wesleytian.github.io/blynk.png&#34; alt=&#34;Image of the Blynk App&#34; /&gt;
-&lt;img src=&#34;https://www.wesleytian.github.io/ionic.png&#34; alt=&#34;Image of the Ionic App&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/blynk.png&#34; alt=&#34;Image of the Blynk App&#34; /&gt;
+&lt;img src=&#34;https://wesleytian.github.io/ionic.png&#34; alt=&#34;Image of the Ionic App&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Buy one here! &lt;a href=&#34;https://rayshobby.net/wordpress/opensprinkler-bee/&#34; target=&#34;_blank&#34;&gt;https://rayshobby.net/wordpress/opensprinkler-bee/&lt;/a&gt;&lt;/p&gt;
 
@@ -447,10 +447,10 @@ Mobile App: &lt;a href=&#34;https://github.com/wesleytian/thermostat-pro-ionic&#
     
     <item>
       <title>About</title>
-      <link>https://www.wesleytian.github.io/about/</link>
+      <link>https://wesleytian.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://www.wesleytian.github.io/about/</guid>
+      <guid>https://wesleytian.github.io/about/</guid>
       <description></description>
       
       <content>&lt;p&gt;Wesley has few official titles, but those don&amp;rsquo;t really describe what kind of person he is. Deep down,  he just wants to be happy and free. But just like  everybody else these days, he&amp;rsquo;s fallen under society&amp;rsquo;s spell to walk the common road of a quality education and a well-paying job.&lt;/p&gt;

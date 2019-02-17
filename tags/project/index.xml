@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on Wesley T.</title>
-    <link>https://www.wesleytian.github.io/tags/project/</link>
+    <link>https://wesleytian.github.io/tags/project/</link>
     <description>Recent content in Project on Wesley T.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Wesley Tian 2019</copyright>
     <lastBuildDate>Sun, 14 May 2017 00:14:49 -0400</lastBuildDate>
     
-	<atom:link href="https://www.wesleytian.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wesleytian.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First AI - A Rock, Paper, Scissors Bot </title>
-      <link>https://www.wesleytian.github.io/projects/rps/</link>
+      <link>https://wesleytian.github.io/projects/rps/</link>
       <pubDate>Sun, 14 May 2017 00:14:49 -0400</pubDate>
       
-      <guid>https://www.wesleytian.github.io/projects/rps/</guid>
+      <guid>https://wesleytian.github.io/projects/rps/</guid>
       <description>Summary:  Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors. Built in Java. Uses Bayesian statistics.  Why Did I Build This? This project was built to showcase an AI technique that I learned from my AI course at the University of Massachusetts, Amherst.
 How Did I Build This? This project is built in Java and uses simple Bayesian statistics to predict the player&amp;rsquo;s next move by calculating the probability the player&amp;rsquo;s next move based on all previous moves and based on his/her previous K moves.</description>
     </item>
