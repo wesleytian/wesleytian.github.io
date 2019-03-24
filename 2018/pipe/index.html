@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<title>About | Wesley Tian</title>
+<title>Super Linux Warp Pipe | Wesley Tian</title>
 
 
 
@@ -67,23 +67,82 @@
   <div class="container">
     <div class="subtitle tags is-6 is-pulled-right">
       
+      
+<a class="subtitle is-6" href="/tags/blog">#blog</a>
+
+
+
+  
+  | <a class="subtitle is-6" href="/tags/story">#story</a>
+  
+
+      
     </div>
-    
-    <h1 class="title">About</h1>
+    <h2 class="subtitle is-6">July 24, 2018</h2>
+    <h1 class="title">Super Linux Warp Pipe</h1>
     
     <div class="content">
-      <p>Wesley Tian is currently pursuing a B.S. in Computer Science and Data Science at the <a href="https://umich.edu/" target="_blank">University of Michigan</a>. He currently serves as the President of the <a href="https://www.mdst.club/" target="_blank">Michigan Data Science Team</a>, a competitive data science team funded by Google, the National Science Foundation, and the <a href="https://midas.umich.edu/" target="_blank">Michigan Institute of Data Science</a>. Their work for social good has been covered by media outlets such as the <a href="https://www.nytimes.com/2017/03/27/us/flint-water-lead-pipes.html?_r=0" target="_blank">The New York Times</a>, <a href="https://gizmodo.com/google-is-helping-flint-prioritize-which-lead-pipes-nee-1774517926" target="_blank">Gizmodo</a>, and the <a href="https://www.chicagotribune.com/news/nationworld/midwest/ct-flint-water-app-20161211-story.html" target="_blank">Chicago Tribune</a>. You can read more about Wesley&rsquo;s goals for MDST in this <a href="http://eecs.umich.edu/eecs/about/articles/2018/mdst-2018.html" target="_blank">interview</a> by the University of Michigan&rsquo;s Computer Science Engineering department.</p>
+      <p>Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.</p>
 
-<p>In the past, Wesley has worked on research and development at an Internet of things startup with <a href="https://people.cs.umass.edu/~ruiwang/" target="_blank">Rui Wang</a>, machine learning research in healthcare with <a href="http://www-personal.umich.edu/~wiensj/" target="_blank">Jenna Wiens</a>, and philosophy in artificial intelligence with <a href="http://web.eecs.umich.edu/~rthomaso/" target="_blank">Rich Thomason</a>. Starting in high school, Wesley has also had numerous internships with companies such as <a href="http://www.dshine.com.cn/" target="_blank">Xuanliang</a>, <a href="https://rayshobby.net/wordpress/" target="_blank">RaysHobby</a>, Fidelity Investments, and <a href="https://clinc.com/" target="_blank">Clinc</a>. This summer, he will be working at Microsoft.</p>
+<p>This is a simplified version of what the input looked like:</p>
 
-<p>Wesley has been ranked 1st out of 205 students on a deep learning prediction challenge in University of Michigan&rsquo;s Machine Learning course, placed 3rd in the world in MIT&rsquo;s <a href="https://sites.google.com/view/assistmentsdatamining/data-mining-competition-2017/winners?authuser=0" target="_blank">ASSISTments Data Mining Competition</a>, and received awards at multiple other hackathons. He has also been a recipient of the Chancellor&rsquo;s Scholarship.</p>
+<hr />
 
-<p>Born in Mountain View, California–yes, before Google was there–Wesley has transferred schools a total of nine times. In the process, he has relocated from California to Oregon, Taiwan, Shanghai, Massachusetts, and finally Michigan. He thanks these moves for his openness to different perspectives and helping form many of his own unique thoughts. Outside of school and work, he enjoys reading, writing, and running.</p>
+<pre><code>Where is the { FRUIT apple } ?
+Is the { PLANT tree } within the ground ?
+The { FRUIT banana } ate some { FRUIT banana } .
+</code></pre>
 
-<p>Wesley has been a utilitarian since his teens. His once pursued machine learning research as a career path. His current pursuits are software engineering, political philosophy, and entrepreneurship.</p>
+<hr />
+
+<p>If I wanted to look for the frequency of words only with the <code>FRUIT</code> label, then the intended output should look like:</p>
+
+<hr />
+
+<pre><code>2 banana
+1 apple
+</code></pre>
+
+<hr />
+
+<p>To prevent a breach of confidentiality, I have replaced the actual words with something else.</p>
+
+<p>The command that ended up doing the trick was:</p>
+
+<hr />
+
+<pre><code>cat input_file | grep -o -P '(?&lt;={ FRUIT).*?(?= })' | grep -v &quot;^\s$&quot; | sort | uniq -c | sort -bnr &gt; output_file
+</code></pre>
+
+<hr />
+
+<p>Below, I will break down what each part does. I will cover the following commands and flags: <code>grep -o -P -v</code>, <code>sort -bnr</code>, and <code>uniq -c</code>. I&rsquo;ll cover regular expressions (regex) in another post.</p>
+
+<p><code>grep -o</code> or <code>grep --only-matching</code> basically matches and prints out only the matched phrase. For example, since I wanted to count the number of occurrences of each of these words or phrases, I wanted to not only search for the words between <code>{ FRUIT</code>  and <code>}</code>, but print them out.</p>
+
+<p><code>grep -P</code> or <code>grep --perl-regexp</code> is pretty self-explanatory. It allows you to specify a Perl regex.</p>
+
+<p><code>grep -v</code> or <code>grep --inverse-match</code> selects lines that don&rsquo;t match the regex. It&rsquo;s the negation of standard grep.</p>
+
+<p><code>uniq -c</code> or <code>uniq --count</code> prefixes each line with the number of occurrences of each phrase or word.</p>
+
+<p><code>sort -b</code> or <code>sort --ignore-leading-blanks</code> ignores leading blanks. Surprising.</p>
+
+<p><code>sort -n</code> or <code>sort --numeric-sort</code> sorts in ascending numerical order. (0, 1, 2, &hellip; 9)</p>
+
+<p><code>sort -r</code> or <code>sort --reverse</code> reverses the sort.</p>
 
       
       <div class="related">
+
+<h3>Similar articles:</h3>
+<ul>
+	
+	<li><a href="/2018/a-better-hugo-tutorial/">Hosting Hugo Using GitHub</a></li>
+	
+	<li><a href="/2018/another-new-site/">Another New Site?</a></li>
+	
+</ul>
 </div>
       
     </div>

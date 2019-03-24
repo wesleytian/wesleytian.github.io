@@ -14,10 +14,10 @@
     
     <item>
       <title>A New Chapter</title>
-      <link>https://wesleytian.github.io/post/a-new-chapter/</link>
+      <link>https://wesleytian.github.io/2018/a-new-chapter/</link>
       <pubDate>Thu, 17 Jan 2019 00:21:56 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://wesleytian.github.io/post/a-new-chapter/</guid>
+      <guid>https://wesleytian.github.io/2018/a-new-chapter/</guid>
       <description></description>
       
       <content>&lt;p&gt;Like many of you, I spent this past break visiting family. Every few years or so, I make the effort to visit my dad&amp;rsquo;s side of the family in southern China. The last time I visited was over three years ago. During this time, I read countless articles about China&amp;rsquo;s insane economic development, advances in artificial intelligence, and new social credit system that looks like something that came out of a Black Mirror episode.&lt;/p&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>More Information is Not Always Good</title>
-      <link>https://wesleytian.github.io/post/information/</link>
+      <link>https://wesleytian.github.io/2018/information/</link>
       <pubDate>Thu, 02 Aug 2018 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://wesleytian.github.io/post/information/</guid>
+      <guid>https://wesleytian.github.io/2018/information/</guid>
       <description></description>
       
       <content>&lt;p&gt;A few days ago, I was debating with my co-workers Ty and Anish about whether or not having more information is helpful for making better decisions. I&amp;rsquo;m not going to be able to express their thoughts with high fidelity, so I will only express mine here.&lt;/p&gt;
@@ -63,11 +63,11 @@
     </item>
     
     <item>
-      <title>Becoming a Better SWE</title>
-      <link>https://wesleytian.github.io/post/swe/</link>
+      <title>Becoming Better at Software Engineering</title>
+      <link>https://wesleytian.github.io/2018/swe/</link>
       <pubDate>Wed, 25 Jul 2018 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://wesleytian.github.io/post/swe/</guid>
+      <guid>https://wesleytian.github.io/2018/swe/</guid>
       <description></description>
       
       <content>&lt;p&gt;I&amp;rsquo;ve recently realized that the skills you learn as a SWE are totally disjoint from the skills that you learn in school. Below are some of my findings.&lt;/p&gt;
@@ -96,10 +96,10 @@ In fact, investing in peer-driven learning environments can make your long-term 
     
     <item>
       <title>Super Linux Warp Pipe</title>
-      <link>https://wesleytian.github.io/post/pipe/</link>
+      <link>https://wesleytian.github.io/2018/pipe/</link>
       <pubDate>Tue, 24 Jul 2018 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://wesleytian.github.io/post/pipe/</guid>
+      <guid>https://wesleytian.github.io/2018/pipe/</guid>
       <description></description>
       
       <content>&lt;p&gt;Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.&lt;/p&gt;
@@ -157,10 +157,10 @@ The { FRUIT banana } ate some { FRUIT banana } .
     
     <item>
       <title>Another New Site?</title>
-      <link>https://wesleytian.github.io/post/another-new-site/</link>
+      <link>https://wesleytian.github.io/2018/another-new-site/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://wesleytian.github.io/post/another-new-site/</guid>
+      <guid>https://wesleytian.github.io/2018/another-new-site/</guid>
       <description></description>
       
       <content>&lt;p&gt;So, it seems like every few months I&amp;rsquo;ve been feeling discontent with my personal website, thus prompting me to rehaul my website over and over again. This frequent rehauling can be boiled down to two reasons.&lt;/p&gt;
@@ -184,10 +184,10 @@ The { FRUIT banana } ate some { FRUIT banana } .
     
     <item>
       <title>Hosting Hugo Using GitHub</title>
-      <link>https://wesleytian.github.io/post/a-better-hugo-tutorial/</link>
+      <link>https://wesleytian.github.io/2018/a-better-hugo-tutorial/</link>
       <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://wesleytian.github.io/post/a-better-hugo-tutorial/</guid>
+      <guid>https://wesleytian.github.io/2018/a-better-hugo-tutorial/</guid>
       <description></description>
       
       <content>&lt;p&gt;In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called &lt;code&gt;public&lt;/code&gt; and will be inside of your source repository. This will be done by using a &lt;code&gt;git submodule&lt;/code&gt;.&lt;/p&gt;
@@ -230,217 +230,35 @@ but is more detailed, and includes steps that were missing from the original doc
     </item>
     
     <item>
-      <title>My Own Cryptocurrency</title>
-      <link>https://wesleytian.github.io/projects/westcoin/</link>
-      <pubDate>Thu, 15 Mar 2018 00:14:49 -0400</pubDate>
+      <title>College Advice from an Computer Science Freshman with a 4.00 GPA</title>
+      <link>https://wesleytian.github.io/2016/advice/</link>
+      <pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://wesleytian.github.io/projects/westcoin/</guid>
+      <guid>https://wesleytian.github.io/2016/advice/</guid>
       <description></description>
       
       <content>
 
-&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;
+&lt;h3 id=&#34;1-take-classes-with-the-course-chair&#34;&gt;1. Take classes with the course chair&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Cryptocurrency built in Selenium on the Ethereum blockchain.&lt;/li&gt;
-&lt;li&gt;Blockchain @ Michigan Workshop.&lt;/li&gt;
-&lt;li&gt;WesTCoin is currently private and the exchange rate is 1 WesTCoin ~ 1 Ethereum.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Taking classes with the course chair for courses with multiple sections such as Linear Algebra guarantees you a proficient teacher.  They will most likely provide extra perks such as review sessions and review sheets. You are also guaranteed that the instructor will cover everything on the tests so you won&amp;rsquo;t have to worry about your professor omitting something.
+I took Calculus I with the course chair my freshman year. On the first day of class, he shared with the class a special link that included all the practice exams and their solutions since the creation of the course. Additionally, he told us that the link was exclusive to our class and insisted that we didn&amp;rsquo;t share the login info with other sections of the course. I suppose that it may be related to keeping his position as the course chair but I that&amp;rsquo;s just speculation.
+Even if the course chair&amp;rsquo;s section is full, you can always e-mail him or talk to him personally to grab a seat. Remember to be polite as he isn&amp;rsquo;t required by any means to fulfill your request.&lt;/p&gt;
 
-&lt;h4 id=&#34;why-did-i-build-this&#34;&gt;Why Did I Build This?&lt;/h4&gt;
+&lt;h3 id=&#34;2-always-sit-at-the-front-of-the-class&#34;&gt;2. Always sit at the front of the class&lt;/h3&gt;
 
-&lt;p&gt;The Blockchain @ Michigan club at the University of Michigan was hosting a workshop to teach people how to create their own cryptocurrencies on the Ethereum blockchain. As as a former blockchain and cryptocurrency enthusiast, I couldn&amp;rsquo;t turn down this great opportunity to attend this workshop.&lt;/p&gt;
+&lt;p&gt;Sitting at the front of the class makes you less afraid to shout out answers and ask questions.
+You are more likely to be heard by the instructor and get your question answered. The instructor will notice you more and if you provide a continuous stream of answers and engaging questions, then you are sure to obtain a special seat in the eyes of the instructor. e.g. they will be more likely to help you out when you need help for exams or when asking about research opportunities.
+You will be less likely to be distracted by your friends and what other people are doing because there is nothing in front of you so you are more likely to pay attention.&lt;/p&gt;
 
-&lt;h4 id=&#34;how-did-i-build-this&#34;&gt;How Did I Build This?&lt;/h4&gt;
+&lt;h3 id=&#34;3-don-t-pick-general-education-courses-just-for-the-easy-a&#34;&gt;3. Don&amp;rsquo;t pick General Education courses just for the easy A&lt;/h3&gt;
 
-&lt;p&gt;The coin was coded in Selenium and we used MetaMask to run the Ethereum dApp.&lt;/p&gt;
-
-&lt;h4 id=&#34;what-did-i-learn-from-building-this&#34;&gt;What Did I Learn From Building This?&lt;/h4&gt;
-
-&lt;p&gt;However I did learn many things about the Ethereum ecosystem such as Ethereum gas, which is how you pay for operations on the Ethereum ecosystem.&lt;/p&gt;
-
-&lt;p&gt;As with many other software projects, everything seems to be super straightforward to build in retrospect. Take this following function for example which transfers funds from one account address to another account address. Even without prior experience with Selenium or writing code for the blockchain, it was quite intuitive and easy to grasp.&lt;/p&gt;
-
-&lt;p&gt;We first check that the transfer amount is nonnegative and that the &lt;code&gt;from&lt;/code&gt; account has at least the transfer amount. Next, we just update the respective &lt;code&gt;from&lt;/code&gt; account funds, &lt;code&gt;to&lt;/code&gt; account funds, perform the tranfer, and finally return true.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;pre&gt;&lt;code&gt;/// @notice send `_value` token to `_to` from `_from` on the condition it is approved by `_from`
-/// @param _from The address of the sender
-/// @param _to The address of the recipient
-/// @param _value The amount of token to be transferred
-/// @return Whether the transfer was successful or not
-function transferFrom(address _from, address _to, uint256 _value) returns (bool success) {
-    if (balances[_from] &amp;gt;= _value &amp;amp;&amp;amp; _value &amp;gt; 0 &amp;amp;&amp;amp; allowed[_from][msg.sender] &amp;gt;= _value) {
-        balances[_from] -= _value;
-        balances[_to] += _value;
-        allowed[_from][msg.sender] -= _value;
-        Transfer(_from, _to, _value);
-        return true;
-    }
-    return false;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;More info on how to replicate this project and create your own coin coming soon!&lt;/p&gt;
-
-&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/wesleytian/WesTCoin&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/WesTCoin&lt;/a&gt;&lt;/p&gt;
-</content>
-      
-    </item>
-    
-    <item>
-      <title>My First AI - A Rock, Paper, Scissors Bot </title>
-      <link>https://wesleytian.github.io/projects/rps/</link>
-      <pubDate>Sun, 14 May 2017 00:14:49 -0400</pubDate>
-      <author>Wesley Tian</author>
-      <guid>https://wesleytian.github.io/projects/rps/</guid>
-      <description></description>
-      
-      <content>
-
-&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Command line AI that uses your play history to predict your next move in a game of Rock, Paper, Scissors.&lt;/li&gt;
-&lt;li&gt;Built in Java.&lt;/li&gt;
-&lt;li&gt;Uses Bayesian statistics.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;why-did-i-build-this&#34;&gt;Why Did I Build This?&lt;/h4&gt;
-
-&lt;p&gt;This project was built to showcase an AI technique that I learned from my AI course at the University of Massachusetts, Amherst.&lt;/p&gt;
-
-&lt;h4 id=&#34;how-did-i-build-this&#34;&gt;How Did I Build This?&lt;/h4&gt;
-
-&lt;p&gt;This project is built in Java and uses simple Bayesian statistics to predict the player&amp;rsquo;s next move by calculating the probability the player&amp;rsquo;s next move based on all previous moves and based on his/her previous &lt;code&gt;K&lt;/code&gt; moves.&lt;/p&gt;
-
-&lt;h4 id=&#34;what-did-i-learn-from-building-this&#34;&gt;What Did I Learn From Building This?&lt;/h4&gt;
-
-&lt;p&gt;Through building this, I realized that AI programs can be very simple under the hood. This project took me roughly a day of planning and an entire day of coding, yet performs decently well when facing human players. The reason for this is that humans are actually very bad at generating randomness. Everything we do follows some sort of pattern and one thing computers are good at is keeping track of what the player has done.&lt;/p&gt;
-
-&lt;h4 id=&#34;operating-instructions&#34;&gt;Operating Instructions:&lt;/h4&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Clone the file.&lt;br /&gt;
-&lt;code&gt;git clone https://github.com/wesleytian/roshambo-god&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Navigate to the cloned repository.&lt;br /&gt;
-&lt;code&gt;cd roshambo-god&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Compile the file.&lt;br /&gt;
-&lt;code&gt;javac rocpapsci.java&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Run the executable where &lt;code&gt;K&lt;/code&gt; is an integer that represents the short-term memory you want your AI to have. If the value is very large, you will need to play at least &lt;code&gt;K&lt;/code&gt; rounds before the AI has enough of a history to play you.&lt;br /&gt;
-&lt;code&gt;java rocpapsci &amp;lt;K&amp;gt;&lt;/code&gt;&lt;br /&gt;
-Ex:&lt;br /&gt;
-&lt;code&gt;java rocpapsci 2&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Continously play rock, paper, or scissors, where 0 represents rock, 1 represents paper, and 2 represents scissors. The AI cannot handle any other input. Remember that you must play at least &lt;code&gt;K&lt;/code&gt; rounds before the AI has enough history to play you back.&lt;br /&gt;
-&lt;code&gt;&amp;lt;VALUE&amp;gt;&lt;/code&gt;&lt;br /&gt;
-Ex:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;0  
-2  
-1
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;GitHub Repo: &lt;a href=&#34;https://github.com/wesleytian/roshambo-god&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/roshambo-god&lt;/a&gt;&lt;/p&gt;
-</content>
-      
-    </item>
-    
-    <item>
-      <title>How We Won $6000 at Our First Hackathon</title>
-      <link>https://wesleytian.github.io/projects/fashion-filtr/</link>
-      <pubDate>Sat, 15 Apr 2017 00:14:49 -0400</pubDate>
-      <author>Wesley Tian</author>
-      <guid>https://wesleytian.github.io/projects/fashion-filtr/</guid>
-      <description></description>
-      
-      <content>
-
-&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Won most creative use of Indico API at Hamp Hack 2017.&lt;/li&gt;
-&lt;li&gt;Awarded $2000/team member in API credits.&lt;/li&gt;
-&lt;li&gt;Teammates: Nischal Tamang and Phillip Michalowski.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;why-did-we-build-this&#34;&gt;Why Did We Build This?&lt;/h4&gt;
-
-&lt;p&gt;Usually, project ideas are either spawned from day-to-day life or assigned. However, since we decided to go to a hackathon without any preplanning, we had to come up with an idea on the spot. I think this usually works pretty well, because you don&amp;rsquo;t actually know what the prizes are and that is what usually dictates what you are building. For example, there are company sponsored prizes for the &amp;ldquo;best&amp;rdquo; use of their API.&lt;/p&gt;
-
-&lt;p&gt;The story of how we actually came up with this specific idea is very boring so I will spare you the details. The important part is that we saw that there was some object recognition API that could could be trained on different clothes and that there was a market need for filtering out mass amounts of clothing online to your specific style and preferences.&lt;/p&gt;
-
-&lt;h4 id=&#34;how-did-we-build-this&#34;&gt;How Did We Build This?&lt;/h4&gt;
-
-&lt;h4 id=&#34;what-did-we-learn-from-building-this&#34;&gt;What Did We Learn From Building This?&lt;/h4&gt;
-
-&lt;p&gt;Perserverence is the most important factor. At around 7AM during the second day of the hackathon, Phillip and Nisch were discussing whether they wanted to head back to our dorms to take a nap. We hadn&amp;rsquo;t slept for nearly 24 hours and were pretty exhausted. Given our prior experience with hackathons, I told them, &amp;ldquo;if we leave now, we&amp;rsquo;re not going to come back.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Phillip and Nisch ended up taking a power nap at our table and I took a power nap in their gym&amp;rsquo;s sauna room. Later that night, we won a prize and that was an experience I would never forget.&lt;/p&gt;
-
-&lt;h4 id=&#34;operating-instructions&#34;&gt;Operating Instructions:&lt;/h4&gt;
-
-&lt;p&gt;The web app doesn&amp;rsquo;t actually work as intended. We didn&amp;rsquo;t have enough time to get the back-end and front-end linked up, so we hardcoded some HTML pages to demonstrate the potential and concept.&lt;/p&gt;
-
-&lt;p&gt;Definitely check out the following Devpost link for more information!&lt;/p&gt;
-
-&lt;p&gt;Devpost: &lt;a href=&#34;https://devpost.com/software/fashion-filtr&#34; target=&#34;_blank&#34;&gt;https://devpost.com/software/fashion-filtr&lt;/a&gt;&lt;/p&gt;
-</content>
-      
-    </item>
-    
-    <item>
-      <title>$100,000 in Annual Revenue?!</title>
-      <link>https://wesleytian.github.io/projects/wesley-remote/</link>
-      <pubDate>Thu, 15 Sep 2016 00:14:49 -0400</pubDate>
-      <author>Wesley Tian</author>
-      <guid>https://wesleytian.github.io/projects/wesley-remote/</guid>
-      <description></description>
-      
-      <content>
-
-&lt;h4 id=&#34;summary&#34;&gt;Summary:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Big thanks to Dr. Rui Wang for funding me the neccessary resources to build this project!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;More content coming soon!&lt;/p&gt;
-
-&lt;h4 id=&#34;the-problem&#34;&gt;The Problem&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/ac.jpg&#34; alt=&#34;Image of the AC&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;the-solution&#34;&gt;The Solution&lt;/h4&gt;
-
-&lt;h4 id=&#34;v0-9&#34;&gt;v0.9&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/prototype.png&#34; alt=&#34;Image of the Prototype&#34; /&gt;
-&lt;img src=&#34;https://wesleytian.github.io/outlet.jpg&#34; alt=&#34;Image of the Outlet&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;v1-0&#34;&gt;v1.0&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/remote.jpg&#34; alt=&#34;Image of the Remote Thermostat&#34; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;the-software&#34;&gt;The Software&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/blynk.png&#34; alt=&#34;Image of the Blynk App&#34; /&gt;
-&lt;img src=&#34;https://wesleytian.github.io/ionic.png&#34; alt=&#34;Image of the Ionic App&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Buy one here! &lt;a href=&#34;https://rayshobby.net/wordpress/opensprinkler-bee/&#34; target=&#34;_blank&#34;&gt;https://rayshobby.net/wordpress/opensprinkler-bee/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;GitHub Repos:&lt;br /&gt;
-Hardware: &lt;a href=&#34;https://github.com/wesleytian/programmable-thermostat-hw&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/programmable-thermostat-hw&lt;/a&gt;&lt;br /&gt;
-Firmware: &lt;a href=&#34;https://github.com/wesleytian/thermostat-pro&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/thermostat-pro&lt;/a&gt;&lt;br /&gt;
-Library: &lt;a href=&#34;https://github.com/wesleytian/thermostat-pro-library&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/thermostat-pro-library&lt;/a&gt;&lt;br /&gt;
-Mobile App: &lt;a href=&#34;https://github.com/wesleytian/thermostat-pro-ionic&#34; target=&#34;_blank&#34;&gt;https://github.com/wesleytian/thermostat-pro-ionic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Think about what you can learn from it, what the department&amp;rsquo;s reputation at your university is, the background of the instructor teaching it and then lastly consider its difficulty.
+Fulfilling your general education requirements by taking the easiest classes at your university wastes both your money (or your parents!) and your time. Don&amp;rsquo;t select courses solely because you heard they are easy! However, you may benefit if you can find a course that benefits you in the long-run or just plainly interests you AND it&amp;rsquo;s easy, then that&amp;rsquo;s fine. Just don&amp;rsquo;t prioritize the difficulty of the class over everything else. What I mean about benefiting you in the long-run are courses such as taking Game Theory (ECON 309) as a Computer Science major. Though it may seem irrelevant, it is applicable in AI, business, mathematics, psychology and other fields. Not only did Game Theory interest me, but it may actually benefit me in the long-run!
+Additionally, you should do research about the instructor and department of the general education classes you want to take. At the University of Massachusetts Amherst, the Computer Science department is well known for its research and faculty especially in AI, but what UMass Amherst truly excels at is it&amp;rsquo;s Linguistics department in the College of Humanities and Fine Arts. They are ranked 4-8 at PhDs.org - UMass in the United States and so fulfilling a general education requirement by taking a linguistics intro course is sure to be interesting and taught extremely well. Where else can you learn from the smartest professors in their field?
+Take a look at PhDs.org for the departments that university excel at, it could be a well-known one or a less known one. Most undergraduates don&amp;rsquo;t ever talk about the research and faculty quality of such departments, but if you talk to graduate students or professors they will know for sure.
+Obviously, use your common sense as well. UMass Amherst is ranked 1-2 out of 32 programs for food science, 1-&lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;41&lt;/sub&gt; programs for Kinesiology, 3-&lt;sup&gt;11&lt;/sup&gt;&amp;frasl;&lt;sub&gt;83&lt;/sub&gt; for Polymer Science and Engineering, but if you&amp;rsquo;re not interested in food science, kinesiology, or polymer science, then don&amp;rsquo;t take it! Just remember to take it into consideration. You will never know what great professors you will meet and things you will learn from just fulfilling a general education requirement.
+More to be added soon!&lt;/p&gt;
 </content>
       
     </item>
@@ -461,7 +279,7 @@ Mobile App: &lt;a href=&#34;https://github.com/wesleytian/thermostat-pro-ionic&#
 
 &lt;p&gt;Born in Mountain View, California–yes, before Google was there–Wesley has transferred schools a total of nine times. In the process, he has relocated from California to Oregon, Taiwan, Shanghai, Massachusetts, and finally Michigan. He thanks these moves for his openness to different perspectives and helping form many of his own unique thoughts. Outside of school and work, he enjoys reading, writing, and running.&lt;/p&gt;
 
-&lt;p&gt;Wesley is also a utilitarian, Buddhist, biocentrist, and evolutionary humanist. His past pursuits include machine learning and entrepreneurship. His current pursuits are software engineering and political philosophy. Some of his influencers are Elon Musk, Peter Thiel, and Yuval Noah Harari.&lt;/p&gt;
+&lt;p&gt;Wesley has been a utilitarian since his teens. His once pursued machine learning research as a career path. His current pursuits are software engineering, political philosophy, and entrepreneurship.&lt;/p&gt;
 </content>
       
     </item>

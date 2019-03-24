@@ -3,53 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wesleytian.github.io/post/a-new-chapter/</loc>
+    <loc>https://wesleytian.github.io/2018/a-new-chapter/</loc>
     <lastmod>2019-01-17T00:21:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/post/information/</loc>
+    <loc>https://wesleytian.github.io/2018/information/</loc>
     <lastmod>2018-08-02T00:14:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/post/swe/</loc>
+    <loc>https://wesleytian.github.io/2018/swe/</loc>
     <lastmod>2018-07-25T00:14:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/post/pipe/</loc>
+    <loc>https://wesleytian.github.io/2018/pipe/</loc>
     <lastmod>2018-07-24T00:14:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/post/another-new-site/</loc>
+    <loc>https://wesleytian.github.io/2018/another-new-site/</loc>
     <lastmod>2018-07-15T00:14:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/post/a-better-hugo-tutorial/</loc>
+    <loc>https://wesleytian.github.io/2018/a-better-hugo-tutorial/</loc>
     <lastmod>2018-07-15T00:14:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/projects/westcoin/</loc>
-    <lastmod>2018-03-15T00:14:49-04:00</lastmod>
+    <loc>https://wesleytian.github.io/2016/advice/</loc>
+    <lastmod>2016-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/projects/rps/</loc>
-    <lastmod>2017-05-14T00:14:49-04:00</lastmod>
+    <loc>https://wesleytian.github.io/2016/</loc>
+    <lastmod>2016-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/projects/fashion-filtr/</loc>
-    <lastmod>2017-04-15T00:14:49-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wesleytian.github.io/projects/wesley-remote/</loc>
-    <lastmod>2016-09-15T00:14:49-04:00</lastmod>
+    <loc>https://wesleytian.github.io/2018/</loc>
+    <lastmod>2019-01-17T00:21:56-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -63,23 +60,7 @@
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/cv/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wesleytian.github.io/post/</loc>
-    <lastmod>2019-01-17T00:21:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wesleytian.github.io/tags/project/</loc>
-    <lastmod>2017-05-14T00:14:49-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wesleytian.github.io/projects/</loc>
-    <lastmod>2018-03-15T00:14:49-04:00</lastmod>
+    <loc>https://wesleytian.github.io/drafts/</loc>
   </url>
   
   <url>
