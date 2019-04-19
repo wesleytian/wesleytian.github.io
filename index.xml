@@ -20,7 +20,7 @@
       <guid>https://wesleytian.github.io/2018/a-new-chapter/</guid>
       <description></description>
       
-      <content>&lt;p&gt;Like many of you, I spent this past break visiting family. Every few years or so, I make the effort to visit my dad&amp;rsquo;s side of the family in southern China. The last time I visited was over three years ago. During this time, I read countless articles about China&amp;rsquo;s insane economic development, advances in artificial intelligence, and new social credit system that looks like something that came out of a Black Mirror episode.&lt;/p&gt;
+      <content>&lt;p&gt;Like many of you, I spent this past break visiting family. Every few years or so, I make the effort to visit my dad&amp;rsquo;s side of the family in southern China. The last time I visited was over three years ago. During this time, I read countless articles about China&amp;rsquo;s insane economic development, advances in artificial intelligence, and a new social credit system that looks like something that came out of a Black Mirror episode.&lt;/p&gt;
 
 &lt;p&gt;So naturally, when I went back, I was expecting to see a drastically changed China. I also knew that China had passed policies to reduce the negative consequences that their development was incurring on the environment. I saw from my friends&amp;rsquo; Instagram stories that the skies in Shanghai were blue. I was excited to not have to wear masks to filter out the pollutants in the air.&lt;/p&gt;
 
@@ -28,13 +28,27 @@
 
 &lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/jiangxi.jpeg&#34; alt=&#34;Jiangxi, China&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;When I looked out of the window that afternoon and saw the ruined state that the city was in I felt a surge of anger well up inside me. I wasn’t just mad at the Chinese government’s selfish policies in an effort to become number one again but at all capitalist nations. I then took out my laptop and began to write a new chapter in my book and my life.&lt;/p&gt;
+&lt;p&gt;When I looked out of the window that afternoon and saw the ruined state that the city was in I felt a surge of anger well up inside me. The air smelled putrid and everything was grey. I longed for the fresh air and blue skies that I was once in. I wasn’t just mad at the Chinese government’s selfish policies in an effort to become number one again but at all capitalist nations. I then took out my laptop and began to write a new chapter in my book and my life.&lt;/p&gt;
 
-&lt;p&gt;One problem that I&amp;rsquo;m discussing in my book is the problem of focusing on mindless growth and competition. Countries such as the United States and China have focused on growth and selfish economic gain for too long. Did you know that the average life expectancy of US citizen has actually decreased in the past two years due to suicide? If that doesn&amp;rsquo;t express the dissatisfaction of individual lives, I don&amp;rsquo;t know what does.&lt;/p&gt;
+&lt;p&gt;One problem that I&amp;rsquo;m discussing in my book is the problem of focusing on mindless growth and competition. Countries such as the United States and China have focused on growth and selfish economic gain for too long.&lt;/p&gt;
 
 &lt;p&gt;As a species that has dominated the world for at least the past 100,000 years, it is easy for us to think that we are &amp;ldquo;special&amp;rdquo; and that God has our back. However, by thinking this way, we inevitably doom ourselves by thinking that no matter what we do, we will be okay. The more we think this way, the more overconfident we grow in our own abilities and the more we forget that certain damages can be irreversible. We can recover the polluted air, but we can’t recover people’s past suffering. We can’t recover lost lives.&lt;/p&gt;
 
-&lt;p&gt;It is time that we choose a new development index that doesn&amp;rsquo;t solely focus on GDP, but rather, on the happiness and well-being of all living species. Not just for China and the United States, but for all nations. In the meantime, I now find purpose in pursuing public policy as well as disproving Adam Smith.&lt;/p&gt;
+&lt;p&gt;It is time that we choose a new development index that doesn&amp;rsquo;t solely focus on GDP, but rather, on the happiness and well-being of all living species. Not just for China and the United States, but for all nations. In the meantime, I now find purpose in pursuing public policy as well as disproving why Adam Smith&amp;rsquo;s Wealth of Nations has led to a not ideal state of capitalism in the United States and in China.&lt;/p&gt;
+
+&lt;p&gt;Notes:
+Who is Adam Smith, don&amp;rsquo;t just end the post with something random.&lt;/p&gt;
+
+&lt;p&gt;Be more descriptive, what did I see/smell/hear? Back up the statements that I said about China with my owne experiences.&lt;/p&gt;
+
+&lt;p&gt;Maybe also back up some of the things I said with sources.&lt;/p&gt;
+
+&lt;p&gt;The picture doesn&amp;rsquo;t really help that much.&lt;/p&gt;
+
+&lt;p&gt;Suicide and economic development aren&amp;rsquo;t directly correlated.&lt;/p&gt;
+
+&lt;p&gt;Try to split up a bloated post with a lot of ideas into multiple blog posts that are shorter and more focused.
+Gray area since this is sort of a life update.&lt;/p&gt;
 </content>
       
     </item>
@@ -173,7 +187,7 @@ The { FRUIT banana } ate some { FRUIT banana } .
 
 &lt;p&gt;I&amp;rsquo;ve been toying around with Jekyll and Bootstrap recently, and then I found Hugo.&lt;/p&gt;
 
-&lt;p&gt;Hugo is a static site generator that uses Go for templating which means that you can easily separate your content and the code that builds the site. It&amp;rsquo;s completely open-source and was actually based on Jekyll. Many other people agree with me on the awesomeness of Hugo: &lt;a href=&#34;https://news.ycombinator.com/item?id=16472395&amp;amp;ref=codebldr&#34; target=&#34;_blank&#34;&gt;https://news.ycombinator.com/item?id=16472395&amp;amp;ref=codebldr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hugo is a static site generator that uses Go for templating which means that you can easily separate your content and the code that builds the site. It&amp;rsquo;s completely open-source and was actually based on Jekyll. &lt;a href=&#34;https://news.ycombinator.com/item?id=16472395&amp;amp;ref=codebldr&#34; target=&#34;_blank&#34;&gt;Many other people agree with me on the awesomeness of Hugo.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you&amp;rsquo;ve ever wanted to create your own site that&amp;rsquo;s easy to maintain and free to host, check out my next post for a great tutorial that&amp;rsquo;s written for the average person in mind.&lt;/p&gt;
 
@@ -230,7 +244,7 @@ but is more detailed, and includes steps that were missing from the original doc
     </item>
     
     <item>
-      <title></title>
+      <title>Advice from a 4.00 GPA CS Freshman</title>
       <link>https://wesleytian.github.io/2016/advice/</link>
       <pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate>
       <author>Wesley Tian</author>
@@ -263,7 +277,7 @@ but is more detailed, and includes steps that were missing from the original doc
 
 &lt;p&gt;Additionally, you should do research about the instructor and department of the general education classes you want to take. At the University of Massachusetts Amherst, the Computer Science department is well known for its research and faculty especially in AI, but what UMass Amherst truly excels at is it&amp;rsquo;s Linguistics department in the College of Humanities and Fine Arts. They are ranked 4-8 at PhDs.org - UMass in the United States and so fulfilling a general education requirement by taking a linguistics intro course is sure to be interesting and taught extremely well. Where else can you learn from the smartest professors in their field?&lt;/p&gt;
 
-&lt;p&gt;Take a look at &lt;a href=&#34;http://www.phds.org/&#34;&gt;PhDs.org&lt;/a&gt;  for the departments that university excel at, it could be a well-known one or a less known one. Most undergraduates don&amp;rsquo;t ever talk about the research and faculty quality of such departments, but if you talk to graduate students or professors they will know for sure.&lt;/p&gt;
+&lt;p&gt;Take a look at &lt;a href=&#34;http://www.phds.org/&amp;quot;&amp;gt;PhDs.org&#34; target=&#34;_blank&#34;&gt;phds.org&lt;/a&gt; for the departments that university excel at, it could be a well-known one or a less known one. Most undergraduates don&amp;rsquo;t ever talk about the research and faculty quality of such departments, but if you talk to graduate students or professors they will know for sure.&lt;/p&gt;
 
 &lt;p&gt;Obviously, use your common sense as well. UMass Amherst is ranked 1-2 out of 32 programs for food science, 1-&lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;41&lt;/sub&gt; programs for Kinesiology, 3-&lt;sup&gt;11&lt;/sup&gt;&amp;frasl;&lt;sub&gt;83&lt;/sub&gt; for Polymer Science and Engineering, but if you&amp;rsquo;re not interested in food science, kinesiology, or polymer science, then don&amp;rsquo;t take it! Just remember to take it into consideration. You will never know what great professors you will meet and things you will learn from just fulfilling a general education requirement.&lt;/p&gt;
 </content>
@@ -282,15 +296,17 @@ but is more detailed, and includes steps that were missing from the original doc
 
 &lt;p&gt;No one enjoys waking up in the middle of the night. What is less enjoyable is being woken up in the middle of the night from the sweating from the heat or shivering from the cold. Suddenly, I realized that a simple solution would be to create a device that could not only sense the temperature but also automate the turning on and off of the air conditioner. Since the air conditioner was plugged into the wall outlet, all I had to do was find a way to control that switch.&lt;/p&gt;
 
-&lt;p&gt;As it turns out Etekcity, as well as a handful of other sellers on Amazon, sell a product called a remote outlet switch. &lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/71bEd1JkzBL._SL1500_.jpg&#34;&gt;&lt;img class=&#34;wp-image-383 aligncenter&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/71bEd1JkzBL._SL1500_.jpg&#34; alt=&#34;71bed1jkzbl-_sl1500_&#34; width=&#34;500&#34; height=&#34;500&#34; /&gt;&lt;/a&gt; This product includes a remote with on and off buttons and a few of the remote outlet switches. The remote&amp;rsquo;s function is being able to control the current that runs through the outlet switch by either closing the current or releasing it. This was the exact thing I needed to make this hack work.&lt;/p&gt;
+&lt;p&gt;As it turns out Etekcity, as well as a handful of other sellers on Amazon, sell a product called a remote outlet switch. &lt;img src=&#34;https://wesleytian.github.io/ac_hack/outlet.jpg&#34; alt=&#34;Outlet&#34; /&gt; This product includes a remote with on and off buttons and a few of the remote outlet switches. The remote&amp;rsquo;s function is being able to control the current that runs through the outlet switch by either closing the current or releasing it. This was the exact thing I needed to make this hack work.&lt;/p&gt;
 
 &lt;p&gt;Next, I had to design the device. The device would need to be able to sense the temperature, allow the user to set the temperature, and mimic the remote&amp;rsquo;s signal to control the remote outlet switch. Using Arduino libraries and hardware and a DHT II sensor I was able to create my first prototype. Additionally, it included a WiFi chip, a 433MhZ transmitter, and receiver, and an LCD screen that could display the current temperature, humidity, set temperature etc.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-08-at-12.23.28-PM.png&#34;&gt;&lt;img class=&#34;wp-image-389 aligncenter&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-08-at-12.23.28-PM.png&#34; alt=&#34;screen-shot-2016-09-08-at-12-23-28-pm&#34; width=&#34;500&#34; height=&#34;374&#34; /&gt;&lt;/a&gt;
-And to add the programmable part, I used Blynk to add certain widgets that connect to the device through WiFi. &lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/Blynk.png&#34;&gt;&lt;img class=&#34;wp-image-384 aligncenter&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/Blynk.png&#34; alt=&#34;blynk&#34; width=&#34;500&#34; height=&#34;889&#34; /&gt;&lt;/a&gt; I am now able to see my current room temperature from anywhere using my phone and control the temperature from anywhere as well. The Blynk app additionally includes a graph that shows the change of my room temperature.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/ac_hack/prototype.png&#34; alt=&#34;Prototype&#34; /&gt;
+And to add the programmable part, I used Blynk to add certain widgets that connect to the device through WiFi. &lt;img src=&#34;https://wesleytian.github.io/ac_hack/blynk.png&#34; alt=&#34;&#34; /&gt; I am now able to see my current room temperature from anywhere using my phone and control the temperature from anywhere as well. The Blynk app additionally includes a graph that shows the change of my room temperature.&lt;/p&gt;
 
-&lt;p&gt;Currently, I am working on my own application that will support this device. Using it, you will be able to set different time intervals and control a myriad of other settings such as short cycle duration, being able to use the heat index instead of temperature, and the hysteresis range. If you work from 9-5 Mon-Fri, then you will be able to set a specific temperature or turn off your AC for those times. The app allows you set an infinite number of intervals making it superior to its competitors.
-&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2620.png&#34;&gt;&lt;img class=&#34;wp-image-385 alignnone&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2620.png&#34; alt=&#34;img_2620&#34; width=&#34;400&#34; height=&#34;712&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2621.png&#34;&gt;&lt;img class=&#34;wp-image-386 alignnone&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2621.png&#34; alt=&#34;img_2621&#34; width=&#34;400&#34; height=&#34;712&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Currently, I am working on my own application that will support this device. Using it, you will be able to set different time intervals and control a myriad of other settings such as short cycle duration, being able to use the heat index instead of temperature, and the hysteresis range. If you work from 9-5 Mon-Fri, then you will be able to set a specific temperature or turn off your AC for those times. The app allows you set an infinite number of intervals making it superior to its competitors.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/ac_hack/ionic.png&#34; alt=&#34;Ionic&#34; /&gt;
+&lt;img src=&#34;https://wesleytian.github.io/ac_hack/IMG_2621.PNG&#34; alt=&#34;Ionic 2&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a very useful device for managing your room/house temperature and can even extend to an unlimited range of uses. It can be used to control a humidifier, fans, heaters, or other types of temperature regulating appliances that can be powered by a wall outlet. This device can save your electricity bills, protect foods from perishing, keep rooms from becoming moldy, or just making sure that you get a good night&amp;rsquo;s rest. After all, one-third of our lives is spent sleeping.&lt;/p&gt;
 
@@ -298,9 +314,9 @@ And to add the programmable part, I used Blynk to add certain widgets that conne
 
 &lt;p&gt;The AC:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-08-at-12.23.11-PM.png&#34;&gt;&lt;img class=&#34;wp-image-387 aligncenter&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-08-at-12.23.11-PM.png&#34; alt=&#34;screen-shot-2016-09-08-at-12-23-11-pm&#34; width=&#34;500&#34; height=&#34;278&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/ac_hack/ac.jpg&#34; alt=&#34;AC&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A few weeks after I created this, Rui found a few other similar gadgets that people made to try and regulate their room temperature. One of them decided to use a breadboard and flimsy wires to control the surge. (Very dangerous!) &lt;a href=&#34;http://hackaday.com/2016/08/05/arduino-replaces-bad-ac-thermostat-hacker-stays-cool/&#34;&gt;Arduino Replaces Bad AC Thermostat, Hacker Stays Cool&lt;/a&gt; which also bears resemblance to this &lt;a href=&#34;http://hackaday.com/2015/06/11/arduino-controlled-air-conditioner/&#34;&gt;Arduino Controlled Air Conditioner&lt;/a&gt;. Both of which requires the person to set the desired temperature by walking up to the AC and turning a knob. I also would not recommend tampering with the AC itself because 120v can kill you! All in all, I think that the best solutions to some things require a well-balanced incorporation of both hardware and software. Stay tuned for newer versions of the WiFi Remote Outlet Thermostat!&lt;/p&gt;
+&lt;p&gt;A few weeks after I created this, Rui found a few other similar gadgets that people made to try and regulate their room temperature. One of them decided to use a breadboard and flimsy wires to control the surge. (Very dangerous!) &lt;a href=&#34;http://hackaday.com/2016/08/05/arduino-replaces-bad-ac-thermostat-hacker-stays-cool/&#34; target=&#34;_blank&#34;&gt;Arduino Replaces Bad AC Thermostat, Hacker Stays Cool&lt;/a&gt; which also bears resemblance to this &lt;a href=&#34;http://hackaday.com/2015/06/11/arduino-controlled-air-conditioner&#34; target=&#34;_blank&#34;&gt;Arduino Controlled Air Conditioner&lt;/a&gt;. Both of which requires the person to set the desired temperature by walking up to the AC and turning a knob. I also would not recommend tampering with the AC itself because 120v can kill you! All in all, I think that the best solutions to some things require a well-balanced incorporation of both hardware and software. Stay tuned for newer versions of the WiFi Remote Outlet Thermostat!&lt;/p&gt;
 </content>
       
     </item>
@@ -313,108 +329,117 @@ And to add the programmable part, I used Blynk to add certain widgets that conne
       <guid>https://wesleytian.github.io/2015/olympus/</guid>
       <description></description>
       
-      <content>&lt;p&gt;View from Mt. Olympus&amp;rdquo; width=&amp;ldquo;622&amp;rdquo; height=&amp;ldquo;467&amp;rdquo; /&amp;gt;&lt;/a&gt; Sunrise at Refuge A[/caption]&lt;/p&gt;
+      <content>&lt;p&gt;Pic: View from Mt. Olympus&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;
-I always like to plan things out before I do them. Especially with hiking mountains in a country of which language I did not know, it was especially crucial for me to plan things out before hand. I searched online and found close to nothing that would help me prepare for Mt. Olympus. I basically went to Greece with no knowledge of Mt. Olympus so I had to figure everything out on the way. So, hopefully, this blog post will help guide those who wish to hike one of the greatest mountains on Earth.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Pic: Sunrise at Refuge A&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;Table of Contents&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I always like to plan things out before I do them. Especially with hiking mountains in a country of which language I did not know, it was especially crucial for me to plan things out before hand. I searched online and found close to nothing that would help me prepare for Mt. Olympus. I basically went to Greece with no knowledge of Mt. Olympus so I had to figure everything out on the way. So, hopefully, this blog post will help guide those who wish to hike one of the greatest mountains on Earth.&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;Getting There&amp;gt; &amp;lt;Preparation&amp;gt; &amp;lt;Routes&amp;gt; &amp;lt;Pictures&amp;gt; &amp;lt;Final Verdict&amp;gt;&lt;/p&gt;
+&lt;p&gt;Table of Contents&lt;/p&gt;
+
+&lt;p&gt;Getting There
+Preparation
+Routes
+Pictures
+Final Verdict&lt;/p&gt;
 
 &lt;p&gt;Location: Litochoro, Greece&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.english-online.at/history/ancient-greece/location-of-mount-olympus.gif&#34;&gt;&lt;img class=&#34;alignnone &#34; src=&#34;http://www.english-online.at/history/ancient-greece/location-of-mount-olympus.gif&#34; alt=&#34;Location of Mount Olympus&#34; width=&#34;513&#34; height=&#34;422&#34; /&gt;
-&lt;/a&gt;
-&lt;h3&gt;&amp;lt;Getting There&amp;gt;&lt;/h3&gt;
-&lt;ol&gt;
-    &lt;li&gt;When you arrive in Greece, it is very common to arrive at the ATH (Athens International Airport).&lt;/li&gt;
-    &lt;li&gt;There is a train at St. Larissa* (different from the city named Larissa) St. Larissa is a metro stop on the Red Line&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.english-online.at/history/ancient-greece/location-of-mount-olympus.gif&#34; target=&#34;_blank&#34;&gt;http://www.english-online.at/history/ancient-greece/location-of-mount-olympus.gif&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_339&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;585&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3110.jpg&#34;&gt;&lt;img class=&#34;wp-image-339&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3110.jpg&#34; alt=&#34;Metro Map&#34; width=&#34;585&#34; height=&#34;414&#34; /&gt;&lt;/a&gt; Metro Map[/caption]&lt;/li&gt;
-    &lt;li&gt;Take the train from St. Larissa (Athens) to Larissa (4 hours)&lt;/p&gt;
+&lt;p&gt;Getting There&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_349&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;561&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2968.jpg&#34;&gt;&lt;img class=&#34; wp-image-349&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2968.jpg&#34; alt=&#34;Train at Athens&#34; width=&#34;561&#34; height=&#34;421&#34; /&gt;&lt;/a&gt; Train at Athens[/caption]&lt;/li&gt;
-    &lt;li&gt;Transfer trains at the train station Larissa to go to Litochoro (1 major stop)** (30 minutes)&lt;/li&gt;
-    &lt;li&gt;From the Litochoro train station to the village it takes 5-10 minutes by taxi. (6km)&lt;/li&gt;
-&lt;/ol&gt;
-*  You can look for the train schedule at www.trainose.gr The trains are rarely full so you can just buy the tickets at the station.
-**The train will stop a couple of times before reaching a major stop. Listen to &amp;ldquo;Litochoro&amp;rdquo; (Lih-toe-hoe-roe)
-&lt;h3&gt;&amp;lt;Preparation&amp;gt;&lt;/h3&gt;
-&lt;ul&gt;
-    &lt;li&gt;&lt;/p&gt;
+&lt;p&gt;When you arrive in Greece, it is very common to arrive at the ATH (Athens International Airport).&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_329&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;606&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3007.jpg&#34;&gt;&lt;img class=&#34; wp-image-329&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3007.jpg&#34; alt=&#34;Packing&#34; width=&#34;606&#34; height=&#34;455&#34; /&gt;&lt;/a&gt; Packing List[/caption]&lt;/p&gt;
+&lt;p&gt;There is a train at St. Larissa* (different from the city named Larissa) St. Larissa is a metro stop on the Red Line&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3110.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3110.jpg&lt;/a&gt; Metro Map&lt;/p&gt;
+
+&lt;p&gt;Take the train from St. Larissa (Athens) to Larissa (4 hours)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2968.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2968.jpg&lt;/a&gt;
+Train at Athens&lt;/p&gt;
+
+&lt;p&gt;Transfer trains at the train station Larissa to go to Litochoro (1 major stop)** (30 minutes)&lt;/p&gt;
+
+&lt;p&gt;From the Litochoro train station to the village it takes 5-10 minutes by taxi. (6km)&lt;/p&gt;
+
+&lt;p&gt;You can look for the train schedule at www.trainose.gr The trains are rarely full so you can just buy the tickets at the station.
+The train will stop a couple of times before reaching a major stop. Listen to &amp;ldquo;Litochoro&amp;rdquo; (Lih-toe-hoe-roe)&lt;/p&gt;
+
+&lt;p&gt;Preparation&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/IMG_3007.JPG&#34; alt=&#34;Packing List&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Note: DO NOT bring only nuts. I basically ate none of it then relied on the food at the refuge. Eating only nuts SUCKS! Bars and bread are much better.
-[Sun protection] Sun hat, Sunglasses, Sunscreen&lt;/li&gt;
-    &lt;li&gt;[Cold protection] Baselayer (long-sleeve recommended), Midlayer (fleece, or softshell jacket) It can get o 5C&lt;/li&gt;
-    &lt;li&gt;[Wind protection] Pants, windbreaker&lt;/li&gt;
-    &lt;li&gt;[Food] Snacks with proteins, fats, and carbs, 500-1000 calories (bring more food if you want to spend less money and vice versa)&lt;/li&gt;
-    &lt;li&gt;[Water] 1.5L&lt;/li&gt;
-    &lt;li&gt;[Other] Hiking map with trails, compass, camera, first aid kit&lt;/li&gt;
-    &lt;li&gt;[Overnight stay] Toiletries, plastic bag for trash, charger, phone charger, money**Overnight stay costs 13 euros and the a full meal costs around 10. Also bring money for the taxis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&amp;lt;Routes&amp;gt;&lt;/h3&gt;
-&amp;nbsp;&lt;/p&gt;
+[Sun protection] Sun hat, Sunglasses, Sunscreen
+[Cold protection] Baselayer (long-sleeve recommended), Midlayer (fleece, or softshell jacket) It can get o 5C
+[Wind protection] Pants, windbreaker
+[Food] Snacks with proteins, fats, and carbs, 500-1000 calories (bring more food if you want to spend less money and vice versa)
+[Water] 1.5L&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;The Most Common Route&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[Other] Hiking map with trails, compass, camera, first aid kit
+[Overnight stay] Toiletries, plastic bag for trash, charger, phone charger, money&lt;/p&gt;
+
+&lt;p&gt;Overnight stay costs 13 euros and the a full meal costs around 10. Also bring money for the taxis&lt;/p&gt;
+
+&lt;p&gt;Routes&lt;/p&gt;
+
+&lt;p&gt;The Most Common Route&lt;/p&gt;
 
 &lt;p&gt;Terms:&lt;/p&gt;
 
 &lt;p&gt;Litochoro - the Small town with a population of 7000 in northern Greece.&lt;/p&gt;
 
-&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2992.jpg&#34;&gt;&lt;img class=&#34; wp-image-350&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2992.jpg&#34; alt=&#34;The Small Town of Litochoro&#34; width=&#34;582&#34; height=&#34;437&#34; /&gt;&lt;/a&gt;&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2992.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2992.jpg&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The Small Town of Litochoro
 Mt. Olympus - Tallest mountain in Greece, it is a series of multiple peaks.&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_345&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;536&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3177.jpg&#34;&gt;&lt;img class=&#34; wp-image-345&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3177.jpg&#34; alt=&#34;Prionia&#34; width=&#34;536&#34; height=&#34;402&#34; /&gt;&lt;/a&gt; Prionia[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3177.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3177.jpg&lt;/a&gt; Prionia&lt;/p&gt;
 
 &lt;p&gt;Prionia - (1100m) The last place where vehicles can drive to. It has a restaurant, bathroom and water fountains.&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_335&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;535&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3070.jpg&#34;&gt;&lt;img class=&#34; wp-image-335&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3070.jpg&#34; alt=&#34;Refuge A&#34; width=&#34;535&#34; height=&#34;401&#34; /&gt;&lt;/a&gt; Refuge A[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3070.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3070.jpg&lt;/a&gt; Refuge A&lt;/p&gt;
 
 &lt;p&gt;Refuge A (2100 m). - One of the Refuges on the mountain. There are multiple Refuges on the mountain, but it is the only Refuge on the way if you take the Prionia route. Refuge A offers a place to sleep for over 90 people a night and warm food and water. They also have a bountiful supply of snacks and other goods such as socks that you can buy. You can charge your phone there as well.
-&lt;a href=&#34;http://www.hikenow.net/images/Greece/MtOlympus/img/IMG_3430.jpg&#34;&gt;&lt;img class=&#34;alignnone &#34; src=&#34;http://www.hikenow.net/images/Greece/MtOlympus/img/IMG_3430.jpg&#34; alt=&#34;&#34; width=&#34;559&#34; height=&#34;404&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://www.hikenow.net/images/Greece/MtOlympus/img/IMG_3430.jpg&#34; target=&#34;_blank&#34;&gt;http://www.hikenow.net/images/Greece/MtOlympus/img/IMG_3430.jpg&lt;/a&gt;
 Skala -  It leads to either Skolio or Mytikas (2866m)
 Skolio - The Second highest peak. (2911 m)
 Mytikas - The highest peak. (2918 m) Requires YDS class 3 scrambling&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;565&amp;rdquo;]&lt;a href=&#34;https://upload.wikimedia.org/wikipedia/commons/b/b2/Mytikas_from_Skala.jpg&#34;&gt;&lt;img class=&#34;&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/b/b2/Mytikas_from_Skala.jpg&#34; alt=&#34;Mytkas from Skala&#34; width=&#34;565&#34; height=&#34;424&#34; /&gt;&lt;/a&gt; Mytikas from Skala[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://upload.wikimedia.org/wikipedia/commons/b/b2/Mytikas_from_Skala.jpg&#34; target=&#34;_blank&#34;&gt;https://upload.wikimedia.org/wikipedia/commons/b/b2/Mytikas_from_Skala.jpg&lt;/a&gt; Mytikas from Skala&lt;/p&gt;
 
 &lt;p&gt;Even the most experienced hikers will follow this approach to hiking Mt. Olympus.&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;Day 1&lt;/span&gt;
-(You can start the Day 1 Hike anytime you want. I recommend starting it in the morning so it is not as hot and you have more time to adjust to the elevation. More info in the &amp;lt;Tips&amp;gt; section below.)
+&lt;p&gt;Day 1
+(You can start the Day 1 Hike anytime you want. I recommend starting it in the morning so it is not as hot and you have more time to adjust to the elevation. More info in the Tips section below.)
 @ T 0-  Take a taxi to Prionia
 @30 min -Begin hike from Prionia towards Refuge A. Follow the E4 trail (basically the only visible trail) and the clear directions towards the Refuge.
-&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3034.jpg&#34;&gt;&lt;img class=&#34;alignnone wp-image-331&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3034.jpg&#34; alt=&#34;IMG_3034&#34; width=&#34;391&#34; height=&#34;293&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3034.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3034.jpg&lt;/a&gt;
 @3hours 30min - Arrive at Refuge A (2100m)&lt;/p&gt;
 
 &lt;p&gt;Total hiking time: 3 hours&lt;/p&gt;
 
 &lt;p&gt;Stay at Refuge A for the night&lt;/p&gt;
 
-&lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;Day 2&lt;/span&gt;
+&lt;p&gt;Day 2
 6:00 Breakfast opens. Eat breakfast.
 7:00 Sun rises, set out for the hike. Follow the E4 trail towards Skala (Ascent)
 (2.25 hours)
 9:30 Arrive at Skala. Take path to Mytikas (Requires Class 3 Scrambling)
 (45 minutes)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/P1220774.jpg&#34;&gt;&lt;img class=&#34;wp-image-403 aligncenter&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/P1220774.jpg&#34; alt=&#34;p1220774&#34; width=&#34;500&#34; height=&#34;375&#34; /&gt;
-&lt;/a&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/P1220770.jpg&#34;&gt;&lt;img class=&#34;wp-image-401 aligncenter&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/P1220770.jpg&#34; alt=&#34;p1220770&#34; width=&#34;500&#34; height=&#34;375&#34; /&gt;
-&lt;/a&gt;
-10:30 Reach Mytikas
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/P1220774.JPG&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://wesleytian.github.io/olympus/P1220770.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;10:30 Reach Mytikas
 (15 minutes)
 10:45 Start climbing down to Refuge A (Descent)
 (3 hours)
 13:30 Reach Refuge A. Rest.
 (1 hour)
-14:30 Refuge A &amp;ndash;&amp;gt; Prionia (Descent)
+14:30 Refuge A &amp;ndash;Prionia (Descent)
 (3 hours)
 17:30 Arrive at Prionia. Take Taxi* back to Litochoro
 (30 minutes)
@@ -422,8 +447,9 @@ Mytikas - The highest peak. (2918 m) Requires YDS class 3 scrambling&lt;/p&gt;
 
 &lt;p&gt;Total hiking time: 9 hours&lt;/p&gt;
 
-&lt;p&gt;*There are no readily available taxis so you can either call one at the restaurant or preschedule one.
-&lt;h4&gt;FAQ&lt;/h4&gt;
+&lt;p&gt;There are no readily available taxis so you can either call one at the restaurant or preschedule one.&lt;/p&gt;
+
+&lt;p&gt;FAQ
 Can I reach Mytikas and come back down in one day?
 I&amp;rsquo;m sure there will be many of you out there who are asking the question. Can I hike Mt. Olympus in one day? I also wondered that and I had attempted to do it. When I got to Prionia that morning, it was raining very hard. My driver told me this was the first time it has rained like this all summer in Greece. Without the rain, it is possible to climb Mt. Olympus in one day. However with the Rain, scrambling to Mytikas is extremely dangerous. Granite is extremely slippery while wet and the falls are easily fatal. The second day only took me 5-6 hours instead of the average 9. The first day took me 2.5. If you get to Prionia at 8, and assuming you hike at a frisky pace, you can make it down by 18:00.  Hiking Mt. Olympus in one day is rarely seen and everyone you talk to will not recommend it. As I said, falls from the side of Mytikas are easily fatal and it would be wise to climb with a fresh mind and body.&lt;/p&gt;
 
@@ -439,34 +465,32 @@ I only wore shorts because I thought that it wouldn&amp;rsquo;t be that cold at 
 &lt;p&gt;Will my camera work at such cold temperatures?
 Your phone may not work at very cold temperatures, as in the case with my iPhone 6s. At about halfway to Skala from Refuge A, my phone would just die even though it had 30% battery left. I had to keep it tight against my stomach and hope that it would heat up enough so that I could take a few pictures. I was able to take a few from time to time, but for the most part, my phone was inoperable. Bring a camera that can withstand low temperatures to prevent these troubles.&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;
-&lt;h3&gt;&amp;lt;Pictures&amp;gt;&lt;/h3&gt;
-[caption id=&amp;ldquo;attachment_338&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3107.jpg&#34;&gt;&lt;img class=&#34; wp-image-338&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3107.jpg&#34; alt=&#34;Litochoro Town Map&#34; width=&#34;500&#34; height=&#34;667&#34; /&gt;&lt;/a&gt; Litochoro Town Map[/caption]&lt;/p&gt;
+&lt;p&gt;Pictures
+&lt;img src=&#34;https://wesleytian.github.io/olympus/IMG_3107.JPG&#34; alt=&#34;Litochoro Town Map&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_351&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3033.jpg&#34;&gt;&lt;img class=&#34; wp-image-351&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3033.jpg&#34; alt=&#34;Prionia --&amp;gt; Refuge A&#34; width=&#34;500&#34; height=&#34;375&#34; /&gt;&lt;/a&gt; Prionia &amp;ndash;&amp;gt; Refuge A[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3033.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3033.jpg&lt;/a&gt; Prionia &amp;ndash; Refuge A&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_355&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3062.jpg&#34;&gt;&lt;img class=&#34; wp-image-355&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3062.jpg&#34; alt=&#34;Ingenious Plant Species&#34; width=&#34;500&#34; height=&#34;500&#34; /&gt;&lt;/a&gt; Ingenious Plant Species[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3062.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3062.jpg&lt;/a&gt; Ingenious Plant Species&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_354&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3061.jpg&#34;&gt;&lt;img class=&#34; wp-image-354&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3061.jpg&#34; alt=&#34;Ingenious Plant Species&#34; width=&#34;500&#34; height=&#34;500&#34; /&gt;&lt;/a&gt; Ingenious Plant Species[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3061.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3061.jpg&lt;/a&gt; Ingenious Plant Species&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_353&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3053.jpg&#34;&gt;&lt;img class=&#34; wp-image-353&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3053.jpg&#34; alt=&#34;Ingenious Animal Species 1&#34; width=&#34;500&#34; height=&#34;500&#34; /&gt;&lt;/a&gt; Ingenious Animal Species 1[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3053.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3053.jpg&lt;/a&gt; Ingenious Animal Species 1&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_352&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;499&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3051-1.jpg&#34;&gt;&lt;img class=&#34; wp-image-352&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3051-1.jpg&#34; alt=&#34;Mt. Olympus Landscape&#34; width=&#34;499&#34; height=&#34;375&#34; /&gt;&lt;/a&gt; Mt. Olympus Landscape[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3051-1.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3051-1.jpg&lt;/a&gt; Mt. Olympus Landscape&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_334&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;499&amp;rdquo;]&lt;img class=&#34;wp-image-334&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3069-e1472849132140.jpg&#34; alt=&#34;Refuge A Sign&#34; width=&#34;499&#34; height=&#34;665&#34; /&gt; Refuge A Sign[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3069-e1472849132140.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3069-e1472849132140.jpg&lt;/a&gt; Refuge A Sign&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_336&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;img class=&#34;wp-image-336&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3075.jpg&#34; alt=&#34;Refuge A Recpetion&#34; width=&#34;500&#34; height=&#34;375&#34; /&gt; Refuge A Interior[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3075.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3075.jpg&lt;/a&gt; Refuge A Interior&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_340&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;img class=&#34;wp-image-340&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3111.jpg&#34; alt=&#34;Refuge A Menu List&#34; width=&#34;500&#34; height=&#34;667&#34; /&gt; Refuge A Menu List[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/IMG_3111.JPG&#34; alt=&#34;Refuge A Menu List&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_337&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;501&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3105.jpg&#34;&gt;&lt;img class=&#34;wp-image-337&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3105.jpg&#34; alt=&#34;Spaghetti Bolognese&#34; width=&#34;501&#34; height=&#34;376&#34; /&gt;&lt;/a&gt; Dinner (Spaghetti Bolognese with Orange Soda)[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/IMG_3105.JPG&#34; alt=&#34;Dinner (Spaghetti Bolognese with Orange Soda&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Refuge A Interior&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_341&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3113.jpg&#34;&gt;&lt;img class=&#34;wp-image-341&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3113.jpg&#34; alt=&#34;Breakfast&#34; width=&#34;500&#34; height=&#34;375&#34; /&gt;&lt;/a&gt; Breakfast (Bread &amp;amp; Tea)[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3113.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3113.jpg&lt;/a&gt; Breakfast (Bread and Tea)&lt;/p&gt;
 
-&lt;p&gt;&amp;nbsp;
-&lt;h3&gt;&amp;lt;FINAL VERDICT&amp;gt;&lt;/h3&gt;
+&lt;p&gt;FINAL VERDICT
 Out of all the hikes that I&amp;rsquo;ve been on so far, (Mt. Fuji, Half Dome, other less popular hikes) Mt. Olympus has been my favorite experience of them all. First, the people were amazing. The guys that I hiked up the mountain with were extremely friendly and even though two of them did not speak English at all (Romanian and Greek), they were nice and fun people to be around. The people at the Refuge were really good-natured and friendly as well. You will meet people from all over the world and it seems like hikers are just really nice people in general. I became friends with 2 Greeks, 1 Romanian fellow, 3 Austrians, 2 Germans as well as 2 dogs.&lt;/p&gt;
 
 &lt;p&gt;The views were absolutely stunning. I finally understand what people mean by &amp;lsquo;some views are worth dying for&amp;rsquo; now. Waking up to the sunrise over Litochoro and the sea was absolutely magical. The hike up the mountain was phenomenal as well. I chose hiking Mt. Olympus over going to the Santorini islands and I think it was definitely worth it. Even though the sights were jaw-dropping, hiking isn&amp;rsquo;t just about the sights, it&amp;rsquo;s about the entire experience that includes the people, the smells, and the feelings that you endure through the hike.&lt;/p&gt;
@@ -496,9 +520,9 @@ Out of all the hikes that I&amp;rsquo;ve been on so far, (Mt. Fuji, Half Dome, o
 
 &lt;p&gt;WHY&lt;/p&gt;
 
-&lt;p&gt;In order to play music, one must have an amp. Each computer and device that is able to play music have a built-in amp in the housing of the device. However, if you plan to use higher-fidelity earphones that have a higher output impendence (&amp;gt;32ohms), then an external amp would be useful if not necessary to increase the volume without unnecessary distortion. As you may know, increasing the volume to high levels will not only cause damage to the headphones but will also cause enormous distortion. A good amp not only provides sufficient power to increase the volume of the sound but also do so without losing noticeable sound quality. An external headphone amp offers more space that can provide better circuitry and a stronger power supply.&lt;/p&gt;
+&lt;p&gt;In order to play music, one must have an amp. Each computer and device that is able to play music have a built-in amp in the housing of the device. However, if you plan to use higher-fidelity earphones that have a higher output impendence (32ohms), then an external amp would be useful if not necessary to increase the volume without unnecessary distortion. As you may know, increasing the volume to high levels will not only cause damage to the headphones but will also cause enormous distortion. A good amp not only provides sufficient power to increase the volume of the sound but also do so without losing noticeable sound quality. An external headphone amp offers more space that can provide better circuitry and a stronger power supply.&lt;/p&gt;
 
-&lt;p&gt;Headphones such as the Sennheiser HD 600 and HD 800 have output impedances of 300 ohms. In order to properly drive these, you will need an amp. Without an amp, the sound even at the highest volume on your laptop will sound weak and the highs and lows will be greatly lacking. Many bass sounds with low frequencies may not be heard at all. Other earphones such as the Earpods or convenience store headphones have very low output impedances &amp;lt; 32 so they appear to be very loud even when only driven by your laptop or phone. Most headphones under $100 will not require an amp as they are meant for the average consumer who only cares about providing sound and not high-quality playback. Many people who ended up trying a better pair of headphones with an external amp have  repeatedly said that it was like listening to a different song. They notice many sounds and background instruments that they have never heard before. And the best thing about this is that you don&amp;rsquo;t need a special pair of ears or training to hear the difference.&lt;/p&gt;
+&lt;p&gt;Headphones such as the Sennheiser HD 600 and HD 800 have output impedances of 300 ohms. In order to properly drive these, you will need an amp. Without an amp, the sound even at the highest volume on your laptop will sound weak and the highs and lows will be greatly lacking. Many bass sounds with low frequencies may not be heard at all. Other earphones such as the Earpods or convenience store headphones have very low output impedances 32 so they appear to be very loud even when only driven by your laptop or phone. Most headphones under $100 will not require an amp as they are meant for the average consumer who only cares about providing sound and not high-quality playback. Many people who ended up trying a better pair of headphones with an external amp have  repeatedly said that it was like listening to a different song. They notice many sounds and background instruments that they have never heard before. And the best thing about this is that you don&amp;rsquo;t need a special pair of ears or training to hear the difference.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/IMG_1207.jpg&#34; alt=&#34;Amp&#34; /&gt;&lt;/p&gt;
 
@@ -566,25 +590,24 @@ Out of all the hikes that I&amp;rsquo;ve been on so far, (Mt. Fuji, Half Dome, o
       <guid>https://wesleytian.github.io/2016/halfdome/</guid>
       <description></description>
       
-      <content>&lt;p&gt;It&amp;rsquo;s been nearly a whole year since I summited the half dome in Yosemite Valley National Park. One of my favorite hiking adventures of all time, below is the journal entry that I wrote after the hike.&lt;/em&gt;&lt;/p&gt;
+      <content>&lt;p&gt;It&amp;rsquo;s been nearly a whole year since I summited the half dome in Yosemite Valley National Park. One of my favorite hiking adventures of all time, below is the journal entry that I wrote after the hike.&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;http://outdoorwomensalliance.com/wp-content/uploads/2016/01/half-dome-yosemite-valley-visitation.jpg&#34; width=&#34;1920&#34; height=&#34;1280&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://outdoorwomensalliance.com/wp-content/uploads/2016/01/half-dome-yosemite-valley-visitation.jpg&#34; target=&#34;_blank&#34;&gt;http://outdoorwomensalliance.com/wp-content/uploads/2016/01/half-dome-yosemite-valley-visitation.jpg&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=DhZQlaqzddg&#34; target=&#34;_blank&#34;&gt;https://www.youtube.com/watch?v=DhZQlaqzddg&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;A first-person POV video of the same path I took.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;9/1/2015&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;9/1/2015&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;It&amp;rsquo;s currently 3:28AM and I just really wanted to record my thoughts and experiences before I forget them. Up until now I have not had the chance to get on my computer. Seldom does that happen to people, but it seems to happen to me quite often. I&amp;rsquo;m one of those kinds of people that could probably not use the internet unless they had to.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;8/31/2015&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s currently 3:28AM and I just really wanted to record my thoughts and experiences before I forget them. Up until now I have not had the chance to get on my computer. Seldom does that happen to people, but it seems to happen to me quite often. I&amp;rsquo;m one of those kinds of people that could probably not use the internet unless they had to.
+8/31/2015&lt;/p&gt;
 
 &lt;p&gt;My alarm went off at 5:30AM. I was waken up by the sounds of my neighbors multiple times throughout the night. And when I finally fell into deep sleep at 2AM, I had to leave for the hike. During the night I had many dreams that I wish  I could&amp;rsquo;ve recorded.&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;ldquo;attachment_184&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;671&amp;rdquo;]&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/07/IMG_0461.jpg&#34;&gt;&lt;img class=&#34;wp-image-184&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/07/IMG_0461.jpg&#34; alt=&#34;A picture of a first aid kit, sunscreen, windbreaker, gloves, and snacks such as Clif bars and energy bloks&#34; width=&#34;671&#34; height=&#34;503&#34; /&gt;&lt;/a&gt; Packing for the hike[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/yosemite/IMG_0461.jpg&#34; alt=&#34;Packing for the hike&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I dressed myself and set out with my parents at 6AM, eating my cold turkey sandwich on the way.&lt;/p&gt;
+&lt;p&gt;I put on clothes and set out with my parents at 6AM, eating my cold turkey sandwich on the way.&lt;/p&gt;
 
 &lt;p&gt;Our first stop was Happy Isles Nature Center, a.k.a. a shuttle bus stop. The first part was only three-quarters of a mile or 1.2km. After crossing the Happy Isles Bridge, I parted ways with my parents and took the Mist Trail leading to Vernal Falls, then Nevada Falls.&lt;/p&gt;
 
@@ -594,7 +617,7 @@ Out of all the hikes that I&amp;rsquo;ve been on so far, (Mt. Fuji, Half Dome, o
 
 &lt;p&gt;I remember having many interesting thoughts.&lt;/p&gt;
 
-&lt;p&gt;What was especially interesting was how during the hike I began to remember so many things from my past. Recalling specific moments, such as waking up in the morning  before dawn everyday during military camp, and hiking Mirror Lake in Oregon as a child. It felt euphoric. It was like a rollercoaster of emotions.&lt;img class=&#34;wp-image-191 aligncenter&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/07/IMG_0447-PANO.jpg&#34; alt=&#34;Panoramic view of the Yosemite Valley from atop the Half Dome&#34; width=&#34;772&#34; height=&#34;311&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;What was especially interesting was how during the hike I began to remember so many things from my past. Recalling specific moments, such as waking up in the morning  before dawn everyday during military camp, and hiking Mirror Lake in Oregon as a child. It felt euphoric. It was like a rollercoaster of emotions. &lt;img src=&#34;https://wesleytian.github.io/yosemite/IMG_0447-PANO.jpg&#34; alt=&#34;Panorama&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I did meet a guy on the way back who seemed to be on the same schedule as me. We reached the top at the same time, and after resting separately we ended up coming down at the same time.&lt;/p&gt;
 
@@ -602,15 +625,15 @@ Out of all the hikes that I&amp;rsquo;ve been on so far, (Mt. Fuji, Half Dome, o
 
 &lt;p&gt;On the way back, I chose the John Muir Trail instead of the Mist Trail in an attempt for some change in scenery. That was when I split up with my travel friend. It was the right choice. I got a surplus of more splendid sights, and even got the chance to rest and wash my feet near a stream. It was very chill. With 4 miles left,  I ran out of water. That meant no food either because my energy snacks actually dehydrate you. I was saved by some nice travellers though, who threw me a water bottle.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/07/IMG_0487.jpg&#34;&gt;&lt;img class=&#34;wp-image-185 aligncenter&#34; src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/07/IMG_0487.jpg&#34; alt=&#34;IMG_0487&#34; width=&#34;735&#34; height=&#34;551&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/yosemite/IMG_0487.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;By the time I got down, I wasn&amp;rsquo;t even that ecstatic to have made it to the top of the Half Dome and to have completed the adventure. I was just too exhausted. Looking at the pictures I took just seemed unnaturally serene to me. It felt just the Mt. Fuji hike. It&amp;rsquo;s just like life. After trekking so far and persevering so much, you make it to the top. &lt;em&gt;But then&lt;/em&gt;, you don&amp;rsquo;t even feel accomplished because after a while it just becomes who you are. If you spend 20 years of your life becoming rich (however much money that is), and you finally become rich, you may hurrah one time, but then after that, that feeling of accomplishment fades and you just label yourself as &amp;ldquo;rich&amp;rdquo; and move onto other things.&lt;/p&gt;
+&lt;p&gt;By the time I got down, I wasn&amp;rsquo;t even that ecstatic to have made it to the top of the Half Dome and to have completed the adventure. I was just too exhausted. Looking at the pictures I took just seemed unnaturally serene to me. It felt just the Mt. Fuji hike. It&amp;rsquo;s just like life. After trekking so far and persevering so much, you make it to the top. But then, you don&amp;rsquo;t even feel accomplished because after a while it just becomes who you are. If you spend 20 years of your life becoming rich (however much money that is), and you finally become rich, you may hurrah one time, but then after that, that feeling of accomplishment fades and you just label yourself as &amp;ldquo;rich&amp;rdquo; and move onto other things.&lt;/p&gt;
 
 &lt;p&gt;Anyways, after hiking I was soo tired. My dad congratulated me yet I just ignored him. Too tired. On the way down I even stopped saying hi to people. Anyways, I took a shower, ate and immediately went to sleep. Didn&amp;rsquo;t even move my stuff off of my bed.&lt;/p&gt;
 
 &lt;p&gt;Overall, this adventure was extremely worth it. Compared to Mt. Fuji, I might even say it was easier. And when I say that many factors come into play. Hiking Mt. Fuji, I was operating on zero sleep, less proper food, less water, a more drastic range of temperatures it was in the middle of the night and I was surrounded by people that complained were complaining every five or so minutes.&lt;/p&gt;
 
-&lt;p&gt;As for the Half Dome, I had more rest, preparation, equipment, a Camelbak, it was during the daytime and nobody to complain to me. It was just myself. I noticed that when you are alone, you don&amp;rsquo;t complain. Not only is it because I have nobody really to complain to but I also just toughen up. It&amp;rsquo;s like I&amp;rsquo;m competing against a better version of myself. Whenever I complain I noticed that half the time it&amp;rsquo;s to fit in because everyone else around me is complaining as well. One of my friends, Max, does a great job of not complaining when a workout gets tough. For lack of proper terms, he just mans up, like me when I am alone. I guess I have to stop learning from the bad habits of others and be myself. At the start of the hike I thought this hike was going to be harder than Mt. Fuji because I had to hike it alone. But I was wrong. It was WAY easier because&lt;em&gt; I was alone&lt;/em&gt;. Nobody to slow me down, to mess up my pacing and to disturb me from my thoughts. If I wanted to talk to people I could still talk to people on the way. What I did was entirely up to me and I didn&amp;rsquo;t even have to stay with them the entire way.&lt;/p&gt;
+&lt;p&gt;As for the Half Dome, I had more rest, preparation, equipment, a Camelbak, it was during the daytime and nobody to complain to me. It was just myself. I noticed that when you are alone, you don&amp;rsquo;t complain. Not only is it because I have nobody really to complain to but I also just toughen up. It&amp;rsquo;s like I&amp;rsquo;m competing against a better version of myself. Whenever I complain I noticed that half the time it&amp;rsquo;s to fit in because everyone else around me is complaining as well. One of my friends, Max, does a great job of not complaining when a workout gets tough. For lack of proper terms, he just mans up, like me when I am alone. I guess I have to stop learning from the bad habits of others and be myself. At the start of the hike I thought this hike was going to be harder than Mt. Fuji because I had to hike it alone. But I was wrong. It was WAY easier because I was alone. Nobody to slow me down, to mess up my pacing and to disturb me from my thoughts. If I wanted to talk to people I could still talk to people on the way. What I did was entirely up to me and I didn&amp;rsquo;t even have to stay with them the entire way.&lt;/p&gt;
 
 &lt;p&gt;Climbing Mt. Fuji, I had to make decisions for the other three as I was the one who planned the hike and if it was a bad decision, the blame was on me. We were forced to wait repeatedly for my friend named Henry and another friend, Andrew, being the good guy that he is stayed behind to wait for him. On the way down, Andrew and Henry had looks of such despair and pain on their faces that it seemed like they were about to collapse. And Edward, the third friend, was just too fatigued and annoyed to talk. If I had hiked Mt. Fuji like I had hiked Half Dome with that guy, we would&amp;rsquo;ve made it down in no time and not even felt shitty. To be frank, my friends weren&amp;rsquo;t probably used to pushing themselves so hard physically.&lt;/p&gt;
 
@@ -704,10 +727,13 @@ My computer science professor for the spring semester was hiring an intern to h
       
       <content>&lt;p&gt;What is your passion?
  
-I was asked this question by my professor nonchalantly while having a light conversation. It seemed like a simple question at first. However, after deeply thinking about it, I realized that I did not have an answer. I answered with &amp;ldquo;well, I&amp;rsquo;m passionate about a lot of things. I&amp;rsquo;m passionate about the environment, and about other things.&amp;rdquo; Compared to him, I wasn&amp;rsquo;t even really passionate about the environment. It was probably just an interest. It was barely an answer. I continued to think about that as the days flew by.
-This evening, as I stumbled upon a TED talks playlist called: Talks to watch when you don&amp;rsquo;t know what to do with your life, and since I had nothing better to do, I decided to just watch the first one. It was tilted: Why you will fail to have a great career by Larry Smith, an economist. I didn&amp;rsquo;t want to watch it at first. Being the optimistic kind of guy that I am, I had no doubt that my career wouldn&amp;rsquo;t fail, therefore watching it would be a waste of my time. However, my curiosity got the better of me and just watched it.
-What was really inspiring was that it also talked about passion. It reminded me of the chat that I had with my professor. He talked about how most peoples&amp;rsquo; careers fail because of a lack of passion. People with passion in the field that your in will always be more successful. You may earn more than them if you put enough of your time into it, but enjoy doing what they do, while you will still be searching for your life&amp;rsquo;s purpose.
-The more I thought about it, the more I drove myself into a dead end. I didn&amp;rsquo;t really have anything that I was passionate about. I enjoyed doing almost everything from a young child. I enjoyed playing all the sports, found them all to have different aspects that I was really passionate about, and to this day, I still enjoy a large variety of topics. I may be a computer scientist in school, but outside of school, I&amp;rsquo;m passionate about the arts, music, literature and humanitarian subjects. I enjoy writing in my free time, reading, and reading some more. I find interest in all sorts of stuff and I always have an insatiable curiosity to learn more, no matter what it is.  Whenever I travel, I enjoy engaging in conversations with strangers, genuinely curious to learn more about them and what they do. And the more I thought about it, the more I began to realize. What if a passion can be anything? What if your passion doesn&amp;rsquo;t have to be one particular field or activity? What if a passion can be learning? One way that my professor defines a passion is something that you are willing to do for the rest of your life. There is nothing that I would be willing to do for the rest of my life, except learning. I can&amp;rsquo;t just do one thing. coding? writing? reading? philosophy? economics? math? no way. Although the one problem that I now realize is that learning as a passion does not make any money. Well, directly that is. Indirectly however, it could generate income based on my knowledge and skills that I develop through learning.&lt;/p&gt;
+I was asked this question by my professor nonchalantly while having a light conversation. It seemed like a simple question at first. However, after deeply thinking about it, I realized that I did not have an answer. I answered with &amp;ldquo;well, I&amp;rsquo;m passionate about a lot of things. I&amp;rsquo;m passionate about the environment, and about other things.&amp;rdquo; Compared to him, I wasn&amp;rsquo;t even really passionate about the environment. It was probably just an interest. It was barely an answer. I continued to think about that as the days flew by.&lt;/p&gt;
+
+&lt;p&gt;This evening, as I stumbled upon a TED talks playlist called: Talks to watch when you don&amp;rsquo;t know what to do with your life, and since I had nothing better to do, I decided to just watch the first one. It was tilted: Why you will fail to have a great career by Larry Smith, an economist. I didn&amp;rsquo;t want to watch it at first. Being the optimistic kind of guy that I am, I had no doubt that my career wouldn&amp;rsquo;t fail, therefore watching it would be a waste of my time. However, my curiosity got the better of me and just watched it.&lt;/p&gt;
+
+&lt;p&gt;What was really inspiring was that it also talked about passion. It reminded me of the chat that I had with my professor. He talked about how most peoples&amp;rsquo; careers fail because of a lack of passion. People with passion in the field that your in will always be more successful. You may earn more than them if you put enough of your time into it, but enjoy doing what they do, while you will still be searching for your life&amp;rsquo;s purpose.&lt;/p&gt;
+
+&lt;p&gt;The more I thought about it, the more I drove myself into a dead end. I didn&amp;rsquo;t really have anything that I was passionate about. I enjoyed doing almost everything from a young child. I enjoyed playing all the sports, found them all to have different aspects that I was really passionate about, and to this day, I still enjoy a large variety of topics. I may be a computer scientist in school, but outside of school, I&amp;rsquo;m passionate about the arts, music, literature and humanitarian subjects. I enjoy writing in my free time, reading, and reading some more. I find interest in all sorts of stuff and I always have an insatiable curiosity to learn more, no matter what it is.  Whenever I travel, I enjoy engaging in conversations with strangers, genuinely curious to learn more about them and what they do. And the more I thought about it, the more I began to realize. What if a passion can be anything? What if your passion doesn&amp;rsquo;t have to be one particular field or activity? What if a passion can be learning? One way that my professor defines a passion is something that you are willing to do for the rest of your life. There is nothing that I would be willing to do for the rest of my life, except learning. I can&amp;rsquo;t just do one thing. coding? writing? reading? philosophy? economics? math? no way. Although the one problem that I now realize is that learning as a passion does not make any money. Well, directly that is. Indirectly however, it could generate income based on my knowledge and skills that I develop through learning.&lt;/p&gt;
 
 &lt;p&gt;Or maybe I just haven&amp;rsquo;t found my passion yet. That is an entirely other possibility. Based on my past and how well I know myself, I don&amp;rsquo;t think that I will find a distinct one. But who knows? Anything&amp;rsquo;s possible, right?
  
@@ -724,8 +750,9 @@ A bit of a background about my professor: Not only is he a professor, he has a s
       <guid>https://wesleytian.github.io/2016/professor/</guid>
       <description></description>
       
-      <content>&lt;p&gt;My freshmen chapter ends here, and a new chapter begins.  Today, I moved in with an associate professor from the Computer Science department at UMass Amherst. I will be working for him for the next 4 months. He runs an open-source hardware business that produces programmable sprinklers for people. This opportunity is a godsend; the fact that I am making money is crumbs compared to what else I may gain from this invaluable experience. I think the most important thing is that by being in close proximity with an associate professor from the Computer Science department will be extremely beneficial to my development as a computer science major and as a student of academia. The information that I will be able to gain through talking to him, and working with him will hopefully give me a keener insight on my future as well help pave my academic path.
-Since I will be learning a lot, I will only post the things that I find are the most valuable to me.&lt;/p&gt;
+      <content>&lt;p&gt;My freshmen chapter ends here, and a new chapter begins.  Today, I moved in with an associate professor from the Computer Science department at UMass Amherst. I will be working for him for the next 4 months. He runs an open-source hardware business that produces programmable sprinklers for people. This opportunity is a godsend; the fact that I am making money is crumbs compared to what else I may gain from this invaluable experience. I think the most important thing is that by being in close proximity with an associate professor from the Computer Science department will be extremely beneficial to my development as a computer science major and as a student of academia. The information that I will be able to gain through talking to him, and working with him will hopefully give me a keener insight on my future as well help pave my academic path.&lt;/p&gt;
+
+&lt;p&gt;Since I will be learning a lot, I will only post the things that I find are the most valuable to me.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;1.  Why do professors continue to do research, even long after they are finished with their PhD, and teaching? Because &amp;quot;there is a problem that I want to solve&amp;quot; It is something that they are passionate about, and just like a game or any other puzzle with an endgame in mind, it is something that they want to achieve.
 
@@ -749,7 +776,7 @@ Since I will be learning a lot, I will only post the things that I find are the 
 
 &lt;p&gt;I do believe that a person&amp;rsquo;s friends and experiences shape them. However, it wouldn&amp;rsquo;t be possible to know someone by just knowing their friends. You can never know all of his/her friends. Even if you did, you would have to understand all of them and all of their friends. When a friend of yours has a very questionable friend such as an alcoholic, you can&amp;rsquo;t judge either of them. It would be doing them an injustice. There is nothing you can tell from a situation like that. People are defined by their friends, but you can&amp;rsquo;t define a person by just observing their friends. You need to take this matter to the personal level. Whoever it is, I am sure that they&amp;rsquo;re much different than their friends.&lt;/p&gt;
 
-&lt;p&gt;I am dedicating this post to not just friends in general, but my personal friends. I feel that without my friends I would just be an empty shell. They have made me. Additionally, after 18 years I&amp;rsquo;ve come to realize that my closest friends will always be the ones who are the most similar to me. My dad once told me that short people and tall people can become friends rather easily because such differences give them more to talk about. Maybe that is true for him, but from personal experience, I find that to be untrue in my life. Differences separate people, they don&amp;rsquo;t bring people together. Similarities are the things that bring people closer together, creating bonds for life. You can talk to people very different to you, you may be intrigued by how they think and of their backgrounds, but you will never truly be able to bond with them as well as you can bond with people that share the same story as you. People with similar stories and families have a bond that is deeper than friendship. Their stories are interconnected. They run a similar fate and are on the same plane. No matter what happens, there will always be a link that runs through them.&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;I am dedicating this post to not just friends in general, but my personal friends. I feel that without my friends I would just be an empty shell. They have made me. Additionally, after 18 years I&amp;rsquo;ve come to realize that my closest friends will always be the ones who are the most similar to me. My dad once told me that short people and tall people can become friends rather easily because such differences give them more to talk about. Maybe that is true for him, but from personal experience, I find that to be untrue in my life. Differences separate people, they don&amp;rsquo;t bring people together. Similarities are the things that bring people closer together, creating bonds for life. You can talk to people very different to you, you may be intrigued by how they think and of their backgrounds, but you will never truly be able to bond with them as well as you can bond with people that share the same story as you. People with similar stories and families have a bond that is deeper than friendship. Their stories are interconnected. They run a similar fate and are on the same plane. No matter what happens, there will always be a link that runs through them.&lt;/p&gt;
 </content>
       
     </item>
@@ -807,41 +834,56 @@ You don&amp;rsquo;t really feel the emotions of leaving a place that has been yo
       
       <content>&lt;p&gt;It&amp;rsquo;s been nearly a whole year since I summited the half dome in Yosemite Valley National Park. One of my favorite hiking adventures of all time, below is the journal entry that I wrote after the hike.&lt;/p&gt;
 
-&lt;p&gt;A first-person POV video of the same path I took.
-9/1/2015
-It&amp;rsquo;s currently 3:28AM and I just really wanted to record my thoughts and experiences before I forget them. Up until now I have not had the chance to get on my computer. Seldom does that happen to people, but it seems to happen to me quite often. I&amp;rsquo;m one of those kinds of people that could probably not use the internet unless they had to.
-8/31/2015
+&lt;p&gt;A first-person POV video of the same path I took.&lt;/p&gt;
+
+&lt;p&gt;9/1/2015
+It&amp;rsquo;s currently 3:28AM and I just really wanted to record my thoughts and experiences before I forget them. Up until now I have not had the chance to get on my computer. Seldom does that happen to people, but it seems to happen to me quite often. I&amp;rsquo;m one of those kinds of people that could probably not use the internet unless they had to.&lt;/p&gt;
+
+&lt;p&gt;8/31/2015
 My alarm went off at 5:30AM. I was waken up by the sounds of my neighbors multiple times throughout the night. And when I finally fell into deep sleep at 2AM, I had to leave for the hike. During the night I had many dreams that I wish  I could&amp;rsquo;ve recorded.&lt;/p&gt;
 
 &lt;p&gt;Packing for the hike
-I dressed myself and set out with my parents at 6AM, eating my cold turkey sandwich on the way.
-Our first stop was Happy Isles Nature Center, a.k.a. a shuttle bus stop. The first part was only three-quarters of a mile or 1.2km. After crossing the Happy Isles Bridge, I parted ways with my parents and took the Mist Trail leading to Vernal Falls, then Nevada Falls.
-Along the way I met many people. At first it felt weird being greeted by and greeting everyone I met on the trail. Later, it became instinct for me. I realized that it was usually the casual American day hikers that greeted me back. The hardcore hikers were too focused, and the foreigners were probably alien to being greeted by strangers all the time.
-The first two waterfalls were only the beginning. The real hike was little Yosemite Valley (approx. 4 miles). During this time I was almost completely alone, having an abundant amount of time to think and sing and do whatever I wanted
-I remember having many interesting thoughts.
+I dressed myself and set out with my parents at 6AM, eating my cold turkey sandwich on the way.&lt;/p&gt;
+
+&lt;p&gt;Our first stop was Happy Isles Nature Center, a.k.a. a shuttle bus stop. The first part was only three-quarters of a mile or 1.2km. After crossing the Happy Isles Bridge, I parted ways with my parents and took the Mist Trail leading to Vernal Falls, then Nevada Falls.&lt;/p&gt;
+
+&lt;p&gt;Along the way I met many people. At first it felt weird being greeted by and greeting everyone I met on the trail. Later, it became instinct for me. I realized that it was usually the casual American day hikers that greeted me back. The hardcore hikers were too focused, and the foreigners were probably alien to being greeted by strangers all the time.&lt;/p&gt;
+
+&lt;p&gt;The first two waterfalls were only the beginning. The real hike was little Yosemite Valley (approx. 4 miles). During this time I was almost completely alone, having an abundant amount of time to think and sing and do whatever I wanted&lt;/p&gt;
+
+&lt;p&gt;I remember having many interesting thoughts.
 What was especially interesting was how during the hike I began to remember so many things from my past. Recalling specific moments, such as waking up in the morning  before dawn everyday during military camp, and hiking Mirror Lake in Oregon as a child. It felt euphoric. It was like a rollercoaster of emotions.&lt;/p&gt;
 
-&lt;p&gt;I did meet a guy on the way back who seemed to be on the same schedule as me. We reached the top at the same time, and after resting separately we ended up coming down at the same time.
-We travelled fast, I mean like passing people every ten minutes sort of fast. And there weren&amp;rsquo;t that many people to begin with. We never formally introduced ourselves to each other, but we chatted plenty on the descent as a result I learned many things about him. Before living in Utah and doing research in biotech, he attended Baylor College of Medicine in Texas to pursue his PhD in microbiology. He did research on HIV for 5 years. He attended Oregon State University for his undergraduate studies where he double majored in environmental engineering as well as something else. Additionally, he introduced himself to me as an avid gamer. Although the only game I really played at the time was League of Legends, we talked about his favorites such as Deadspace and Dark Souls. He told me that he used to be a marathon runner. A while back, he quit his job to relax for a while before having some surgeries. He&amp;rsquo;d been traveling across the states on a goal to tour all of the national parks. Although it may seem somewhat arbitrary and insignificant, I couldn&amp;rsquo;t help but notice that he had the same pose as me of a pic when I posed for a picture on top of Mt. Fuji. One knee kneeling, with one elbow draping down on the other. Just from that act, I thought I could possibly relate to him somehow in personality. In addition, while descending the cables, I realized we had much in common. Not just where we lived and where we were from but also in personality. It was pretty great. Talking to him for the first time was natural and not awkward at all. It felt as if we had been friends for a very long time.
+&lt;p&gt;I did meet a guy on the way back who seemed to be on the same schedule as me. We reached the top at the same time, and after resting separately we ended up coming down at the same time.&lt;/p&gt;
+
+&lt;p&gt;We travelled fast, I mean like passing people every ten minutes sort of fast. And there weren&amp;rsquo;t that many people to begin with. We never formally introduced ourselves to each other, but we chatted plenty on the descent as a result I learned many things about him. Before living in Utah and doing research in biotech, he attended Baylor College of Medicine in Texas to pursue his PhD in microbiology. He did research on HIV for 5 years. He attended Oregon State University for his undergraduate studies where he double majored in environmental engineering as well as something else. Additionally, he introduced himself to me as an avid gamer. Although the only game I really played at the time was League of Legends, we talked about his favorites such as Deadspace and Dark Souls. He told me that he used to be a marathon runner. A while back, he quit his job to relax for a while before having some surgeries. He&amp;rsquo;d been traveling across the states on a goal to tour all of the national parks. Although it may seem somewhat arbitrary and insignificant, I couldn&amp;rsquo;t help but notice that he had the same pose as me of a pic when I posed for a picture on top of Mt. Fuji. One knee kneeling, with one elbow draping down on the other. Just from that act, I thought I could possibly relate to him somehow in personality. In addition, while descending the cables, I realized we had much in common. Not just where we lived and where we were from but also in personality. It was pretty great. Talking to him for the first time was natural and not awkward at all. It felt as if we had been friends for a very long time.
 On the way back, I chose the John Muir Trail instead of the Mist Trail in an attempt for some change in scenery. That was when I split up with my travel friend. It was the right choice. I got a surplus of more splendid sights, and even got the chance to rest and wash my feet near a stream. It was very chill. With 4 miles left,  I ran out of water. That meant no food either because my energy snacks actually dehydrate you. I was saved by some nice travellers though, who threw me a water bottle.&lt;/p&gt;
 
-&lt;p&gt;By the time I got down, I wasn&amp;rsquo;t even that ecstatic to have made it to the top of the Half Dome and to have completed the adventure. I was just too exhausted. Looking at the pictures I took just seemed unnaturally serene to me. It felt just the Mt. Fuji hike. It&amp;rsquo;s just like life. After trekking so far and persevering so much, you make it to the top. But then, you don&amp;rsquo;t even feel accomplished because after a while it just becomes who you are. If you spend 20 years of your life becoming rich (however much money that is), and you finally become rich, you may hurrah one time, but then after that, that feeling of accomplishment fades and you just label yourself as &amp;ldquo;rich&amp;rdquo; and move onto other things.
-Anyways, after hiking I was soo tired. My dad congratulated me yet I just ignored him. Too tired. On the way down I even stopped saying hi to people. Anyways, I took a shower, ate and immediately went to sleep. Didn&amp;rsquo;t even move my stuff off of my bed.
-Overall, this adventure was extremely worth it. Compared to Mt. Fuji, I might even say it was easier. And when I say that many factors come into play. Hiking Mt. Fuji, I was operating on zero sleep, less proper food, less water, a more drastic range of temperatures it was in the middle of the night and I was surrounded by people that complained were complaining every five or so minutes.
-As for the Half Dome, I had more rest, preparation, equipment, a Camelbak, it was during the daytime and nobody to complain to me. It was just myself. I noticed that when you are alone, you don&amp;rsquo;t complain. Not only is it because I have nobody really to complain to but I also just toughen up. It&amp;rsquo;s like I&amp;rsquo;m competing against a better version of myself. Whenever I complain I noticed that half the time it&amp;rsquo;s to fit in because everyone else around me is complaining as well. One of my friends, Max, does a great job of not complaining when a workout gets tough. For lack of proper terms, he just mans up, like me when I am alone. I guess I have to stop learning from the bad habits of others and be myself. At the start of the hike I thought this hike was going to be harder than Mt. Fuji because I had to hike it alone. But I was wrong. It was WAY easier because I was alone. Nobody to slow me down, to mess up my pacing and to disturb me from my thoughts. If I wanted to talk to people I could still talk to people on the way. What I did was entirely up to me and I didn&amp;rsquo;t even have to stay with them the entire way.
-Climbing Mt. Fuji, I had to make decisions for the other three as I was the one who planned the hike and if it was a bad decision, the blame was on me. We were forced to wait repeatedly for my friend named Henry and another friend, Andrew, being the good guy that he is stayed behind to wait for him. On the way down, Andrew and Henry had looks of such despair and pain on their faces that it seemed like they were about to collapse. And Edward, the third friend, was just too fatigued and annoyed to talk. If I had hiked Mt. Fuji like I had hiked Half Dome with that guy, we would&amp;rsquo;ve made it down in no time and not even felt shitty. To be frank, my friends weren&amp;rsquo;t probably used to pushing themselves so hard physically.
-Now Half Dome on the other hand was completely chill. I honestly had an amazing hike. I think unless I find the right partner, it might be better that I hike alone. It seems that sometimes other people just you back. Plus, the alone time was extra special. Talking to my travel pal, the descent just went by in a blink of an eye.
-Well now that this hike is over, I don&amp;rsquo;t know what else is in store for me this summer. Nothing can possibly compare to this hike. I also only have seven days left until school officially starts! Holy cow time goes by fast. I can&amp;rsquo;t believe it&amp;rsquo;s the first of September today already. That leaves me with only three more days until I check-in!
-Wow. Well four more days including today since the day hasn&amp;rsquo;t really started yet. But still, that’s pretty insane. The summer that I graduated is nearly over and my next step is college.&lt;/p&gt;
+&lt;p&gt;By the time I got down, I wasn&amp;rsquo;t even that ecstatic to have made it to the top of the Half Dome and to have completed the adventure. I was just too exhausted. Looking at the pictures I took just seemed unnaturally serene to me. It felt just the Mt. Fuji hike. It&amp;rsquo;s just like life. After trekking so far and persevering so much, you make it to the top. But then, you don&amp;rsquo;t even feel accomplished because after a while it just becomes who you are. If you spend 20 years of your life becoming rich (however much money that is), and you finally become rich, you may hurrah one time, but then after that, that feeling of accomplishment fades and you just label yourself as &amp;ldquo;rich&amp;rdquo; and move onto other things.&lt;/p&gt;
+
+&lt;p&gt;Anyways, after hiking I was soo tired. My dad congratulated me yet I just ignored him. Too tired. On the way down I even stopped saying hi to people. Anyways, I took a shower, ate and immediately went to sleep. Didn&amp;rsquo;t even move my stuff off of my bed.&lt;/p&gt;
+
+&lt;p&gt;Overall, this adventure was extremely worth it. Compared to Mt. Fuji, I might even say it was easier. And when I say that many factors come into play. Hiking Mt. Fuji, I was operating on zero sleep, less proper food, less water, a more drastic range of temperatures it was in the middle of the night and I was surrounded by people that complained were complaining every five or so minutes.
+As for the Half Dome, I had more rest, preparation, equipment, a Camelbak, it was during the daytime and nobody to complain to me. It was just myself. I noticed that when you are alone, you don&amp;rsquo;t complain. Not only is it because I have nobody really to complain to but I also just toughen up. It&amp;rsquo;s like I&amp;rsquo;m competing against a better version of myself. Whenever I complain I noticed that half the time it&amp;rsquo;s to fit in because everyone else around me is complaining as well. One of my friends, Max, does a great job of not complaining when a workout gets tough. For lack of proper terms, he just mans up, like me when I am alone. I guess I have to stop learning from the bad habits of others and be myself. At the start of the hike I thought this hike was going to be harder than Mt. Fuji because I had to hike it alone. But I was wrong. It was WAY easier because I was alone. Nobody to slow me down, to mess up my pacing and to disturb me from my thoughts. If I wanted to talk to people I could still talk to people on the way. What I did was entirely up to me and I didn&amp;rsquo;t even have to stay with them the entire way.&lt;/p&gt;
+
+&lt;p&gt;Climbing Mt. Fuji, I had to make decisions for the other three as I was the one who planned the hike and if it was a bad decision, the blame was on me. We were forced to wait repeatedly for my friend named Henry and another friend, Andrew, being the good guy that he is stayed behind to wait for him. On the way down, Andrew and Henry had looks of such despair and pain on their faces that it seemed like they were about to collapse. And Edward, the third friend, was just too fatigued and annoyed to talk. If I had hiked Mt. Fuji like I had hiked Half Dome with that guy, we would&amp;rsquo;ve made it down in no time and not even felt shitty. To be frank, my friends weren&amp;rsquo;t probably used to pushing themselves so hard physically.&lt;/p&gt;
+
+&lt;p&gt;Now Half Dome on the other hand was completely chill. I honestly had an amazing hike. I think unless I find the right partner, it might be better that I hike alone. It seems that sometimes other people just you back. Plus, the alone time was extra special. Talking to my travel pal, the descent just went by in a blink of an eye.&lt;/p&gt;
+
+&lt;p&gt;Well now that this hike is over, I don&amp;rsquo;t know what else is in store for me this summer. Nothing can possibly compare to this hike. I also only have seven days left until school officially starts! Holy cow time goes by fast. I can&amp;rsquo;t believe it&amp;rsquo;s the first of September today already. That leaves me with only three more days until I check-in!&lt;/p&gt;
+
+&lt;p&gt;Wow. Well four more days including today since the day hasn&amp;rsquo;t really started yet. But still, that’s pretty insane. The summer that I graduated is nearly over and my next step is college.&lt;/p&gt;
 
 &lt;p&gt;Well, peace out. YNP has been the shit.&lt;/p&gt;
 
 &lt;p&gt;In comparison with Mt. Fuji, the Half Dome hike was a hike through true wilderness, while Fuji was a hike in a barren wasteland. To be more accurate, it was a hike up a volcanic mountain covered in rocks and dirt.&lt;/p&gt;
 
 &lt;p&gt;Half Dome hike stats:
-15-miles round trip (24km) Elevation gain 4800ft (1463m) Average time: 11 hours My time: 9 hours Half Dome cables distance: 400ft (122m)
-When people discuss the Half Dome hike, the cables are always the main point of interest. It&amp;rsquo;s basically the crux of the hike, and the most challenging aspect of it as well. However, to me the cables were just incredibly enjoyable. Maybe it was because I was having such a blast that it didn&amp;rsquo;t feel challenging at all for me. Sure, it was slippery and I even slipped a couple of times, but if you aren&amp;rsquo;t afraid of heights and have a decent amount of upper-body strength, I think it&amp;rsquo;s a piece of cake. Another contributing factor that made it easy for me was that there was the traffic jam on the cables so I was forced to take a break every few steps. It forced me to make pace and made the whole thing much easier. Oh, and for gloves I had a pair of Black Diamond Craig Climbing Gloves that I got from Amazon for $20; they were quite handy. I also saw some people even climbing without gloves. Now that&amp;rsquo;s just crazy.
-At least people don&amp;rsquo;t die on Mt. Fuji though. People die each year on the Half Dome. I guess that makes Half Dome quite the hike.&lt;/p&gt;
+15-miles round trip (24km) Elevation gain 4800ft (1463m) Average time: 11 hours My time: 9 hours Half Dome cables distance: 400ft (122m)&lt;/p&gt;
+
+&lt;p&gt;When people discuss the Half Dome hike, the cables are always the main point of interest. It&amp;rsquo;s basically the crux of the hike, and the most challenging aspect of it as well. However, to me the cables were just incredibly enjoyable. Maybe it was because I was having such a blast that it didn&amp;rsquo;t feel challenging at all for me. Sure, it was slippery and I even slipped a couple of times, but if you aren&amp;rsquo;t afraid of heights and have a decent amount of upper-body strength, I think it&amp;rsquo;s a piece of cake. Another contributing factor that made it easy for me was that there was the traffic jam on the cables so I was forced to take a break every few steps. It forced me to make pace and made the whole thing much easier. Oh, and for gloves I had a pair of Black Diamond Craig Climbing Gloves that I got from Amazon for $20; they were quite handy. I also saw some people even climbing without gloves. Now that&amp;rsquo;s just crazy.&lt;/p&gt;
+
+&lt;p&gt;At least people don&amp;rsquo;t die on Mt. Fuji though. People die each year on the Half Dome. I guess that makes Half Dome quite the hike.&lt;/p&gt;
 </content>
       
     </item>
@@ -870,6 +912,27 @@ For working out, sometimes you just don’t feel like going ot the gym. You thin
 &lt;p&gt;By doing this, I won’t ever have to procrastinate anymore. No more short-term procastination at least. This method has worked for me 99% of the time. The only 1% of the time that it hasn’t worked for me is in the split-time that I make the decision to take the first step, I manage to convince myself that it isn’t worth doing. Once I was really sore from a work-out and I was lying in bed. Instead of getting out of bed to put away my clothes like I should have, I convinced myself that I needed to rest longer because of how tired I was. Besides the times when this happens, it has been successful every other time.&lt;/p&gt;
 
 &lt;p&gt;I use this method for everything I do now. Don’t feel like doing homework? Take out the book first. Don’t feel like writing an essay, open up an empty document and put down a single word. Don’t feel like going to school, get out of bed, and get packed. Looking at the big picture isn’t always the right approach to things. Sometimes you just have to take things step-by-step. Worry about what’s at hand and let things come to you.&lt;/p&gt;
+</content>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://wesleytian.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://wesleytian.github.io/about/</guid>
+      <description></description>
+      
+      <content>&lt;p&gt;Wesley Tian is currently pursuing a B.S. in Computer Science and Data Science at the &lt;a href=&#34;https://umich.edu/&#34; target=&#34;_blank&#34;&gt;University of Michigan&lt;/a&gt;. He currently serves as the President of the &lt;a href=&#34;https://www.mdst.club/&#34; target=&#34;_blank&#34;&gt;Michigan Data Science Team&lt;/a&gt;, a competitive data science team funded by Google, the National Science Foundation, and the &lt;a href=&#34;https://midas.umich.edu/&#34; target=&#34;_blank&#34;&gt;Michigan Institute of Data Science&lt;/a&gt;. Media outlets such as the &lt;a href=&#34;https://www.nytimes.com/2017/03/27/us/flint-water-lead-pipes.html?_r=0&#34; target=&#34;_blank&#34;&gt;The New York Times&lt;/a&gt;, &lt;a href=&#34;https://gizmodo.com/google-is-helping-flint-prioritize-which-lead-pipes-nee-1774517926&#34; target=&#34;_blank&#34;&gt;Gizmodo&lt;/a&gt;, and the &lt;a href=&#34;https://www.chicagotribune.com/news/nationworld/midwest/ct-flint-water-app-20161211-story.html&#34; target=&#34;_blank&#34;&gt;Chicago Tribune&lt;/a&gt; have covered their work for social good. You can read more about Wesley&amp;rsquo;s goals for MDST in this &lt;a href=&#34;http://eecs.umich.edu/eecs/about/articles/2018/mdst-2018.html&#34; target=&#34;_blank&#34;&gt;interview&lt;/a&gt; by the University of Michigan&amp;rsquo;s Computer Science Engineering department.&lt;/p&gt;
+
+&lt;p&gt;In the past, Wesley has worked on research and development at an Internet of things startup with &lt;a href=&#34;https://people.cs.umass.edu/~ruiwang/&#34; target=&#34;_blank&#34;&gt;Rui Wang&lt;/a&gt;, machine learning research in healthcare with &lt;a href=&#34;http://www-personal.umich.edu/~wiensj/&#34; target=&#34;_blank&#34;&gt;Jenna Wiens&lt;/a&gt;, and philosophy in artificial intelligence with &lt;a href=&#34;http://web.eecs.umich.edu/~rthomaso/&#34; target=&#34;_blank&#34;&gt;Rich Thomason&lt;/a&gt;. Starting in high school, Wesley has also had internships with companies such as &lt;a href=&#34;http://www.dshine.com.cn/&#34; target=&#34;_blank&#34;&gt;Xuanliang&lt;/a&gt;, &lt;a href=&#34;https://rayshobby.net/wordpress/&#34; target=&#34;_blank&#34;&gt;RaysHobby&lt;/a&gt;, Fidelity Investments, and &lt;a href=&#34;https://clinc.com/&#34; target=&#34;_blank&#34;&gt;Clinc&lt;/a&gt;. This summer, he will be working at Microsoft.&lt;/p&gt;
+
+&lt;p&gt;Wesley ranked 1st out of 205 students on a deep learning prediction challenge in University of Michigan&amp;rsquo;s Machine Learning course, placed 3rd in the world in MIT&amp;rsquo;s &lt;a href=&#34;https://sites.google.com/view/assistmentsdatamining/data-mining-competition-2017/winners?authuser=0&#34; target=&#34;_blank&#34;&gt;ASSISTments Data Mining Competition&lt;/a&gt;, and received awards at many other hackathons. He has also been a recipient of the Chancellor&amp;rsquo;s Scholarship.&lt;/p&gt;
+
+&lt;p&gt;Born in Mountain View, California, before Google settled there, Wesley has transferred schools a total of nine times. In the process, he has relocated from California to Oregon, Taiwan, Shanghai, Massachusetts, and finally Michigan. He thanks these moves for his openness to different perspectives and helping form many of his own unique thoughts. Outside of school and work, he enjoys reading, writing, and running.&lt;/p&gt;
+
+&lt;p&gt;Wesley has been a utilitarian and determinist since his teens. He once pursued a doctorate in machine learning research until he realized he would be wasting his strengths. His current pursuits are software engineering, political philosophy, and entrepreneurship.&lt;/p&gt;
 </content>
       
     </item>
