@@ -38,6 +38,72 @@
   </url>
   
   <url>
+    <loc>https://wesleytian.github.io/2016/ac_hack/</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2015/olympus/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2016/amp/</loc>
+    <lastmod>2016-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2016/halfdome/</loc>
+    <lastmod>2016-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2016/passion/</loc>
+    <lastmod>2016-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2016/independence/</loc>
+    <lastmod>2016-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2016/passionless/</loc>
+    <lastmod>2016-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2016/professor/</loc>
+    <lastmod>2016-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2016/friends/</loc>
+    <lastmod>2016-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2016/experience/</loc>
+    <lastmod>2016-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2015/yosemite/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2015/steps/</loc>
+    <lastmod>2015-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2015/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wesleytian.github.io/2016/</loc>
     <lastmod>2016-10-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -50,7 +116,9 @@
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/about/</loc>
+    <loc>https://wesleytian.github.io/tags/advice/</loc>
+    <lastmod>2016-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -64,6 +132,66 @@
   </url>
   
   <url>
+    <loc>https://wesleytian.github.io/tags/climbing/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/college/</loc>
+    <lastmod>2016-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/diy/</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/electronics/</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/europe/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/hiking/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/life/</loc>
+    <lastmod>2016-07-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/music/</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/nature/</loc>
+    <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/passion/</loc>
+    <lastmod>2016-07-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wesleytian.github.io/tags/story/</loc>
     <lastmod>2019-01-17T00:21:56-04:00</lastmod>
     <priority>0</priority>
@@ -71,7 +199,13 @@
   
   <url>
     <loc>https://wesleytian.github.io/tags/</loc>
-    <lastmod>2019-01-17T00:21:56-04:00</lastmod>
+    <lastmod>2016-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/tech/</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

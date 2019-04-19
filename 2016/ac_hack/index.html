@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>Hacking an Inadequate Air Conditioner | Wesley Tian</title>
+
+
+
+<link href="https://wesleytian.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Wesley Tian" />
+
+<link rel="stylesheet" href="/css/style.css"/><link rel='stylesheet' href='https://wesleytian.github.io/css/custom.css'><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body>
+<section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="https://wesleytian.github.io">
+          <h1 class="title is-4">Wesley Tian</h1>
+        </a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile"><a class="level-item" aria-label="github" href='https://github.com/wesleytian'
+            target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" aria-label="email" href='mailto:tian.wesley@gmail.com'
+            target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+    <polyline points="22,6 12,13 2,6"/>
+    
+  </svg></i>
+            </span>
+          </a></nav>
+      </div>
+    </nav>
+
+    <nav class="nav">
+      
+      <div class="nav-left"><a class="nav-item" href="/about">
+          <h2 class="title is-5">About</h2>
+        </a></div>
+      
+
+      
+    </nav>
+
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="subtitle tags is-6 is-pulled-right">
+      
+      
+<a class="subtitle is-6" href="/tags/tech">#tech</a>
+
+
+
+  
+  | <a class="subtitle is-6" href="/tags/music">#music</a>
+  
+  | <a class="subtitle is-6" href="/tags/diy">#diy</a>
+  
+  | <a class="subtitle is-6" href="/tags/electronics">#electronics</a>
+  
+
+      
+    </div>
+    <h2 class="subtitle is-6">September 8, 2016</h2>
+    <h1 class="title">Hacking an Inadequate Air Conditioner</h1>
+    
+    <div class="content">
+      <p>It was scorching hot this summer in Amherst, Massachusetts. Especially because my room was on the second floor, the room temperature would often rise to over 100° F during midday. The house I stayed in didn&rsquo;t have a central HVAC (heat-ventilation-air-conditioning) system built into the house so we opted for a window AC that could be inserted into the frame of the window and be plugged into the wall outlet for power. The problem with this AC was that not only did it not have a specific temperature setting, but also that once turned on, you could not turn it off with having to manually turn the dial on the AC. During the day this was not a problem as I could just turn around from my desk and turn the dial. At night, however, there was a problem.</p>
+
+<p>No one enjoys waking up in the middle of the night. What is less enjoyable is being woken up in the middle of the night from the sweating from the heat or shivering from the cold. Suddenly, I realized that a simple solution would be to create a device that could not only sense the temperature but also automate the turning on and off of the air conditioner. Since the air conditioner was plugged into the wall outlet, all I had to do was find a way to control that switch.</p>
+
+<p>As it turns out Etekcity, as well as a handful of other sellers on Amazon, sell a product called a remote outlet switch. <a href="http://www.wesleytian.com/wp-content/uploads/2016/09/71bEd1JkzBL._SL1500_.jpg"><img class="wp-image-383 aligncenter" src="http://www.wesleytian.com/wp-content/uploads/2016/09/71bEd1JkzBL._SL1500_.jpg" alt="71bed1jkzbl-_sl1500_" width="500" height="500" /></a> This product includes a remote with on and off buttons and a few of the remote outlet switches. The remote&rsquo;s function is being able to control the current that runs through the outlet switch by either closing the current or releasing it. This was the exact thing I needed to make this hack work.</p>
+
+<p>Next, I had to design the device. The device would need to be able to sense the temperature, allow the user to set the temperature, and mimic the remote&rsquo;s signal to control the remote outlet switch. Using Arduino libraries and hardware and a DHT II sensor I was able to create my first prototype. Additionally, it included a WiFi chip, a 433MhZ transmitter, and receiver, and an LCD screen that could display the current temperature, humidity, set temperature etc.</p>
+
+<p><a href="http://www.wesleytian.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-08-at-12.23.28-PM.png"><img class="wp-image-389 aligncenter" src="http://www.wesleytian.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-08-at-12.23.28-PM.png" alt="screen-shot-2016-09-08-at-12-23-28-pm" width="500" height="374" /></a>
+And to add the programmable part, I used Blynk to add certain widgets that connect to the device through WiFi. <a href="http://www.wesleytian.com/wp-content/uploads/2016/09/Blynk.png"><img class="wp-image-384 aligncenter" src="http://www.wesleytian.com/wp-content/uploads/2016/09/Blynk.png" alt="blynk" width="500" height="889" /></a> I am now able to see my current room temperature from anywhere using my phone and control the temperature from anywhere as well. The Blynk app additionally includes a graph that shows the change of my room temperature.</p>
+
+<p>Currently, I am working on my own application that will support this device. Using it, you will be able to set different time intervals and control a myriad of other settings such as short cycle duration, being able to use the heat index instead of temperature, and the hysteresis range. If you work from 9-5 Mon-Fri, then you will be able to set a specific temperature or turn off your AC for those times. The app allows you set an infinite number of intervals making it superior to its competitors.
+<a href="http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2620.png"><img class="wp-image-385 alignnone" src="http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2620.png" alt="img_2620" width="400" height="712" /></a><a href="http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2621.png"><img class="wp-image-386 alignnone" src="http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_2621.png" alt="img_2621" width="400" height="712" /></a></p>
+
+<p>This is a very useful device for managing your room/house temperature and can even extend to an unlimited range of uses. It can be used to control a humidifier, fans, heaters, or other types of temperature regulating appliances that can be powered by a wall outlet. This device can save your electricity bills, protect foods from perishing, keep rooms from becoming moldy, or just making sure that you get a good night&rsquo;s rest. After all, one-third of our lives is spent sleeping.</p>
+
+<p>Unlike current products that share a similar function with this gadget, my device is separate from the outlet. This is crucial to providing an accurate recording of the room temperature. Many thermostats, even the more advanced ones sense the temperature close to the area where the AC is placed. Therefore, the temperature sensed will always be lower and different from the actual room temperature that you feel. Having the switch and the device separate solves this problem.</p>
+
+<p>The AC:</p>
+
+<p><a href="http://www.wesleytian.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-08-at-12.23.11-PM.png"><img class="wp-image-387 aligncenter" src="http://www.wesleytian.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-08-at-12.23.11-PM.png" alt="screen-shot-2016-09-08-at-12-23-11-pm" width="500" height="278" /></a></p>
+
+<p>A few weeks after I created this, Rui found a few other similar gadgets that people made to try and regulate their room temperature. One of them decided to use a breadboard and flimsy wires to control the surge. (Very dangerous!) <a href="http://hackaday.com/2016/08/05/arduino-replaces-bad-ac-thermostat-hacker-stays-cool/">Arduino Replaces Bad AC Thermostat, Hacker Stays Cool</a> which also bears resemblance to this <a href="http://hackaday.com/2015/06/11/arduino-controlled-air-conditioner/">Arduino Controlled Air Conditioner</a>. Both of which requires the person to set the desired temperature by walking up to the AC and turning a knob. I also would not recommend tampering with the AC itself because 120v can kill you! All in all, I think that the best solutions to some things require a well-balanced incorporation of both hardware and software. Stay tuned for newer versions of the WiFi Remote Outlet Thermostat!</p>
+
+      
+      <div class="related">
+
+<h3>Similar articles:</h3>
+<ul>
+	
+	<li><a href="/2016/amp/">Building My Own Amplifier</a></li>
+	
+</ul>
+</div>
+      
+    </div>
+    
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <aside><div id="disqus_thread"></div></aside>
+  
+    <div id="show_comments"><a id="load_comments" class="button is-link">Load comments</a></div>
+  
+    <script type="text/javascript">
+      var disqus_shortname = 'wesleytian-github-io';
+      function disqus() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      }
+  
+      
+      var hash = window.location.hash.substr(1);
+      if ((hash.length > 8) && (hash.substring(0, 8) === "comment-")) {
+        disqus();
+        document.getElementById("show_comments").style.display = "none";
+      } else {
+        document.getElementById('load_comments').onclick = function() {
+          disqus();
+          document.getElementById("show_comments").style.display = "none";
+        };
+      }
+  
+
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container has-text-centered">
+    <p>&copy; Wesley Tian 2019</p>
+    
+      <p>Powered by <a href="https://gohugo.io/">Hugo</a> &amp; <a href="https://github.com/ribice/kiss">Kiss</a>.</p>
+    
+  </div>
+</section>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-89706210-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="\/\/matomo.example.com\/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript>
+  <img src="//matomo.example.com/piwik.php?idsite=1&amp;rec=1" style="border:0" alt="" />
+</noscript>
+
+<script>
+    (function(f, a, t, h, o, m){
+        a[h]=a[h]||function(){
+            (a[h].q=a[h].q||[]).push(arguments)
+        };
+        o=f.createElement('script'),
+        m=f.getElementsByTagName('script')[0];
+        o.async=1; o.src=t; o.id='fathom-script';
+        m.parentNode.insertBefore(o,m)
+    })(document, window, '\/\/fathom.example.com\/tracker.js', 'fathom');
+    fathom('trackPageview');
+</script>
+</body>
+</html>
+

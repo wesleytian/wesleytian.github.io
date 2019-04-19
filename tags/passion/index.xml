@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Passion on Wesley Tian</title>
+    <link>https://wesleytian.github.io/tags/passion/</link>
+    <description>Recent content in Passion on Wesley Tian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Wesley Tian 2019</copyright>
+    <lastBuildDate>Sat, 23 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wesleytian.github.io/tags/passion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Passion</title>
+      <link>https://wesleytian.github.io/2016/passion/</link>
+      <pubDate>Sat, 23 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/passion/</guid>
+      <description>I&amp;rsquo;ve often been told that passion leads to success. It is one thing to hear a quote and another thing entirely to experience it firsthand. This summer, I was hired as an intern by Ray (Rui) Wang, a computer science professor at the University of Massachusetts Amherst as well as the founder of Ray&amp;rsquo;s Hobby and OpenSprinkler. During these three months, I learned a handful of technical skills as well as professional skills such as problem solving and communication.</description>
+    </item>
+    
+    <item>
+      <title>I Don&#39;t Have a Passion. Yet.</title>
+      <link>https://wesleytian.github.io/2016/passionless/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/passionless/</guid>
+      <description>What is your passion? I was asked this question by my professor nonchalantly while having a light conversation. It seemed like a simple question at first. However, after deeply thinking about it, I realized that I did not have an answer. I answered with &amp;ldquo;well, I&amp;rsquo;m passionate about a lot of things. I&amp;rsquo;m passionate about the environment, and about other things.&amp;rdquo; Compared to him, I wasn&amp;rsquo;t even really passionate about the environment.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Wesley Tian 2019</copyright>
-    <lastBuildDate>Thu, 17 Jan 2019 00:21:56 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wesleytian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advice</title>
+      <link>https://wesleytian.github.io/tags/advice/</link>
+      <pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/advice/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blog</title>
@@ -22,11 +31,110 @@
     </item>
     
     <item>
+      <title>Climbing</title>
+      <link>https://wesleytian.github.io/tags/climbing/</link>
+      <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/climbing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>College</title>
+      <link>https://wesleytian.github.io/tags/college/</link>
+      <pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/college/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diy</title>
+      <link>https://wesleytian.github.io/tags/diy/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/diy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronics</title>
+      <link>https://wesleytian.github.io/tags/electronics/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Europe</title>
+      <link>https://wesleytian.github.io/tags/europe/</link>
+      <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiking</title>
+      <link>https://wesleytian.github.io/tags/hiking/</link>
+      <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/hiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://wesleytian.github.io/tags/life/</link>
+      <pubDate>Sat, 23 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://wesleytian.github.io/tags/music/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>https://wesleytian.github.io/tags/nature/</link>
+      <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passion</title>
+      <link>https://wesleytian.github.io/tags/passion/</link>
+      <pubDate>Sat, 23 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/passion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Story</title>
       <link>https://wesleytian.github.io/tags/story/</link>
       <pubDate>Thu, 17 Jan 2019 00:21:56 -0400</pubDate>
       
       <guid>https://wesleytian.github.io/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://wesleytian.github.io/tags/tech/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/tech/</guid>
       <description></description>
     </item>
     
