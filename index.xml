@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Résumé Secrets</title>
+      <title>A&#43; Résumé Tips</title>
       <link>https://wesleytian.github.io/2019/resume_tips/</link>
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       <author>Wesley Tian</author>
@@ -28,11 +28,13 @@
 
 &lt;p&gt;Imagine it is currently the fall of 2016, you entered college in the fall 2015 and expect to graduate in spring 2019. A student who has enough credits to be a junior and puts down Dec 2018 or May 2018 instead of May 2019 will give them an enormous edge in the resume screening process. This is because companies give special treatment to juniors because it is easier to convert them into full-time employees.&lt;/p&gt;
 
+&lt;p&gt;If you were planning on graduating a year early already, then you graduation date should definitely not be in four years. This tip is for people who aren&amp;rsquo;t sure whether they will graduate early or not.&lt;/p&gt;
+
 &lt;p&gt;This is a way to get around the–&amp;rdquo;we only hire juniors&amp;rdquo;–statement that recruiters tell you.&lt;/p&gt;
 
 &lt;p&gt;This can also work for freshmen who have enough credits to be a sophomore.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;I am not saying that you should lie on your résumé.&lt;/strong&gt; If you don&amp;rsquo;t have enough credits to graduate early, do not put down an earlier graduation date. If you are 100% sure that you won&amp;rsquo;t be graduating early, don&amp;rsquo;t pretend you are going to either. &lt;strong&gt;Lying on your résumé is a very serious offense.&lt;/strong&gt; Only tweak it in your favor if you&amp;rsquo;re in the described situation above.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I am not saying that you should lie on your résumé.&lt;/strong&gt; If you don&amp;rsquo;t have enough credits to graduate early, do not put down an earlier graduation date, because that is lying. If you are 100% sure that you won&amp;rsquo;t be graduating early, don&amp;rsquo;t pretend you are going to either. That is also lying about your intended graduation date. &lt;strong&gt;Lying on your résumé is a very serious offense.&lt;/strong&gt; Only tweak it in your favor if you&amp;rsquo;re in the described situation above.&lt;/p&gt;
 
 &lt;p&gt;Soon to add more tips!&lt;/p&gt;
 </content>
@@ -283,6 +285,10 @@ but is more detailed, and includes steps that were missing from the original doc
       <description></description>
       
       <content>&lt;p&gt;&lt;a href=&#34;https://wesleytian.github.io/2016/ac_hack/&#34;&gt;Click here for part 1.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/ac_hack_2/IMG_5913.jpeg&#34; alt=&#34;pic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://opensprinkler.com/introducing-opensprinkler-bee-2-0-a-wifi-enabled-universal-sprinkler-controller/&#34; target=&#34;_blank&#34;&gt;https://opensprinkler.com/introducing-opensprinkler-bee-2-0-a-wifi-enabled-universal-sprinkler-controller/&lt;/a&gt;&lt;/p&gt;
 </content>
       
     </item>
@@ -567,7 +573,7 @@ Your phone may not work at very cold temperatures, as in the case with my iPhone
     </item>
     
     <item>
-      <title>Building My Own Amplifier</title>
+      <title>Assembling My Own Headphone Amplifier</title>
       <link>https://wesleytian.github.io/2016/amp/</link>
       <pubDate>Sat, 23 Jul 2016 00:00:00 +0000</pubDate>
       <author>Wesley Tian</author>
@@ -576,7 +582,8 @@ Your phone may not work at very cold temperatures, as in the case with my iPhone
       
       <content>
 
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/IMG_1212.jpg&#34; alt=&#34;Amp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/amp/IMG_1212.jpg&#34; alt=&#34;Amp&#34; /&gt;
+&lt;em&gt;The finished Objective2 headphone amp&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Why? What? and How?&lt;/p&gt;
 
@@ -588,7 +595,7 @@ Your phone may not work at very cold temperatures, as in the case with my iPhone
 
 &lt;p&gt;Headphones such as the Sennheiser HD 600 and HD 800 have output impedances of 300 ohms. In order to properly drive these, you will need an amp. Without an amp, the sound even at the highest volume on your laptop will sound weak and the highs and lows will be greatly lacking. Many bass sounds with low frequencies may not be heard at all. Other earphones such as the Earpods or convenience store headphones have very low output impedances 32 so they appear to be very loud even when only driven by your laptop or phone. Most headphones under $100 will not require an amp as they are meant for the average consumer who only cares about providing sound and not high-quality playback. Many people who ended up trying a better pair of headphones with an external amp have  repeatedly said that it was like listening to a different song. They notice many sounds and background instruments that they have never heard before. And the best thing about this is that you don&amp;rsquo;t need a special pair of ears or training to hear the difference.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/IMG_1207.jpg&#34; alt=&#34;Amp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/amp/IMG_1207.jpg&#34; alt=&#34;Amp&#34; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;what&#34;&gt;WHAT&lt;/h1&gt;
 
@@ -612,38 +619,40 @@ Your phone may not work at very cold temperatures, as in the case with my iPhone
 
 &lt;h1 id=&#34;how&#34;&gt;HOW&lt;/h1&gt;
 
-&lt;p&gt;(How did I build the Objective2? Here comes the fun part.)&lt;/p&gt;
+&lt;p&gt;How did I build the Objective2? Now this is the fun part.&lt;/p&gt;
 
 &lt;p&gt;Now that I&amp;rsquo;ve convinced you to buy the Objective2, you must be asking: where can I get one? &lt;a href=&#34;https://www.jdslabs.com/products/35/objective2-headphone-amplifier/&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you can buy it completely assembled and enclosed in an anodized and fully polished enclosure for $129. It is also customizable for different outputs such as for different countries or 3.5mm headphone jack to 6.35mm (1/4in) headphone jack.&lt;/p&gt;
 
-&lt;p&gt;Additionally, there is a refurbished version for $99 &lt;a href=&#34;https://www.jdslabs.com/products/167/objective2-headphone-amplifier-b-stock/&#34; target=&#34;_blank&#34;&gt;&amp;hellip;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Additionally, there is a &lt;a href=&#34;https://www.jdslabs.com/products/167/objective2-headphone-amplifier-b-stock/&#34; target=&#34;_blank&#34;&gt;refurbished version for $99.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you find $129 a bit too expensive to throw down for an amp, then I suggest the DIY option. For just $59, you can purchase a DIY kit that contains all of the components to build the amp. Soldering required.&lt;/p&gt;
 
 &lt;p&gt;($59) &lt;a href=&#34;https://www.jdslabs.com/products/82/objective2-diy-kit/&#34; target=&#34;_blank&#34;&gt;DIY Kit&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/IMG_1205.jpg&#34; alt=&#34;Amp&#34; /&gt;
-&lt;img src=&#34;https://wesleytian.github.io/IMG_1203.jpg&#34; alt=&#34;Amp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/amp/IMG_1205.jpg&#34; alt=&#34;Amp&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;($9) 2 &lt;a href=&#34;https://www.amazon.com/Tenergy-Centura-Self-Discharge-Rechargeable-Batteries/dp/B003QUNYQI/ref=sr_1_10_a_it?ie=UTF8&amp;amp;amp;qid=1469762948&amp;amp;amp;sr=8-10&amp;amp;amp;keywords=9v+rechargeable+batteries&#34; target=&#34;_blank&#34;&gt;9V batteries&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;($9) 2 &lt;a href=&#34;https://www.amazon.com/Tenergy-Centura-Self-Discharge-Rechargeable-Batteries/dp/B003QUNYQI/ref=sr_1_10_a_it?ie=UTF8&amp;amp;amp;qid=1469762948&amp;amp;amp;sr=8-10&amp;amp;amp;keywords=9v+rechargeable+batteries&#34; target=&#34;_blank&#34;&gt;9V batteries&lt;/a&gt;&lt;br&gt;
+or/and&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;($12.99) &lt;a href=&#34;https://www.jdslabs.com/products/147/us-15vac-power-adapter-for-objective2/&#34; target=&#34;_blank&#34;&gt;15V AC Power Adapter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;or/and&lt;/p&gt;
+&lt;p&gt;The only con about this DIY is that there is no enclosure. If you wish you can 3D print one or order the enclosure from the website as well.&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;($12.99) &lt;a href=&#34;https://www.jdslabs.com/products/147/us-15vac-power-adapter-for-objective2/&#34; target=&#34;_blank&#34;&gt;15V AC Power Adapter&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;($12.99) &lt;a href=&#34;https://www.jdslabs.com/products/94/aluminum-enclosure-for-objective2/&#34; target=&#34;_blank&#34;&gt;Top/side enclosure&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;The only con about this DIY is that there is no enclosure. If you wish you can 3D print one or order the enclosure from the website as well.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;($9.99) &lt;a href=&#34;https://www.jdslabs.com/products/34/machined-objective2-front-panel/&#34; target=&#34;_blank&#34;&gt;Front panel&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;($12.99) &lt;a href=&#34;https://www.jdslabs.com/products/94/aluminum-enclosure-for-objective2/&#34; target=&#34;_blank&#34;&gt;Top/side enclosure&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;($9.99) &lt;a href=&#34;https://www.jdslabs.com/products/34/machined-objective2-front-panel/&#34; target=&#34;_blank&#34;&gt;Front panel&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;($9.99) &lt;a href=&#34;https://www.jdslabs.com/products/163/machined-objective2-odac-rear-plate-ac-usb-jacks/&#34; target=&#34;_blank&#34;&gt;Rear plate&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;($9.99) &lt;a href=&#34;https://www.jdslabs.com/products/163/machined-objective2-odac-rear-plate-ac-usb-jacks/&#34; target=&#34;_blank&#34;&gt;Rear plate&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;for $99, you can get your own amp!&lt;/p&gt;
 
-&lt;p&gt;The DIY Kit&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/amp/IMG_2449.jpg&#34; alt=&#34;Amp&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/IMG_2449.jpg&#34; alt=&#34;Amp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/amp/IMG_1203.jpg&#34; alt=&#34;Amp&#34; /&gt;
+&lt;em&gt;The DIY kit&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Pictures and tools courtesy of Rui Wang @ Rays Hobby&lt;/p&gt;
 </content>
@@ -982,6 +991,8 @@ For working out, sometimes you don’t feel like going to the gym. You think of 
       <description></description>
       
       <content>
+
+&lt;p&gt;This blog is intended to be a smorgasbord of topics ranging from hardware projects to philosophy. I write because I want to share my knowledge with other people, just as others have shared with me. If you want to discuss any post in detail, I would really appreciate if you leave a comment or send me an email. Great ideas aren&amp;rsquo;t built in solitary, they are built together.&lt;/p&gt;
 
 &lt;h2 id=&#34;about-wesley&#34;&gt;About Wesley&lt;/h2&gt;
 
