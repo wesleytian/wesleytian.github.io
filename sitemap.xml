@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wesleytian.github.io/2019/resume_tips/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2019/internship/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wesleytian.github.io/2019/a-new-chapter/</loc>
     <lastmod>2019-01-17T00:21:56-04:00</lastmod>
   </url>
@@ -33,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://wesleytian.github.io/2017/ac_hack_2/</loc>
+    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wesleytian.github.io/2016/advice/</loc>
     <lastmod>2016-10-16T00:00:00+00:00</lastmod>
   </url>
@@ -49,11 +64,6 @@
   
   <url>
     <loc>https://wesleytian.github.io/2016/amp/</loc>
-    <lastmod>2016-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wesleytian.github.io/2016/halfdome/</loc>
     <lastmod>2016-07-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -110,6 +120,12 @@
   </url>
   
   <url>
+    <loc>https://wesleytian.github.io/2017/</loc>
+    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wesleytian.github.io/2018/</loc>
     <lastmod>2018-08-02T00:14:49-04:00</lastmod>
     <priority>0</priority>
@@ -117,7 +133,7 @@
   
   <url>
     <loc>https://wesleytian.github.io/2019/</loc>
-    <lastmod>2019-01-17T00:21:56-04:00</lastmod>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -127,18 +143,24 @@
   
   <url>
     <loc>https://wesleytian.github.io/tags/advice/</loc>
-    <lastmod>2016-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/tags/blog/</loc>
-    <lastmod>2019-01-17T00:21:56-04:00</lastmod>
+    <loc>https://wesleytian.github.io/tags/c/</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wesleytian.github.io/drafts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/career/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -155,19 +177,31 @@
   
   <url>
     <loc>https://wesleytian.github.io/tags/diy/</loc>
-    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wesleytian.github.io/tags/electronics/</loc>
-    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/engineering/</loc>
+    <lastmod>2018-07-25T00:14:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wesleytian.github.io/tags/europe/</loc>
     <lastmod>2016-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/hardware/</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -179,18 +213,30 @@
   
   <url>
     <loc>https://wesleytian.github.io/tags/life/</loc>
-    <lastmod>2016-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-17T00:21:56-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/linux/</loc>
+    <lastmod>2018-07-24T00:14:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/meta/</loc>
+    <lastmod>2018-07-15T00:14:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wesleytian.github.io/tags/music/</loc>
-    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2016-07-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/tags/nature/</loc>
+    <loc>https://wesleytian.github.io/tags/outdoors/</loc>
     <lastmod>2016-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -202,6 +248,24 @@
   </url>
   
   <url>
+    <loc>https://wesleytian.github.io/tags/philosophy/</loc>
+    <lastmod>2019-01-17T00:21:56-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/project/</loc>
+    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/software/</loc>
+    <lastmod>2018-07-25T00:14:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wesleytian.github.io/tags/story/</loc>
     <lastmod>2019-01-17T00:21:56-04:00</lastmod>
     <priority>0</priority>
@@ -209,19 +273,25 @@
   
   <url>
     <loc>https://wesleytian.github.io/tags/</loc>
-    <lastmod>2016-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wesleytian.github.io/tags/tech/</loc>
-    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wesleytian.github.io/</loc>
-    <lastmod>2019-01-17T00:21:56-04:00</lastmod>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/tags/work/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

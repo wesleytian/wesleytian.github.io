@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Wesley Tian 2019</copyright>
-    <lastBuildDate>Thu, 08 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jul 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wesleytian.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hacking an Inadequate Air Conditioner</title>
-      <link>https://wesleytian.github.io/2016/ac_hack/</link>
-      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://wesleytian.github.io/2016/ac_hack/</guid>
-      <description>It was scorching hot this summer in Amherst, Massachusetts. Especially because my room was on the second floor, the room temperature would often rise to over 100° F during midday. The house I stayed in didn&amp;rsquo;t have a central HVAC (heat-ventilation-air-conditioning) system built into the house so we opted for a window AC that could be inserted into the frame of the window and be plugged into the wall outlet for power.</description>
-    </item>
     
     <item>
       <title>Building My Own Amplifier</title>
@@ -28,7 +19,7 @@
       
       <guid>https://wesleytian.github.io/2016/amp/</guid>
       <description>Why? What? and How?
-As a music enthusiast, I&amp;rsquo;ve always been in the pursuit of the best sound replication devices. As I researched more and more about headphones and the amazing world of sound replication, I kept reading about these things called amps and DACs. For a long time, I simply ignored those terms as I felt that they were too advanced for just the average joe. They seemed too complicated and only for the professional studio recorders or niche audiophile market.</description>
+As a music enthusiast, I&amp;rsquo;ve always been in the pursuit of the best sound replication devices. As I researched more and more about headphones and the amazing world of sound replication, I kept reading about these things called amps and DACs (digital-to-analag converters). For a long time, I simply ignored those terms as I felt that they were too advanced for the average Joe. They seemed too complicated and only for the professional studio recorders or niche audiophile market.</description>
     </item>
     
   </channel>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Wesley Tian</title>
+    <link>https://wesleytian.github.io/tags/work/</link>
+    <description>Recent content in Work on Wesley Tian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Wesley Tian 2019</copyright>
+    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wesleytian.github.io/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Résumé Secrets</title>
+      <link>https://wesleytian.github.io/2019/resume_tips/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2019/resume_tips/</guid>
+      <description>1. Change your graduation date Imagine that you&amp;rsquo;re a college sophomore, but you have enough credits to graduate a year early. If you have enough credits to graduate early and you aren&amp;rsquo;t sure whether you will, it can be extremely beneficial to put the earlier graduation date that would put you at a junior standing.
+Imagine it is currently the fall of 2016, you entered college in the fall 2015 and expect to graduate in spring 2019.</description>
+    </item>
+    
+    <item>
+      <title>Tips on Getting Internships</title>
+      <link>https://wesleytian.github.io/2019/internship/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2019/internship/</guid>
+      <description>These tips are the culmination of four years of applying to software engineering internships. During this time, I&amp;rsquo;ve interiewed with and received offers from numerous companies. As with all other tips, take them with a grain of salt. These tips were invaluable to me, but not be for everybody.
+1. Be Flexible  See Rui  2. Pay Attention in Class  Interview with Lam Research asked me what I was learning in class asked me to explain it  3.</description>
+    </item>
+    
+    <item>
+      <title>Becoming a Better Software Engineer</title>
+      <link>https://wesleytian.github.io/2018/swe/</link>
+      <pubDate>Wed, 25 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>https://wesleytian.github.io/2018/swe/</guid>
+      <description>I&amp;rsquo;ve recently realized that the skills you learn as a software engineer (SWE) are disjoint from the skills that you learn in school. Below are some of my findings.
+1. Nobody knows the answer, but it&amp;rsquo;s out there somewhere. It&amp;rsquo;s up to you and only you to figure it out. That&amp;rsquo;s what the company is paying you to do. Problem-solve.
+When my internship first started, I shot questions at my mentor, full-timers, and other interns what seemed like every hour.</description>
+    </item>
+    
+    <item>
+      <title>Super Linux Warp Pipe</title>
+      <link>https://wesleytian.github.io/2018/pipe/</link>
+      <pubDate>Tue, 24 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>https://wesleytian.github.io/2018/pipe/</guid>
+      <description>Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.
+This is a simplified version of what the input looked like:
+Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { FRUIT banana } ate some { FRUIT banana } .</description>
+    </item>
+    
+  </channel>
+</rss>

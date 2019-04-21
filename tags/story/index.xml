@@ -27,30 +27,8 @@
       <pubDate>Thu, 02 Aug 2018 00:14:49 -0400</pubDate>
       
       <guid>https://wesleytian.github.io/2018/information/</guid>
-      <description>A few days ago, I was debating with my co-workers Alice and Bob about whether or not having more information is helpful for making better decisions. I&amp;rsquo;m not going to be able to express their thoughts with high fidelity, so I will only express mine here.
+      <description>A few days ago, I was debating with my co-workers Alice and Bob about whether or not having more information is always benefical to a person. I&amp;rsquo;m not going to be able to express their thoughts with high fidelity, so I will only express mine here.
 Having more information does not allow us to make better decisions. In fact, a lot of the time, we can benefit from having less information.</description>
-    </item>
-    
-    <item>
-      <title>Software Engineering</title>
-      <link>https://wesleytian.github.io/2018/swe/</link>
-      <pubDate>Wed, 25 Jul 2018 00:14:49 -0400</pubDate>
-      
-      <guid>https://wesleytian.github.io/2018/swe/</guid>
-      <description>I&amp;rsquo;ve recently realized that the skills you learn as a SWE are totally disjoint from the skills that you learn in school. Below are some of my findings.
-1. Nobody knows the answer, but it&amp;rsquo;s out there somewhere. It&amp;rsquo;s up to you and only you to figure it out. That&amp;rsquo;s what the company is paying you to do. Problem-solve.
-When my internship first started, I rapidly shot questions at my mentor, full-timers, and other interns.</description>
-    </item>
-    
-    <item>
-      <title>Super Linux Warp Pipe</title>
-      <link>https://wesleytian.github.io/2018/pipe/</link>
-      <pubDate>Tue, 24 Jul 2018 00:14:49 -0400</pubDate>
-      
-      <guid>https://wesleytian.github.io/2018/pipe/</guid>
-      <description>Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.
-This is a simplified version of what the input looked like:
-Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { FRUIT banana } ate some { FRUIT banana } .</description>
     </item>
     
     <item>
@@ -66,13 +44,45 @@ Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { F
     </item>
     
     <item>
-      <title>Hosting Hugo Using GitHub</title>
-      <link>https://wesleytian.github.io/2018/a-better-hugo-tutorial/</link>
-      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      <title>How I Became Independent</title>
+      <link>https://wesleytian.github.io/2016/independence/</link>
+      <pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://wesleytian.github.io/2018/a-better-hugo-tutorial/</guid>
-      <description>In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called public and will be inside of your source repository. This will be done by using a git submodule.
-This guide requires you to have git installed, a Hugo website that you can easily clone from it&amp;rsquo;s github repo, and a GitHub account.</description>
+      <guid>https://wesleytian.github.io/2016/independence/</guid>
+      <description>The following is a story about my dad&amp;rsquo;s iron fist and how he guided me to complete independence at a tender age of 18 and what I did about it. &amp;ldquo;When you turn 18, you&amp;rsquo;re on your own.&amp;rdquo; &amp;ldquo;When you turn 18, you&amp;rsquo;re on your own,&amp;rdquo; my dad had told me time and time again ever since I was old enough to begin worrying about college.
+He told me that he would only cover my school tuition.</description>
+    </item>
+    
+    <item>
+      <title>I Don&#39;t Have a Passion. Yet.</title>
+      <link>https://wesleytian.github.io/2016/passionless/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/passionless/</guid>
+      <description>&amp;ldquo;What is your passion?&amp;rdquo; my professor, Rui (pronounced Ray) Wang, asked.
+At first, the question seemed simple. Yet, after pondering it, I realized I didn&amp;rsquo;t have an answer.
+&amp;ldquo;Well&amp;hellip; I&amp;rsquo;m passionate about a lot of things&amp;rdquo;, as I tried to explain. &amp;ldquo;I&amp;rsquo;m passionate about the environment&amp;hellip; and about other things too!&amp;rdquo;
+Compared to Ray&amp;rsquo;s level of passion for his hardware business, my passion for the environment felt like peanuts. It was only an interest.</description>
+    </item>
+    
+    <item>
+      <title>Living with a Professor</title>
+      <link>https://wesleytian.github.io/2016/professor/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/professor/</guid>
+      <description>My freshmen chapter ends here and a new chapter begins. Today is the first day as housemates with my professor, Rui (pronounced REY) Wang from UMass Amherst. I will be working with him on his open-source hardware business for the next 4 months.
+This opportunity is a godsend; the fact that I am making money is peanuts compared to what else I may gain from this invaluable experience. Spending so much time with an associate professor from the Computer Science department will be extremely beneficial to my development as a computer science major and as a student of academia.</description>
+    </item>
+    
+    <item>
+      <title>Experiences vs. Possessions</title>
+      <link>https://wesleytian.github.io/2016/experience/</link>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/experience/</guid>
+      <description>Departure. You don&amp;rsquo;t really feel the emotions of leaving a place that has been your home until about 4 days before the date of departure. Everyone talks about it long before that phase like they are sad and sentimental, but you don&amp;rsquo;t really feel it until it&amp;rsquo;s right upon you.
+Starting yesterday, I&amp;rsquo;ve begun to feel it. All the emotions slowly building up, in addition to the fact that you are physically also preparing yourself, packing, and going through all of your belongings, things that you haven&amp;rsquo;t touched in years.</description>
     </item>
     
   </channel>

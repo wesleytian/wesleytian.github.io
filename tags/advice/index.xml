@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Wesley Tian 2019</copyright>
-    <lastBuildDate>Sun, 16 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wesleytian.github.io/tags/advice/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Résumé Secrets</title>
+      <link>https://wesleytian.github.io/2019/resume_tips/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2019/resume_tips/</guid>
+      <description>1. Change your graduation date Imagine that you&amp;rsquo;re a college sophomore, but you have enough credits to graduate a year early. If you have enough credits to graduate early and you aren&amp;rsquo;t sure whether you will, it can be extremely beneficial to put the earlier graduation date that would put you at a junior standing.
+Imagine it is currently the fall of 2016, you entered college in the fall 2015 and expect to graduate in spring 2019.</description>
+    </item>
+    
+    <item>
+      <title>Tips on Getting Internships</title>
+      <link>https://wesleytian.github.io/2019/internship/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2019/internship/</guid>
+      <description>These tips are the culmination of four years of applying to software engineering internships. During this time, I&amp;rsquo;ve interiewed with and received offers from numerous companies. As with all other tips, take them with a grain of salt. These tips were invaluable to me, but not be for everybody.
+1. Be Flexible  See Rui  2. Pay Attention in Class  Interview with Lam Research asked me what I was learning in class asked me to explain it  3.</description>
+    </item>
     
     <item>
       <title>Advice from a 4.00 GPA CS Freshman</title>
@@ -18,8 +38,8 @@
       <pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://wesleytian.github.io/2016/advice/</guid>
-      <description>1. Take classes with the course chair Taking classes with the course chair for courses with multiple sections such as Linear Algebra guarantees you a proficient teacher. They will most likely provide extra perks such as review sessions and review sheets. You are also guaranteed that the instructor will cover everything on the tests so you won&amp;rsquo;t have to worry about your professor omitting something.
-I took Calculus I with the course chair my freshman year.</description>
+      <description>1. Take classes with the course chair Taking classes with the course chair for courses with many sections such as Linear Algebra guarantees you a proficient teacher. They will most likely provide extra perks such as review sessions and review sheets. You are also guaranteed that the instructor will cover everything on the tests so you won&amp;rsquo;t have to worry about your professor omitting something.
+I took Calculus I with the course chair during my freshman year.</description>
     </item>
     
     <item>
@@ -29,7 +49,7 @@ I took Calculus I with the course chair my freshman year.</description>
       
       <guid>https://wesleytian.github.io/2016/friends/</guid>
       <description>Do your friends define who you are? Take a moment to ponder this thought.
-Initially, the answer is no. You are yourself and there is nobody who can learn who you are by just being around your friends. We are each too unique to be defined that way. Conversely, what if I told you that you were shaped by your friends? You were nurtured by the people you&amp;rsquo;ve met and seen, the conversations and events you shared with your friends.</description>
+Initially, the answer is no. You are yourself and there is nobody who can learn who you are by being around your friends. We are each too unique to be defined that way. Conversely, what if I told you that your friends shaped you? The people you&amp;rsquo;ve met and the conversations that you&amp;rsquo;ve had with your friends with nurtured and shaped the person you are today.</description>
     </item>
     
     <item>

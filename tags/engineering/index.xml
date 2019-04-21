@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineering on Wesley Tian</title>
+    <link>https://wesleytian.github.io/tags/engineering/</link>
+    <description>Recent content in Engineering on Wesley Tian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Wesley Tian 2019</copyright>
+    <lastBuildDate>Wed, 25 Jul 2018 00:14:49 -0400</lastBuildDate>
+    
+	<atom:link href="https://wesleytian.github.io/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Becoming a Better Software Engineer</title>
+      <link>https://wesleytian.github.io/2018/swe/</link>
+      <pubDate>Wed, 25 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>https://wesleytian.github.io/2018/swe/</guid>
+      <description>I&amp;rsquo;ve recently realized that the skills you learn as a software engineer (SWE) are disjoint from the skills that you learn in school. Below are some of my findings.
+1. Nobody knows the answer, but it&amp;rsquo;s out there somewhere. It&amp;rsquo;s up to you and only you to figure it out. That&amp;rsquo;s what the company is paying you to do. Problem-solve.
+When my internship first started, I shot questions at my mentor, full-timers, and other interns what seemed like every hour.</description>
+    </item>
+    
+  </channel>
+</rss>
