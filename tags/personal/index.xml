@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Wesley Tian</title>
+    <link>https://wesleytian.github.io/tags/personal/</link>
+    <description>Recent content in Personal on Wesley Tian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Wesley Tian 2019</copyright>
+    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wesleytian.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>22</title>
+      <link>https://wesleytian.github.io/2019/22/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2019/22/</guid>
+      <description>Yesterday, I turned 22. You could say I had a mini quarter-life crisis. Most people retire at about age 60. That would put me at a third of the way through my career. It&amp;rsquo;s also not news that most people lay the foundations of their career in their 20s and early 30s, leading to an average peak in salary in their 40s.
+ As Meg Jay, Ph.D., author of the Defining Decade says, &amp;ldquo;Eighty percent of life&amp;rsquo;s most defining moments take place by age thirty-five.</description>
+    </item>
+    
+    <item>
+      <title>More Information is Not Always Good</title>
+      <link>https://wesleytian.github.io/2018/information/</link>
+      <pubDate>Thu, 02 Aug 2018 00:14:49 -0400</pubDate>
+      
+      <guid>https://wesleytian.github.io/2018/information/</guid>
+      <description>A few days ago, I was debating with my co-workers Alice and Bob about whether or not having more information is always benefical to a person. I&amp;rsquo;m not going to be able to express their thoughts with high fidelity, so I will only express mine here.
+Having more information does not allow us to make better decisions. In fact, a lot of the time, we can benefit from having less information.</description>
+    </item>
+    
+    <item>
+      <title>Another New Site?</title>
+      <link>https://wesleytian.github.io/2018/another-new-site/</link>
+      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>https://wesleytian.github.io/2018/another-new-site/</guid>
+      <description>So, it seems like every few months I&amp;rsquo;ve been feeling discontent with my personal website, thus prompting me to rehaul my website over and over again. This frequent rehauling can be boiled down to two reasons.
+ I have never really felt satisfied with the overall design and aesthetic of my personal website.
+ I haven&amp;rsquo;t made up my mind about starting my blog back up again or not.
+  I&amp;rsquo;ve been toying around with Jekyll and Bootstrap recently, and then I found Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Hosting Hugo Using GitHub</title>
+      <link>https://wesleytian.github.io/2018/a-better-hugo-tutorial/</link>
+      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>https://wesleytian.github.io/2018/a-better-hugo-tutorial/</guid>
+      <description>In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called public and will be inside of your source repository. This will be done by using a git submodule.
+This guide requires you to have git installed, a Hugo website that you can easily clone from it&amp;rsquo;s github repo, and a GitHub account.</description>
+    </item>
+    
+    <item>
+      <title>Hacking an Inadequate Air Conditioner – Part 2</title>
+      <link>https://wesleytian.github.io/2017/ac_hack_2/</link>
+      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2017/ac_hack_2/</guid>
+      <description>Click here for part 1.
+After my professor and I created the prototype for the Remote Thermostat in, we worked on the printed circuit board layout using EAGLE.
+Then we placed the order through a Chinese website and then waited for the board to be delivered.
+https://opensprinkler.com/introducing-opensprinkler-bee-2-0-a-wifi-enabled-universal-sprinkler-controller/</description>
+    </item>
+    
+    <item>
+      <title>Hacking an Inadequate Air Conditioner – Part 1</title>
+      <link>https://wesleytian.github.io/2016/ac_hack/</link>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/ac_hack/</guid>
+      <description>It was scorching hot this summer in Amherst, Massachusetts. Especially because my room was on the second floor, the room temperature would often rise to over 100° F during midday. The house I stayed in didn&amp;rsquo;t have a central HVAC (heat-ventilation-air-conditioning) system built into the house so we opted for a window AC that could be inserted into the frame of the window and be plugged into the wall outlet for power.</description>
+    </item>
+    
+    <item>
+      <title>The Happiest Moment of My Life</title>
+      <link>https://wesleytian.github.io/2016/olympus/</link>
+      <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/olympus/</guid>
+      <description>Pic: View from Mt. Olympus
+Pic: Sunrise at Refuge A
+I always like to plan things out before I do them. Especially with hiking mountains in a country of which language I did not know, it was especially crucial for me to plan things out before hand. I searched online and found close to nothing that would help me prepare for Mt. Olympus. I basically went to Greece with no knowledge of Mt.</description>
+    </item>
+    
+    <item>
+      <title>Building My Own Headphone Amp</title>
+      <link>https://wesleytian.github.io/2016/amp/</link>
+      <pubDate>Sat, 23 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/amp/</guid>
+      <description>The finished Objective2 headphone amp
+As a music enthusiast, I&amp;rsquo;ve always been in the pursuit of the best sound replication devices. As I researched more and more about headphones and the amazing world of sound replication, I kept reading about these things called amps and DACs (digital-to-analag converters). For a long time, I simply ignored those terms as I felt that they were too advanced for the average Joe. They seemed too complicated and only for the professional studio recorders or niche audiophile market.</description>
+    </item>
+    
+    <item>
+      <title>The Most Important Thing That I Learned This Summer</title>
+      <link>https://wesleytian.github.io/2016/passion/</link>
+      <pubDate>Sat, 23 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/passion/</guid>
+      <description>I&amp;rsquo;ve often been told that passion leads to success. It is one thing to hear a quote and another thing entirely to experience it firsthand. This summer, I was hired as an intern by Rui (pronounced REY) Wang, a computer science professor at the University of Massachusetts Amherst as well as the founder of Ray&amp;rsquo;s Hobby and OpenSprinkler. During these three months, I learned a handful of technical skills as well as professional skills such as problem solving and communication.</description>
+    </item>
+    
+    <item>
+      <title>How I Became Independent at 18</title>
+      <link>https://wesleytian.github.io/2016/independence/</link>
+      <pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/independence/</guid>
+      <description>The following is a story about my dad&amp;rsquo;s iron fist and how he guided me to complete independence at a tender age of 18 and what I did about it. &amp;ldquo;When you turn 18, you&amp;rsquo;re on your own.&amp;rdquo; &amp;ldquo;When you turn 18, you&amp;rsquo;re on your own,&amp;rdquo; my dad had told me time and time again ever since I was old enough to begin worrying about college.
+He told me that he would only cover my school tuition.</description>
+    </item>
+    
+    <item>
+      <title>I Don&#39;t Have a Passion</title>
+      <link>https://wesleytian.github.io/2016/passionless/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/passionless/</guid>
+      <description>&amp;ldquo;What is your passion?&amp;rdquo; my professor, Rui (pronounced REY) Wang, asked.
+At first, the question seemed simple. Yet, after pondering it, I realized I didn&amp;rsquo;t have an answer.
+&amp;ldquo;Well&amp;hellip; I&amp;rsquo;m passionate about a lot of things&amp;rdquo;, I tried to explain. &amp;ldquo;I&amp;rsquo;m passionate about the environment and&amp;hellip; about other things too!&amp;rdquo;
+Compared to Rui&amp;rsquo;s level of passion for his hardware business, my passion for the environment felt like peanuts. It was only an interest.</description>
+    </item>
+    
+    <item>
+      <title>My New Housemate is a Professor</title>
+      <link>https://wesleytian.github.io/2016/professor/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/professor/</guid>
+      <description>My freshmen chapter ends here and a new chapter begins. Today is my first day as housemates with my professor, Rui (pronounced REY) Wang from UMass Amherst. I will be working with him on his open-source hardware business for the next 4 months.
+This opportunity is a godsend. The fact that I am making money is peanuts compared to what else I may gain from this invaluable experience. Spending so much time with an associate professor from the Computer Science department will be extremely beneficial to my development as a computer science major and as a student of academia.</description>
+    </item>
+    
+    <item>
+      <title>Thanks Amigos</title>
+      <link>https://wesleytian.github.io/2016/friends/</link>
+      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/friends/</guid>
+      <description>We&amp;rsquo;ve all heard this quote before:
+ “You are the average of the five people you spend the most time with.” – Jim Rohn
+ Do your friends define who you are? Take a moment to ponder this thought.
+Initially, the answer is no. You are yourself and there is nobody who can learn who you are by being around your friends. We are each too unique to be defined that way.</description>
+    </item>
+    
+    <item>
+      <title>Material Possessions vs. Experiences</title>
+      <link>https://wesleytian.github.io/2016/experience/</link>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2016/experience/</guid>
+      <description>Departure. You don&amp;rsquo;t really feel the emotions of leaving a place that has been your home until about 4 days before the date of departure. Everyone talks about it long before that phase like they are sad and sentimental, but you don&amp;rsquo;t really feel it until it&amp;rsquo;s right upon you.
+Starting yesterday, I&amp;rsquo;ve begun to feel it. All the emotions slowly building up, in addition to the fact that you are physically also preparing yourself, packing, and going through all of your belongings, things that you haven&amp;rsquo;t touched in years.</description>
+    </item>
+    
+    <item>
+      <title>Climbing The North Face</title>
+      <link>https://wesleytian.github.io/2015/yosemite/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2015/yosemite/</guid>
+      <description>It&amp;rsquo;s been nearly a whole year since I summited the half dome in Yosemite Valley National Park. One of my favorite hiking adventures of all time, below is the journal entry that I wrote after the hike.
+Table of Contents  The Ascent The Descent Review Afterword  Half Dome, Yosemite National Park, California. Look familiar? That&amp;rsquo;s because it&amp;rsquo;s a default desktop wallpaper for Apple computers and it was the inspiration for the North Face logo.</description>
+    </item>
+    
+    <item>
+      <title>A Simple Brain Hack To Accomplish More</title>
+      <link>https://wesleytian.github.io/2015/steps/</link>
+      <pubDate>Mon, 27 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2015/steps/</guid>
+      <description>Sometimes you don’t feel like going to the gym. For one reason or another, the real reason is that you’re too lazy and don’t feel like it. Don’t make excuses. But that’s another point.
+Listen up, because I’m going to teach you a way that has made everything for me easier. It works for anything that you’ve been doing, but find yourself having trouble following through sometimes. Your brain works in strange ways and to appeal to your brain you have to take advantage of how your brain works.</description>
+    </item>
+    
+  </channel>
+</rss>

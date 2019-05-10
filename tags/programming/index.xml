@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Wesley Tian</title>
+    <link>https://wesleytian.github.io/tags/programming/</link>
+    <description>Recent content in Programming on Wesley Tian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Wesley Tian 2019</copyright>
+    <lastBuildDate>Tue, 24 Jul 2018 00:14:49 -0400</lastBuildDate>
+    
+	<atom:link href="https://wesleytian.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Super Linux Warp Pipe</title>
+      <link>https://wesleytian.github.io/2018/pipe/</link>
+      <pubDate>Tue, 24 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>https://wesleytian.github.io/2018/pipe/</guid>
+      <description>Today at work I came across a problem that I managed to solve using multiple Linux pipes. What I needed to do to solve the problem was count the frequency of words existing between a certain context.
+This is a simplified version of what the input looked like:
+Where is the { FRUIT apple } ? Is the { PLANT tree } within the ground ? The { FRUIT banana } ate some { FRUIT banana } .</description>
+    </item>
+    
+    <item>
+      <title>Hosting Hugo Using GitHub</title>
+      <link>https://wesleytian.github.io/2018/a-better-hugo-tutorial/</link>
+      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>https://wesleytian.github.io/2018/a-better-hugo-tutorial/</guid>
+      <description>In this short tutorial, you will be creating two repositories, one that will store your Hugo source files, and one that will store the files neccessary to view your website. The website repo is called public and will be inside of your source repository. This will be done by using a git submodule.
+This guide requires you to have git installed, a Hugo website that you can easily clone from it&amp;rsquo;s github repo, and a GitHub account.</description>
+    </item>
+    
+  </channel>
+</rss>
