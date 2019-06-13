@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Wesley Tian 2019</copyright>
-    <lastBuildDate>Wed, 25 Jul 2018 00:14:49 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wesleytian.github.io/tags/work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Land Your Dream Internship</title>
+      <link>https://wesleytian.github.io/2019/internship/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2019/internship/</guid>
+      <description>Here are five pieces of wisdom that I&amp;rsquo;ve gained from applying to hundreds of companies and speaking to hundreds of recruiters in the past four years. These tips aren&amp;rsquo;t just valuable for landing internship offers from the Big 4 (Facebook, Amazon, Microsoft, Google), but also at other companies.
+1. Your Online Presence Matters More Than You Think Some people think that maintaining a personal website or LinkedIn is a waste of time.</description>
+    </item>
     
     <item>
       <title>Becoming a Better Software Engineer</title>
