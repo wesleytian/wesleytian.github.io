@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Wesley Tian 2019</copyright>
-    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wesleytian.github.io/2019/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I Had a 1.95 GPA in High School</title>
+      <link>https://wesleytian.github.io/2019/gpa/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/2019/gpa/</guid>
+      <description>If you don&amp;rsquo;t believe in yourself, nobody else will. – Me
+ During my junior year of high school, when everybody else was trying the hardest that they have ever tried, I was on the verge of being put on academic probation. I ended the first semester of junior year with a 1.95 / 4.00 GPA. For those who aren&amp;rsquo;t familiar with the GPA scale, 1.95 is equal to a C+ (77%-79%).</description>
+    </item>
     
     <item>
       <title>Being President Was The Best Thing I Did In College</title>
@@ -20,16 +30,6 @@
       <guid>https://wesleytian.github.io/2019/president/</guid>
       <description>Serving as the President of the Michigan Data Science Team (MDST) was the best thing I did in college. It was more fulfilling than any personal project, any book I&amp;rsquo;ve read, or any internship I&amp;rsquo;ve done. It also helped me hone several invaluable soft skills that would have been hard to develop in other settings.
 Why Was Being President So Fulfilling? As you will see from the examples below, the things that I did and implemented created real changes in the team.</description>
-    </item>
-    
-    <item>
-      <title>I Had a 1.95/4.00 GPA in High School</title>
-      <link>https://wesleytian.github.io/2019/gpa/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wesleytian.github.io/2019/gpa/</guid>
-      <description>If you don&amp;rsquo;t believe in yourself, nobody else will. – Me
- During my junior year of high school, when everybody else was trying the hardest that they have ever tried, I was on the verge of being put on academic probation. I ended my first semester of junior year with a 1.95 / 4.00 GPA. For those who aren&amp;rsquo;t familiar with the GPA scale, 1.95 is equal to a C+ (77%-79%).</description>
     </item>
     
     <item>
