@@ -4,3 +4,17 @@
   margin-right: auto;
   width: 50%;
 }
+
+.center_norm {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center_norm_rounded {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-radius:15px 15px;
+}
