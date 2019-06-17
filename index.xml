@@ -149,11 +149,11 @@ He was shocked when we told him that this was our first time organizing such an 
 &lt;p&gt;According to a member who&amp;rsquo;s been on the team since its foundation, this was the most successful thing that the organization has ever done.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/president/1.jpeg&#34; alt=&#34;High school junior year transcript&#34;
-title=&#34;I wasn&#39;t kidding.&#34; width=&#34;50%&#34; height=&#34;50%&#34; class=&#34;center&#34;/&gt;
+title=&#34;I wasn&#39;t kidding.&#34; class=&#34;center_norm_rounded&#34;/&gt;
 &lt;center&gt; &lt;em&gt;A team of Chemistry Ph.D. students presenting to a professor&lt;/em&gt; &lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/president/2.jpeg&#34; alt=&#34;High school junior year transcript&#34;
-title=&#34;I wasn&#39;t kidding.&#34; width=&#34;50%&#34; height=&#34;50%&#34; class=&#34;center&#34;/&gt;
+title=&#34;I wasn&#39;t kidding.&#34; class=&#34;center_norm_rounded&#34;/&gt;
 &lt;center&gt; &lt;em&gt;Excited winners&lt;/em&gt; &lt;/center&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Work Sessions&lt;/p&gt;
@@ -226,7 +226,7 @@ title=&#34;I wasn&#39;t kidding.&#34; width=&#34;50%&#34; height=&#34;50%&#34; c
 &lt;p&gt;Two weeks into my junior year at UMich, I recieved a LinkedIn message from a Microsoft recruiter informing me that I was a great fit for their company. She said that I could begin their recruiting process by forwarding her my resume. This was eye-opening for me as I&amp;rsquo;ve never heard of recruiters actually reaching out through LinkedIn. In fact, I didn&amp;rsquo;t email her back for at least a week because I was so sure that things like this didn&amp;rsquo;t happen and that this was some sort of scam. Now, I&amp;rsquo;m glad to say that it wasn&amp;rsquo;t and I was scheduled for an on-campus interview shortly after without having to submit any online application or talk to any recruiter at a career fair.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/internship/linkedin.png&#34; alt=&#34;LinkedIn message from Microsoft recruiter&#34;
-    title=&#34;LinkedIn message&#34; width=&#34;50%&#34; height=&#34;50%&#34; class=&#34;center&#34;/&gt;&lt;/p&gt;&lt;/li&gt;
+    title=&#34;LinkedIn message&#34; class=&#34;center_norm_rounded&#34;/&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;The takeaway here is that your online presence matters. Some recruiters do look at your personal website and LinkedIn profile. So, if you want the best chance at getting interviews, post about your projects and keep your LinkedIn profile up to date.&lt;/p&gt;
@@ -264,7 +264,7 @@ title=&#34;I wasn&#39;t kidding.&#34; width=&#34;50%&#34; height=&#34;50%&#34; c
 &lt;p&gt;The easy part is knowing what the process entails. The hard part is developing the motivation to follow through with your plan. I helped motivate myself by inviting friends to do interview prep with me. When one friend was busy, I invited another friend. This way I always had somebody to keep myself accountable.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/internship/schedule.png&#34; alt=&#34;LeetCode schedule&#34;
-    title=&#34;LeetCode schedule&#34; width=&#34;50%&#34; height=&#34;50%&#34; class=&#34;center&#34;/&gt;&lt;/p&gt;
+    title=&#34;LeetCode schedule&#34; class=&#34;center_norm_rounded&#34;/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;5-beggars-can-t-be-choosers&#34;&gt;5. Beggars Can&amp;rsquo;t Be Choosers&lt;/h3&gt;
 
@@ -645,7 +645,8 @@ And to add the programmable part, I used Blynk to add certain widgets that conne
 
 &lt;p&gt;Location: Litochoro, Greece&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.english-online.at/history/ancient-greece/location-of-mount-olympus.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;!-- ![](http://www.english-online.at/history/ancient-greece/location-of-mount-olympus.gif)
+ --&gt;
 
 &lt;p&gt;&lt;a name=&#34;getting_there&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -653,7 +654,9 @@ And to add the programmable part, I used Blynk to add certain widgets that conne
 
 &lt;p&gt;When you arrive in Greece, it is very common to arrive at the ATH (Athens International Airport). There is a train at St. Larissa* (different from the city named Larissa) St. Larissa is a metro stop on the Red Line.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3110.jpg&#34; alt=&#34;Metro Map&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/IMG_3110.JPG&#34; alt=&#34;Metro&#34;
+    title=&#34;Metro&#34; class=&#34;center_norm_rounded&#34;/&gt;
+&lt;center&gt; &lt;em&gt;Metro&lt;/em&gt; &lt;/center&gt;&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Take the train from St. Larissa (Athens) to Larissa (4 hours)&lt;/li&gt;
@@ -674,18 +677,23 @@ The train will stop a couple of times before reaching a major stop. Listen to &
 
 &lt;h2 id=&#34;preparation&#34;&gt;Preparation&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/IMG_3007.JPG&#34; alt=&#34;Packing List|width: 500px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/IMG_3007.JPG&#34; alt=&#34;Packing List&#34;
+    title=&#34;Packing List&#34; class=&#34;center_norm_rounded&#34;/&gt;
+&lt;center&gt; &lt;em&gt;Packing List&lt;/em&gt; &lt;/center&gt;&lt;/p&gt;
 
-&lt;p&gt;Note: DO NOT bring only nuts. I basically ate none of it then relied on the food at the refuge. Eating only nuts SUCKS! Bars and bread are much better.&lt;br&gt;
-[Sun protection] Sun hat, Sunglasses, Sunscreen&lt;br&gt;
-[Cold protection] Baselayer (long-sleeve recommended), Midlayer (fleece, or softshell jacket) It can get to 5C&lt;br&gt;
-[Wind protection] Pants, windbreaker&lt;br&gt;
-[Food] Snacks with proteins, fats, and carbs, 500-1000 calories (bring more food if you want to spend less money and vice versa)&lt;br&gt;
-[Water] 1.5L&lt;br&gt;
-[Other] Hiking map with trails, compass, camera, first aid kit&lt;br&gt;
-[Overnight stay] Toiletries, plastic bag for trash, charger, phone charger, money&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Sun protection] Sun hat, Sunglasses, Sunscreen&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;[Cold protection] Baselayer (long-sleeve recommended), Midlayer (fleece, or softshell jacket) It can get to 5C&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;[Wind protection] Pants, windbreaker&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;[Food] Snacks with proteins, fats, and carbs, 500-1000 calories (bring more food if you want to spend less money and vice versa)&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;[Water] 1.5L&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;[Other] Hiking map with trails, compass, camera, first aid kit&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;[Overnight stay] Toiletries, plastic bag for trash, charger, phone charger, money&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Overnight stay costs 13 euros and the a full meal costs around 10. Also bring money for the taxis&lt;/p&gt;
+&lt;p&gt;Note: DO NOT bring only nuts. I basically ate none of it then relied on the food at the refuge. Eating only nuts SUCKS! Bars and bread are much better.&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Overnight stay costs 13 euros and the a full meal costs around 10. Also bring money for the taxis.&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&#34;routes&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -718,8 +726,9 @@ Mytikas - The highest peak. (2918 m) Requires YDS class 3 scrambling&lt;/p&gt;
 
 &lt;p&gt;Even the most experienced hikers will follow this approach to hiking Mt. Olympus.&lt;/p&gt;
 
-&lt;p&gt;Day 1
-(You can start the Day 1 Hike anytime you want. I recommend starting it in the morning so it is not as hot and you have more time to adjust to the elevation. More info in the Tips section below.)
+&lt;h4 id=&#34;day-1&#34;&gt;Day 1&lt;/h4&gt;
+
+&lt;p&gt;(You can start the Day 1 Hike anytime you want. I recommend starting it in the morning so it is not as hot and you have more time to adjust to the elevation. More info in the Tips section below.)
 @ T 0-  Take a taxi to Prionia
 @30 min -Begin hike from Prionia towards Refuge A. Follow the E4 trail (basically the only visible trail) and the clear directions towards the Refuge.
 &lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3034.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3034.jpg&lt;/a&gt;
@@ -727,22 +736,33 @@ Mytikas - The highest peak. (2918 m) Requires YDS class 3 scrambling&lt;/p&gt;
 
 &lt;p&gt;Total hiking time: 3 hours&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/IMG_3105.JPG&#34; alt=&#34;Dinner (Spaghetti Bolognese with Orange Soda&#34;
+    title=&#34;Dinner (Spaghetti Bolognese with Orange Soda&#34; class=&#34;center_norm_rounded&#34;/&gt;
+&lt;center&gt; &lt;em&gt;Dinner (Spaghetti Bolognese with Orange Soda&lt;/em&gt; &lt;/center&gt;&lt;/p&gt;
+
 &lt;p&gt;Stay at Refuge A for the night&lt;/p&gt;
 
-&lt;p&gt;Day 2
-6:00 Breakfast opens. Eat breakfast.
+&lt;h4 id=&#34;day-2&#34;&gt;Day 2&lt;/h4&gt;
+
+&lt;p&gt;6:00 Breakfast opens. Eat breakfast.
 7:00 Sun rises, set out for the hike. Follow the E4 trail towards Skala (Ascent)
 (2.25 hours)
 9:30 Arrive at Skala. Take path to Mytikas (Requires Class 3 Scrambling)
 (45 minutes)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/P1220774.JPG&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://wesleytian.github.io/olympus/P1220770.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/P1220774.JPG&#34; alt=&#34;Sunrise from Refuge A&#34;
+    title=&#34;Sunrise from Refuge A&#34; class=&#34;center_norm_rounded&#34;/&gt;
+&lt;center&gt; ** &lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/P1220770.JPG&#34; alt=&#34;Sunrise from Refuge A&#34;
+    title=&#34;Sunrise from Refuge A&#34; class=&#34;center_norm_rounded&#34;/&gt;
+&lt;center&gt; ** &lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;10:30 Reach Mytikas (15 minutes)&lt;br&gt;
 10:45 Start climbing down to Refuge A (Descent) (3 hours)&lt;br&gt;
-13:30 Reach Refuge A. Rest. (1 hour)&lt;br&gt;
-14:30 Refuge A &amp;ndash;Prionia (Descent) (3 hours)&lt;br&gt;
+13:30 Reach Refuge A. Rest. (1 hour)&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;14:30 Refuge A &amp;ndash;Prionia (Descent) (3 hours)&lt;br&gt;
 17:30 Arrive at Prionia. Take Taxi* back to Litochoro (30 minutes)&lt;br&gt;
 18:00 Arrive back at Litochoro.&lt;br&gt;
 Total hiking time: 9 hours&lt;br&gt;&lt;/p&gt;
@@ -767,34 +787,6 @@ I only wore shorts because I thought that it wouldn&amp;rsquo;t be that cold at 
 
 &lt;p&gt;&lt;strong&gt;Will my camera work at such cold temperatures?&lt;/strong&gt;
 Your phone may not work at very cold temperatures, as in the case with my iPhone 6s. At about halfway to Skala from Refuge A, my phone would just die even though it had 30% battery left. I had to keep it tight against my stomach and hope that it would heat up enough so that I could take a few pictures. I was able to take a few from time to time, but for the most part, my phone was inoperable. Bring a camera that can withstand low temperatures to prevent these troubles.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&#34;pictures&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;pictures&#34;&gt;Pictures&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/IMG_3107.JPG&#34; alt=&#34;Litochoro Town Map&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3033.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3033.jpg&lt;/a&gt; Prionia &amp;ndash; Refuge A&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3062.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3062.jpg&lt;/a&gt; Ingenious Plant Species&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3061.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3061.jpg&lt;/a&gt; Ingenious Plant Species&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3053.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3053.jpg&lt;/a&gt; Ingenious Animal Species 1&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3051-1.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3051-1.jpg&lt;/a&gt; Mt. Olympus Landscape&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3069-e1472849132140.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3069-e1472849132140.jpg&lt;/a&gt; Refuge A Sign&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3075.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3075.jpg&lt;/a&gt; Refuge A Interior&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/IMG_3111.JPG&#34; alt=&#34;Refuge A Menu List&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://wesleytian.github.io/olympus/IMG_3105.JPG&#34; alt=&#34;Dinner (Spaghetti Bolognese with Orange Soda&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Refuge A Interior&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3113.jpg&#34; target=&#34;_blank&#34;&gt;http://www.wesleytian.com/wp-content/uploads/2016/09/IMG_3113.jpg&lt;/a&gt; Breakfast (Bread and Tea)&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&#34;final_verdict&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
