@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wesleytian.github.io/2019/startup/</loc>
-    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wesleytian.github.io/2019/gpa/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -143,7 +138,7 @@
   
   <url>
     <loc>https://wesleytian.github.io/2019/</loc>
-    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -211,13 +206,13 @@
   
   <url>
     <loc>https://wesleytian.github.io/</loc>
-    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wesleytian.github.io/tags/work/</loc>
-    <lastmod>2019-06-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
