@@ -178,13 +178,6 @@ title="I wasn't kidding." class="center_norm_rounded"/>
 
       
       <div class="related">
-
-<h3>Similar articles:</h3>
-<ul>
-	
-	<li><a href="/2016/advice/">College Advice</a></li>
-	
-</ul>
 </div>
       
     </div>
@@ -196,8 +189,6 @@ title="I wasn't kidding." class="center_norm_rounded"/>
   <div class="container">
     <aside><div id="disqus_thread"></div></aside>
   
-    <div id="show_comments"><a id="load_comments" class="button is-link">Load comments</a></div>
-  
     <script type="text/javascript">
       var disqus_shortname = 'wesleytian-github-io';
       function disqus() {
@@ -206,17 +197,7 @@ title="I wasn't kidding." class="center_norm_rounded"/>
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
       }
   
-      
-      var hash = window.location.hash.substr(1);
-      if ((hash.length > 8) && (hash.substring(0, 8) === "comment-")) {
-        disqus();
-        document.getElementById("show_comments").style.display = "none";
-      } else {
-        document.getElementById('load_comments').onclick = function() {
-          disqus();
-          document.getElementById("show_comments").style.display = "none";
-        };
-      }
+      disqus();
   
 
     </script>

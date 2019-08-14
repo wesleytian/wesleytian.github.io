@@ -127,21 +127,6 @@
 
       
       <div class="related">
-
-<h3>Similar articles:</h3>
-<ul>
-	
-	<li><a href="/2018/a-better-hugo-tutorial/">Hosting Hugo Using GitHub</a></li>
-	
-	<li><a href="/2017/ac_hack_2/">Hacking an Inadequate Air Conditioner – Part 2</a></li>
-	
-	<li><a href="/2016/ac_hack/">Hacking an Inadequate Air Conditioner – Part 1</a></li>
-	
-	<li><a href="/2016/olympus/">The Happiest Moment of My Life</a></li>
-	
-	<li><a href="/2016/amp/">Building My Own Headphone Amp</a></li>
-	
-</ul>
 </div>
       
     </div>
@@ -153,8 +138,6 @@
   <div class="container">
     <aside><div id="disqus_thread"></div></aside>
   
-    <div id="show_comments"><a id="load_comments" class="button is-link">Load comments</a></div>
-  
     <script type="text/javascript">
       var disqus_shortname = 'wesleytian-github-io';
       function disqus() {
@@ -163,17 +146,7 @@
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
       }
   
-      
-      var hash = window.location.hash.substr(1);
-      if ((hash.length > 8) && (hash.substring(0, 8) === "comment-")) {
-        disqus();
-        document.getElementById("show_comments").style.display = "none";
-      } else {
-        document.getElementById('load_comments').onclick = function() {
-          disqus();
-          document.getElementById("show_comments").style.display = "none";
-        };
-      }
+      disqus();
   
 
     </script>
