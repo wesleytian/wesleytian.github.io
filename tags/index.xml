@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wesley Tian</title>
@@ -7,40 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Wesley Tian 2019</copyright>
-    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wesleytian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Advice</title>
-      <link>https://wesleytian.github.io/tags/advice/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wesleytian.github.io/tags/advice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internship</title>
-      <link>https://wesleytian.github.io/tags/internship/</link>
-      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://wesleytian.github.io/tags/internship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meta</title>
-      <link>https://wesleytian.github.io/tags/meta/</link>
-      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
-      
-      <guid>https://wesleytian.github.io/tags/meta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal</title>
+      <title>personal</title>
       <link>https://wesleytian.github.io/tags/personal/</link>
       <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -49,25 +22,16 @@
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>https://wesleytian.github.io/tags/programming/</link>
-      <pubDate>Tue, 24 Jul 2018 00:14:49 -0400</pubDate>
+      <title>advice</title>
+      <link>https://wesleytian.github.io/tags/advice/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wesleytian.github.io/tags/programming/</guid>
+      <guid>https://wesleytian.github.io/tags/advice/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Project</title>
-      <link>https://wesleytian.github.io/tags/project/</link>
-      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
-      
-      <guid>https://wesleytian.github.io/tags/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>School</title>
+      <title>school</title>
       <link>https://wesleytian.github.io/tags/school/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -76,20 +40,56 @@
     </item>
     
     <item>
-      <title>Travel</title>
-      <link>https://wesleytian.github.io/tags/travel/</link>
-      <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
+      <title>internship</title>
+      <link>https://wesleytian.github.io/tags/internship/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wesleytian.github.io/tags/travel/</guid>
+      <guid>https://wesleytian.github.io/tags/internship/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Work</title>
+      <title>work</title>
       <link>https://wesleytian.github.io/tags/work/</link>
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://wesleytian.github.io/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://wesleytian.github.io/tags/programming/</link>
+      <pubDate>Tue, 24 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta</title>
+      <link>https://wesleytian.github.io/tags/meta/</link>
+      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://wesleytian.github.io/tags/project/</link>
+      <pubDate>Sun, 15 Jul 2018 00:14:49 -0400</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>https://wesleytian.github.io/tags/travel/</link>
+      <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/tags/travel/</guid>
       <description></description>
     </item>
     

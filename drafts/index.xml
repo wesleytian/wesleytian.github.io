@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CV on Wesley Tian</title>
@@ -10,6 +10,16 @@
     
 	<atom:link href="https://wesleytian.github.io/drafts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://wesleytian.github.io/drafts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wesleytian.github.io/drafts/about/</guid>
+      <description>About Wesley Wesley Tian is currently studying Computer Science and Data Science at the University of Michigan. He previously served as the President of the Michigan Data Science Team, a competitive data science team funded by Google, the National Science Foundation, and the Michigan Institute of Data Science. Media outlets such as the The New York Times and others have covered MDST&amp;rsquo;s work for social good.
+In the past few years, Wesley has worked on research and development at an Internet of things startup with Rui Wang&amp;#42;, machine learning research in healthcare with Jenna Wiens, and philosophy in artificial intelligence with Rich Thomason&amp;#42;&amp;#42;.</description>
+    </item>
     
   </channel>
 </rss>
