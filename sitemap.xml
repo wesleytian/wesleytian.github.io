@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wesleytian.github.io/2019/</loc>
+    <loc>https://wesleytian.github.io/2020/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2020/gap_semester/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,13 +23,18 @@
   </url>
   
   <url>
-    <loc>https://wesleytian.github.io/2019/permamenttemporary-communities/</loc>
+    <loc>https://wesleytian.github.io/2020/permamenttemporary-communities/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://wesleytian.github.io/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wesleytian.github.io/2019/</loc>
+    <lastmod>2019-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
