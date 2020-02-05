@@ -88,51 +88,33 @@
 
 &lt;p&gt;Hi!&lt;/p&gt;
 
-&lt;p&gt;Welcome to my website&lt;/p&gt;
+&lt;p&gt;Welcome to my website.&lt;/p&gt;
 
-&lt;p&gt;I made this blog primarily because I enjoy writing and want to get better at it. I also want to share what I&amp;rsquo;ve learned from my real-life experiences with other people, just as others have shared with me (e.g. &lt;a href=&#34;www.pgbovine.net&#34; target=&#34;_blank&#34;&gt;Phillip Guo&lt;/a&gt;, &lt;a href=&#34;blog.samaltman.com&#34; target=&#34;_blank&#34;&gt;Sam Altman&lt;/a&gt;, and &lt;a href=&#34;paulgraham.com&#34; target=&#34;_blank&#34;&gt;Paul Graham&lt;/a&gt;). This blog is intended cover a smorgasbord of topics – from hardware projects to philosophy. If you&amp;rsquo;d like to discuss any post in detail, could you please leave a comment in the respective post&amp;rsquo;s comment section? Thanks.&lt;/p&gt;
+&lt;p&gt;I made this blog primarily because I enjoy writing and want to get better at it. I also want to share what I&amp;rsquo;ve learned from my real-life experiences with other people, just as others have shared with me (e.g. &lt;a href=&#34;www.pgbovine.net&#34; target=&#34;_blank&#34;&gt;Phillip Guo&lt;/a&gt;, &lt;a href=&#34;blog.samaltman.com&#34; target=&#34;_blank&#34;&gt;Sam Altman&lt;/a&gt;, and &lt;a href=&#34;paulgraham.com&#34; target=&#34;_blank&#34;&gt;Paul Graham&lt;/a&gt;). This blog is intended cover a smorgasbord of topics – from hardware projects to philosophy. If you&amp;rsquo;d like to discuss any post in detail, please leave a comment in the respective post&amp;rsquo;s comment section.&lt;/p&gt;
 
 &lt;p&gt;Tags for posts include #work, #personal, #school, #internship, #project, #programming, #advice, and #travel. If you&amp;rsquo;d like to view posts with a certain tag, please navigate to wesleytian.com/tags/name_of_tag (e.g. &lt;a href=&#34;https://wesleytian.github.io/tags/personal&#34;&gt;wesleytian.com/tags/personal&lt;/a&gt;).&lt;/p&gt;
 
-&lt;!-- Wesley Tian is currently studying Computer Science and Data Science at the [University of Michigan](https://umich.edu/). He previously served as the President of the [Michigan Data Science Team](https://www.mdst.club/), a competitive data science team funded by Google, the National Science Foundation, and the [Michigan Institute of Data Science](https://midas.umich.edu/). Media outlets such as the [The New York Times](https://www.nytimes.com/2017/03/27/us/flint-water-lead-pipes.html?_r=0) and others have covered MDST&#39;s work for social good.
-
-In the past few years, Wesley has worked on research and development at an Internet of things startup with [Rui Wang](https://people.cs.umass.edu/~ruiwang/)&amp;#42;, machine learning research in healthcare with [Jenna Wiens](http://www-personal.umich.edu/~wiensj/), and philosophy in artificial intelligence with [Rich Thomason](http://web.eecs.umich.edu/~rthomaso/)&amp;#42;&amp;#42;. Last summer, he was hired by conversational AI startup, [Clinc](https://clinc.com/), to improve their machine learning models. This past summer, he developed internal tools under Microsoft&#39;s Cloud + AI Platform.
-
-He was born in Mountain View, California, and then moved to Oregon, Taiwan, back to Oregon, Shanghai, Massachusetts, and finally, Michigan. He spent the first two years of his undergrad in Amherst, MA, first studying Environmental Science, then Computer Science and Mathematics. He thanks these moves for his openness to different perspectives and helping form many of his unique thoughts. Outside of school and work, he enjoys reading, writing, and hiking. His favorite hikes include Greece&#39;s [Mount Olympus](https://www.alltrails.com/trail/greece/crete--3/mount-olympus-from-prionia-trailhead?u=i), the [Cascade Pass and Sahale Arm Trail](https://www.alltrails.com/trail/us/washington/cascade-pass-and-sahale-arm-trail--2) in Washington&#39;s North Cascades National Park, and [Mount Whitney](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail), the tallest mountain in the contiguous US.
- --&gt;
-
-&lt;p&gt;&amp;#42; See &lt;a href=&#34;https://wesleytian.github.io/2016/ac_hack/&#34; target=&#34;_blank&#34;&gt;Hacking an Inadequate Air Conditioner&lt;/a&gt;. &lt;br&gt;
-&amp;#42;&amp;#42; See &lt;a href=&#34;https://drive.google.com/file/d/1eWGKG3tjlNllsdLcThaYQGSemOWjcSg7/view&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
-
 &lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 
-&lt;p&gt;I&amp;rsquo;m currently finishing up my B.S. in Computer Science and Data Science at the University of Michigan. I&amp;rsquo;ve interned at Microsoft, Clinc, and Fidelity Investments doing software engineering. I previously served as the President of the Michigan Data Science Team. I spend most of my free time hanging out with friends, reading, and writing.&lt;/p&gt;
-
-&lt;p&gt;I was born 10 minutes away from Google HQ in Mountain View, California. Primarily due to my dad&amp;rsquo;s career, I&amp;rsquo;ve lived in California for 5.5 years, Oregon for 3 years, Taiwan for 1.5 years, Shanghai for 8 years, Massachusetts for 2 years, and Michigan for 2.5 years.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m bilingual.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m currently interested in trading and physics.&lt;/p&gt;
-
-&lt;p&gt;I also enjoy mountain climbing. This past summer, I climbed Mt. Whitney (14,505&amp;rsquo;), the tallest mountain in the contiguous USA.&lt;/p&gt;
+&lt;p&gt;I recently graduated from the University of Michigan.&lt;/p&gt;
 
 &lt;h4 id=&#34;about-my-family&#34;&gt;About My Family&lt;/h4&gt;
 
-&lt;p&gt;My sister, Jeni, is currently attending culinary school in France. She was previously the COO of &lt;a href=&#34;https://lacannabisnews.com/chuuuch-cannabis-product-line-with-bishop-don-magic-juan-announced-as-the-latest-addition-to-legacy-brands-internationals-portfolio/&#34; target=&#34;_blank&#34;&gt;Legacy Brands International&lt;/a&gt;, Co-Founder and CEO of &lt;a href=&#34;https://ktla.com/2017/11/29/customize-your-fashion-with-frilly-com/&#34; target=&#34;_blank&#34;&gt;Frilly&lt;/a&gt;, and COO of &lt;a href=&#34;https://en.wikipedia.org/wiki/Karmaloop&#34; target=&#34;_blank&#34;&gt;Karmaloop&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My sister, Jeni Ni, is currently attending culinary school in France. She was previously the COO of &lt;a href=&#34;https://lacannabisnews.com/chuuuch-cannabis-product-line-with-bishop-don-magic-juan-announced-as-the-latest-addition-to-legacy-brands-internationals-portfolio/&#34; target=&#34;_blank&#34;&gt;Legacy Brands International&lt;/a&gt;, Co-Founder and CEO of &lt;a href=&#34;https://ktla.com/2017/11/29/customize-your-fashion-with-frilly-com/&#34; target=&#34;_blank&#34;&gt;Frilly&lt;/a&gt;, and COO of &lt;a href=&#34;https://en.wikipedia.org/wiki/Karmaloop&#34; target=&#34;_blank&#34;&gt;Karmaloop&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;My dad, Jason, is the COO and Executive VP of &lt;a href=&#34;http://en.sypiotech.cn&#34; target=&#34;_blank&#34;&gt;Piotech&lt;/a&gt;, a late-stage semiconductor startup in China. Previously, he was the Senior VP of &lt;a href=&#34;https://www.nikon.com&#34; target=&#34;_blank&#34;&gt;Nikon Precision Shanghai&lt;/a&gt;. He also holds 7 patents. He recieved his B.S. in from , his M.S. in Electrical Engineering from Northeastern University, and MBA from Nanyang Technological University. He enjoys playing golf in his free time.&lt;/p&gt;
+&lt;p&gt;My dad, Jason Tian, is the COO of &lt;a href=&#34;http://en.sypiotech.cn&#34; target=&#34;_blank&#34;&gt;Piotech Co. Ltd.&lt;/a&gt;, a late-stage semiconductor startup in China. Previously, he was the Senior VP of &lt;a href=&#34;https://www.nikon.com&#34; target=&#34;_blank&#34;&gt;Nikon Precision Shanghai&lt;/a&gt;. He also holds 7 patents. He recieved his B.S. in from some university, his M.S. in Electrical Engineering from Northeastern University, and an MBA from Nanyang Technological University. He enjoys playing golf in his free time.&lt;/p&gt;
 
-&lt;p&gt;My mom, Robin, currently dances full-time. She recieved her Doctor of Traditional Chinese Medicine from the Shanghai University of Traditional Chinese Medicine.&lt;/p&gt;
+&lt;p&gt;My mom, Robin Tian is retired. She previously recieved her Doctor of Traditional Chinese Medicine from the Shanghai University of Traditional Chinese Medicine.&lt;/p&gt;
 
 &lt;p&gt;My maternal grandpa, &lt;a href=&#34;https://translate.google.com/translate?sl=auto&amp;amp;tl=en&amp;amp;u=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F王旭东%2F13352093%3Ffr%3Daladdin&#34; target=&#34;_blank&#34;&gt;Wang Xudong&lt;/a&gt; (Chinese: &lt;a href=&#34;https://baike.baidu.com/item/王旭东/13352093?fr=aladdin&#34; target=&#34;_blank&#34;&gt;王旭东&lt;/a&gt;), is a member of the Chinese Artists Association, a professor at the Shandong Art Institute, vice president of the Shandong Provincial Painting and Calligraphy Research Association, chairman of the Huaxia Painting and Calligraphy Art Committee, and an honorary president of the American Asian Artists Association.&lt;/p&gt;
 
-&lt;p&gt;My paternal grandpa is a composer and conductor.&lt;/p&gt;
+&lt;p&gt;My paternal grandpa, Tian SongGang (Chinese: ) is retired. He was previously a professional composer and conductor.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;All views expressed on this site are my own and do not represent the opinions of any entity whatsoever with which I have been, am now, or will be affiliated.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Since 2017, this site has been viewed 6,758 times. Last updated on 6-30-2019.&lt;/p&gt;
+&lt;p&gt;Since 2017, this site has been viewed 8,837 times. 3,722 unique users. Last updated on 2-5-2020.&lt;/p&gt;
 </content>
       
     </item>
