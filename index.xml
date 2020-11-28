@@ -6,7 +6,7 @@
     <generator>Hugo - gohugo.io</generator>
     <language>en</language>
     <contact>tian.wesley@gmail.com</contact>
-    <copyright>&copy; Wesley Tian 2019</copyright>
+    <copyright>&copy; Wesley Tian 2020</copyright>
     
         <atom:link href="https://wesleytian.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>2020s</title>
       <link>https://wesleytian.github.io/2020/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       <author>Wesley Tian</author>
       <guid>https://wesleytian.github.io/2020/</guid>
       <description></description>
@@ -97,10 +97,10 @@
     
     <item>
       <title>About</title>
-      <link>https://wesleytian.github.io/about/</link>
+      <link>https://wesleytian.github.io/about-old/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Wesley Tian</author>
-      <guid>https://wesleytian.github.io/about/</guid>
+      <guid>https://wesleytian.github.io/about-old/</guid>
       <description></description>
       
       <content>
@@ -133,6 +133,27 @@ Both my parents are naturalized Americans citizens of Chinese descent. My dad, J
 &lt;/blockquote&gt;
 
 &lt;p&gt;Views: 9,000+&lt;/p&gt;
+</content>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://wesleytian.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Wesley Tian</author>
+      <guid>https://wesleytian.github.io/about/</guid>
+      <description></description>
+      
+      <content>&lt;p&gt;See &lt;a href=&#34;https://wesleytian.com&#34; target=&#34;_blank&#34;&gt;wesleytian.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;All views expressed on this site are my own and do not represent the opinions of any entity whatsoever with which I have been, am now, or will be affiliated.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Views: 12,139&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Last updated at Nov 27, 2020 17:22 PT.)&lt;/em&gt;&lt;/p&gt;
 </content>
       
     </item>
